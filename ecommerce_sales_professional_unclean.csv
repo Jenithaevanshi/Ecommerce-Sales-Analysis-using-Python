@@ -1,0 +1,1021 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Gender,Age,City,State,Region,Product_ID,Product_Name,Category,Brand,Quantity,Unit_Price,Discount_%,Cost_Price,Total_Sales,Profit,Payment_Mode,Order_Status,Shipping_Cost,Delivery_Days,Rating
+ORD100001,14-07-2025,C1274,Customer_288,Female,39,Chennai,Tamil Nadu,North,P1436,Python Book,Books,Dell,7,999,0,800.75,6993.0,1387.75,Credit Card,Delivered,59,6,5
+ORD100002,05-02-2025,C1003,Customer_162,Female,24,Erode,Tamil Nadu,West,P1463,Oil,Groceries,Dell,1,2499,150,2033.16,2499.0,465.84,UPI,Delivered,233,3,1
+ORD100003,25-06-2025,C1267,Customer_248,Male,56,Trichy,Tamil Nadu,Central,P1327,Cream,Beauty,Apple,8,999,15,800.55,6793.2,388.8,Net Banking,Delivered,196,1,4
+ORD100004,27-11-2025,C1092,,Female,60,Tirunelveli,Tamil Nadu,South,P1134,Train,Toys,Samsung,8,9999,15,6622.9,67993.2,15010.0,Debit Card,Delivered,56,9,4
+ORD100005,07-01-2025,C1180,Customer_118,Female,52,Coimbatore,Tamil Nadu,West,P1256,Bottle,Home,Dell,6,199,5,144.45,1134.3,267.6,Debit Card,Returned,226,4,5
+ORD100006,22-08-2025,C1098,Customer_11,Female,40,Vellore,Tamil Nadu,North,P1350,Table,Furniture,Puma,8,2499,15,1407.53,16993.2,5732.96,Cash,Returned,108,1,1
+ORD100007,07-02-2025,C1279,Customer_207,Male,38,Coimbatore,Tamil Nadu,West,P1134,Doll,Toys,Boat,2,299,15,244.95,508.3,18.4,UPI,Cancelled,233,6,4
+ORD100008,10-07-2025,C1120,Customer_41,Male,51,Erode,Tamil Nadu,West,P1198,Printer,Electronics,Apple,3,2499,0,1912.52,7497.0,1759.44,Debit Card,Delivered,113,5,4
+ORD100009,10-08-2025,C1031,Customer_70,Female,60,Erode,Tamil Nadu,West,P1010,Cupboard,Furniture,LG,6,9999,0,7388.11,59994.0,15665.34,Cash,Returned,237,5,4
+ORD100010,14-09-2025,C1053,Customer_280,Female,32,Chennai,Tamil Nadu,North,P1457,Cupboard,Furniture,Local,6,9999,20,7169.02,47995.2,4981.08,Debit Card,Delivered,215,5,5
+ORD100011,11-04-2025,C1258,Customer_103,Male,30,Salem,Tamil Nadu,West,P1137,Milk,Groceries,Local,5,2499,0,2077.87,12495.0,2105.65,Credit Card,Delivered,81,10,3
+ORD100012,10-09-2025,C1203,Customer_15,Female,63,Coimbatore,Tamil Nadu,West,P1426,Shoes,Sports,Local,3,9999,5,7857.45,28497.15,4924.8,Cash,Delivered,287,7,2
+ORD100013,20-12-2025,C1026,Customer_185,Female,41,Madurai,Tamil Nadu,South,P1490,Charger,Accessories,Sony,1,4999,10,3792.91,4499.1,706.19,Debit Card,Delivered,102,4,4
+ORD100014,31-03-2025,C1286,Customer_193,Female,22,Erode,Tamil Nadu,West,P1471,Oil,Groceries,Puma,7,199,15,131.86,1184.05,261.03,UPI,Delivered,175,9,5
+ORD100015,05-05-2025,C1228,Customer_137,Female,54,Erode,Tamil Nadu,West,P1292,Monitor,Electronics,LG,1,2499,10,1455.02,2249.1,794.08,Credit Card,Returned,206,9,5
+ORD100016,09-03-2025,C1244,Customer_274,Male,48,Trichy,Tamil Nadu,Central,P1277,Football,Sports,Samsung,3,299,0,202.85,897.0,288.45,Debit Card,Delivered,294,4,5
+ORD100017,19-12-2025,C1032,Customer_130,Female,28,Chennai,Tamil Nadu,North,P1213,Lamp,Home,LG,5,199,10,153.02,895.5,130.4,Cash,Delivered,156,10,1
+ORD100018,05-06-2025,C1255,Customer_240,Male,36,Vellore,Tamil Nadu,North,P1270,Table,Furniture,HP,1,999,20,599.18,799.2,200.02,UPI,Returned,139,10,5
+ORD100019,26-02-2025,C1030,Customer_292,Female,59,Trichy,Tamil Nadu,Central,P1223,Eggs,Groceries,Apple,2,2499,15,1972.54,4248.3,303.22,Debit Card,Delivered,269,8,2
+ORD100020,06-01-2025,C1211,Customer_165,Male,20,Salem,Tamil Nadu,West,P1473,Oil,Groceries,Nike,1,799,5,457.05,759.05,302.0,Cash,Delivered,53,3,3
+ORD100021,20-03-2025,C1238,Customer_116,Female,32,Coimbatore,Tamil Nadu,West,P1261,Data Science Book,Books,Sony,6,799,20,445.67,3835.2,1161.18,Cash,Cancelled,225,4,4
+ORD100022,06-03-2025,C1062,Customer_236,Femle,53,Coimbatore,Tamil Nadu,West,P1314,Fan,Home,Dell,5,499,15,383.91,2120.75,201.2,Cash,Cancelled,94,6,3
+ORD100023,31-10-2025,C1166,Customer_43,Male,42,Erode,Tamil Nadu,West,P1092,Bread,Groceries,Sony,1,299,20,238.87,239.2,0.33,Credit Card,Returned,88,3,1
+ORD100024,13-04-2025,C1207,Customer_31,Male,27,Madurai,Tamil Nadu,South,P1058,Jacket,Clothing,Boat,1,299,5,184.1,284.05,99.95,UPI,Delivered,260,1,3
+ORD100025,12-12-2025,C1004,Customer_150,Female,60,Vellore,Tamil Nadu,North,P1205,Oil,Groceries,LG,4,2499,10,1877.94,8996.4,1484.64,Credit Card,Delivered,85,1,5
+ORD100026,06-11-2025,C1278,Customer_135,Female,53,Coimbatore,Tamil Nadu,West,P1188,Jeans,Clothing,LG,5,799,5,573.04,3795.25,930.05,Credit Card,Returned,40,1,5
+ORD100027,10-02-2025,C1193,Customer_95,Female,46,Trichy,Tamil Nadu,Central,P1440,Tennis Ball,Sports,HP,1,1499,20,1165.71,1199.2,33.49,Net Banking,Cancelled,190,4,4
+ORD100028,18-07-2025,C1013,Customer_134,Male,58,Coimbatore,Tamil Nadu,West,P1344,Oil,Groceries,Samsung,6,2499,15,1586.84,12744.9,3223.86,Credit Card,Delivered,123,3,1
+ORD100029,04-07-2025,C1066,Customer_130,Female,23,Madurai,Tamil Nadu,South,P1317,Watch,Accessories,Puma,5,299,0,196.84,1495.0,510.8,Net Banking,Cancelled,170,2,5
+ORD100030,14-11-2025,C1051,,Female,40,Coimbatore,Tamil Nadu,West,P1482,Tennis Ball,Sports,Samsung,5,4999,5,2757.47,23745.25,9957.9,Credit Card,Returned,97,1,4
+ORD100031,04-08-2025,C1086,Customer_200,Female,22,Salem,Tamil Nadu,West,P1447,Rice,Groceries,Dell,7,499,0,300.6,3493.0,1388.8,UPI,Cancelled,176,7,3
+ORD100032,12-01-2025,C1074,Customer_158,Female,30,Chennai,Tamil Nadu,North,P1218,Train,Toys,Nike,4,999,10,728.5,3596.4,682.4,Cash,Delivered,213,7,1
+ORD100033,18-08-2025,C1296,Customer_98,Female,54,Madurai,Tamil Nadu,South,P1367,Bed,Furniture,Sony,1,9999,5,8191.72,9499.05,1307.33,Net Banking,Delivered,72,2,2
+ORD100034,26-11-2025,C1268,Customer_51,Male,44,Coimbatore,Tamil Nadu,West,P1408,Fan,Home,Boat,5,199,5,149.76,945.25,196.45,Net Banking,Returned,119,6,2
+ORD100035,31-13-2025,C1298,Customer_155,Female,50,Tirunelveli,Tamil Nadu,South,P1215,Lotion,Beauty,Puma,2,299,0,183.82,598.0,230.36,Debit Card,Returned,109,3,5
+ORD100036,21-08-2025,C1126,Customer_283,Female,19,Coimbatore,Tamil Nadu,West,P1190,Headphones,Electronics,Puma,3,9999,20,8329.78,23997.6,-991.74,Cash,Delivered,91,5,5
+ORD100037,10-07-2025,C1215,Customer_91,Male,60,Erode,Tamil Nadu,West,P1316,Oil,Groceries,HP,1,1499,0,1087.94,1499.0,411.06,Credit Card,Cancelled,291,7,2
+ORD100038,29-11-2025,C1136,Customer_173,Female,29,Coimbatore,Tamil Nadu,West,P1120,Lamp,Home,HP,4,9999,15,6505.09,33996.6,7976.24,UPI,Cancelled,253,3,3
+ORD100039,18-09-2025,C1093,Customer_249,Male,48,Chennai,Tamil Nadu,North,P1079,Table,Furniture,Puma,3,2499,5,1952.76,7122.15,1263.87,Debit Card,Cancelled,167,8,2
+ORD100040,02-08-2025,C1045,Customer_168,Female,47,Coimbatore,Tamil Nadu,West,P1007,Lotion,Beauty,HP,8,2499,10,1409.9,17992.8,6713.6,UPI,Delivered,259,6,3
+ORD100041,01-12-2025,C1229,Customer_104,Female,45,Salem,Tamil Nadu,West,P1327,Train,Toys,Dell,8,1499,5,839.14,11392.4,4679.28,Debit Card,Delivered,104,5,3
+ORD100042,31-13-2025,C1248,Customer_264,Female,43,Trichy,Tamil Nadu,Central,P1360,Jacket,Clothing,Boat,4,199,150,142.79,796.0,224.84,UPI,Delivered,45,3,3
+ORD100043,18-09-2025,C1192,Customer_53,Male,34,Salem,Tamil Nadu,West,P1045,Jersey,Sports,HP,-4,4999,0,3343.21,34993.0,11590.53,Debit Card,Delivered,223,4,1
+ORD100044,27-01-2025,C1048,Customer_154,Female,42,Coimbatore,Tamil Nadu,West,P1426,Lotion,Beauty,LG,8,2499,15,1910.21,16993.2,1711.52,Debit Card,Delivered,252,2,3
+ORD100045,27-05-2025,C1161,Customer_147,Male,38,Madurai,Tamil Nadu,South,P1309,T-Shirt,Clothing,Boat,8,2499,20,1615.37,15993.6,3070.64,Debit Card,Delivered,144,9,1
+ORD100046,25-03-2025,C1100,Customer_238,Female,39,Vellore,Tamil Nadu,North,P1243,Table,Furniture,Boat,6,799,15,573.23,4074.9,635.52,Cash,Delivered,199,7,3
+ORD100047,30-04-2025,C1029,Customer_83,Female,50,Coimbatore,Tamil Nadu,West,P1227,Perfume,Beauty,Local,2,1499,15,1079.08,2548.3,390.14,Debit Card,Cancelled,106,4,3
+ORD100048,08-07-2025,C1238,Customer_70,Male,40,Madurai,Tamil Nadu,South,P1358,Car,Toys,Local,7,299,20,199.04,1674.4,281.12,Credit Card,Delivered,72,5,4
+ORD100049,08-04-2025,C1025,Customer_159,Male,57,Madurai,Tamil Nadu,South,P1229,Sofa,Furniture,Dell,5,799,20,635.16,3196.0,20.2,Credit Card,Delivered,191,6,5
+ORD100050,31-03-2025,C1236,Customer_223,Male,24,Madurai,Tamil Nadu,South,P1284,Football,Sports,Apple,2,799,0,522.73,1598.0,552.54,UPI,Cancelled,82,4,1
+ORD100051,24-07-2025,C1011,Customer_250,Female,45,Tirunelveli,Tamil Nadu,South,P1221,Table,Furniture,Local,5,499,15,388.95,2120.75,176.0,Credit Card,Cancelled,228,3,7
+ORD100052,23-03-2025,C1271,Customer_87,Male,49,Salem,Tamil Nadu,West,P1458,Data Science Book,Books,HP,8,9999,5,8467.21,75992.4,8254.72,UPI,Delivered,141,3,1
+ORD100053,15-10-2025,C1152,Customer_137,Male,27,Vellore,Tamil Nadu,North,P1316,Soap,Beauty,Nike,4,2499,0,1967.15,9996.0,2127.4,Credit Card,Delivered,168,2,4
+ORD100054,06-10-2025,C1158,Customer_50,Female,58,Trichy,Tamil Nadu,Central,P1012,Fan,Home,Samsung,3,4999,10,3506.43,13497.3,2978.01,Debit Card,Delivered,263,3,7
+ORD100055,29-04-2025,C1183,Customer_131,Female,54,Vellore,Tamil Nadu,North,P1269,Python Book,Books,HP,8,4999,10,3308.46,35992.8,9525.12,UPI,Delivered,103,6,3
+ORD100056,16-04-2025,C1231,Customer_74,Male,65,Vellore,Tamil Nadu,North,P1412,Bottle,Home,Sony,3,499,5,301.31,1422.15,518.22,Debit Card,Returned,210,3,3
+ORD100057,12-12-2025,C1117,Customer_80,Female,46,Erode,Tamil Nadu,West,P1412,Cream,Beauty,Local,7,199,5,168.18,1323.35,146.09,Debit Card,Delivered,155,8,3
+ORD100058,09-09-2025,C1093,Customer_82,Male,51,Vellore,Tamil Nadu,North,P1064,Mouse,Electronics,Samsung,1,999,5,790.23,949.05,158.82,Debit Card,Returned,133,9,4
+ORD100059,29-04-2025,C1224,Customer_155,Male,41,Chennai,Tamil Nadu,North,P1085,Cream,Beauty,Sony,7,999,10,787.33,6293.7,782.39,Debit Card,Returned,78,9,4
+ORD100060,21-01-2025,C1191,Customer_68,Male,32,Chennai,Tamil Nadu,North,P1010,Mouse,Electronics,HP,3,4999,15,3092.98,12747.45,3468.51,UPI,Cancelled,293,9,5
+ORD100061,18-11-2025,C1101,Customer_265,Male,30,Vellore,Tamil Nadu,North,P1017,Train,Toys,Apple,8,999,5,646.64,7592.4,2419.28,Credit Card,Delivered,240,5,4
+ORD100062,10-07-2025,C1119,Customer_187,Male,57,Trichy,Tamil Nadu,Central,P1224,Cupboard,Furniture,Dell,7,1499,5,935.64,9968.35,3418.87,UPI,Delivered,79,10,5
+ORD100063,25-11-2025,C1210,Customer_126,Female,55,Chennai,Tamil Nadu,North,P1320,Belt,Accessories,Puma,6,299,5,221.44,1704.3,375.66,Credit Card,Cancelled,195,6,3
+ORD100064,23-03-2025,C1234,Customer_255,Male,59,Vellore,Tamil Nadu,North,P1068,Charger,Accessories,Samsung,5,4999,10,3513.31,22495.5,4928.95,Cash,Delivered,227,6,4
+ORD100065,11-11-2025,C1065,Customer_135,Male,45,Vellore,Tamil Nadu,North,P1070,Oil,Groceries,Local,6,199,5,148.29,1134.3,244.56,Net Banking,Returned,127,7,2
+ORD100066,24-06-2025,C1172,Customer_105,Female,43,Chennai,Tamil Nadu,North,P1287,Shirt,Clothing,HP,4,499,5,282.49,1896.2,766.24,Net Banking,Delivered,295,7,2
+ORD100067,05-04-2025,C1223,Customer_175,Female,63,Tirunelveli,Tamil Nadu,South,P1056,Desk,Furniture,Dell,4,1499,20,1150.14,4796.8,196.24,Cash,Delivered,59,10,1
+ORD100068,04-05-2025,C1097,,Female,19,Tirunelveli,Tamil Nadu,South,P1018,Jeans,Clothing,HP,2,499,10,371.37,898.2,155.46,Net Banking,Delivered,170,8,3
+ORD100069,28-02-2025,C1216,Customer_56,Mle,22,Madurai,Tamil Nadu,South,P1337,Bed,Furniture,LG,8,4999,20,4228.62,31993.6,-1835.36,UPI,Delivered,161,8,5
+ORD100070,16-11-2025,C1156,Customer_49,Male,33,Salem,Tamil Nadu,West,P1002,Car,Toys,Puma,4,799,5,478.78,3036.2,1121.08,Debit Card,Delivered,176,2,2
+ORD100071,06-05-2025,C1188,Customer_172,Female,57,Trichy,Tamil Nadu,Central,P1107,Laptop,Electronics,Apple,5,299,20,222.89,1196.0,81.55,Cash,Returned,242,1,1
+ORD100072,09-10-2025,C1104,Customer_178,Male,26,Chennai,Tamil Nadu,North,P1488,T-Shirt,Clothing,Local,8,2499,5,1766.81,18992.4,4857.92,Credit Card,Cancelled,45,10,3
+ORD100073,15-05-2025,C1210,Customer_238,Female,25,Trichy,Tamil Nadu,Central,P1064,Shoes,Clothing,Boat,1,299,10,240.78,269.1,28.32,Credit Card,Cancelled,79,9,5
+ORD100074,12-04-2025,C1114,Customer_233,Female,22,Trichy,Tamil Nadu,Central,P1047,Train,Toys,Boat,6,4999,20,4160.58,23995.2,-968.28,Credit Card,Returned,126,7,2
+ORD100075,28-09-2025,C1055,Customer_225,Male,26,Tirunelveli,Tamil Nadu,South,P1245,Notebook,Books,Sony,5,9999,20,7146.29,39996.0,4264.55,Credit Card,Returned,49,2,3
+ORD100076,01-06-2025,C1040,Customer_127,Male,51,Madurai,Tamil Nadu,South,P1201,Rice,Groceries,LG,2,999,10,590.48,1798.2,617.24,Cash,Delivered,263,5,2
+ORD100077,20-09-2025,C1153,Customer_68,Female,29,Trichy,Tamil Nadu,Central,P1145,Curtain,Home,HP,4,4999,0,3064.28,19996.0,7738.88,Cash,Delivered,126,4,4
+ORD100078,13-08-2025,C1223,Customer_88,Female,37,Vellore,Tamil Nadu,North,P1153,Chair,Furniture,Dell,5,9999,20,5522.57,39996.0,12383.15,Credit Card,Returned,153,4,1
+ORD100079,28-03-2025,C1011,Customer_283,Male,25,Chennai,Tamil Nadu,North,P1074,Tennis Ball,Sports,Samsung,3,2499,20,1422.62,5997.6,1729.74,Net Banking,Cancelled,275,9,5
+ORD100080,04-04-2025,C1215,Customer_250,Male,19,Chennai,Tamil Nadu,North,P1432,Laptop,Electronics,Local,4,4999,15,3752.31,16996.6,1987.36,Debit Card,Delivered,223,7,5
+ORD100081,02-04-2025,C1255,Customer_10,Female,26,Erode,Tamil Nadu,West,P1160,Robot,Toys,Local,1,9999,5,6019.39,9499.05,3479.66,Cash,Cancelled,189,8,3
+ORD100082,10-12-2025,C1011,Customer_105,Female,49,Madurai,Tamil Nadu,South,P1489,Jeans,Clothing,Sony,8,1499,0,1224.6,11992.0,2195.2,UPI,Cancelled,230,8,4
+ORD100083,01-12-2025,C1097,Customer_102,Male,32,Salem,Tamil Nadu,West,P1268,Bread,Groceries,Apple,2,9999,20,6629.07,15998.4,2740.26,Credit Card,Delivered,93,5,4
+ORD100084,07-12-2025,C1041,Customer_8,Female,60,Trichy,Tamil Nadu,Central,P1200,Cupboard,Furniture,Sony,2,199,10,142.84,358.2,72.52,Net Banking,Delivered,262,10,3
+ORD100085,05-07-2025,C1105,Customer_28,Male,44,Vellore,Tamil Nadu,North,P1088,Bottle,Home,Local,3,499,0,411.75,1497.0,261.75,UPI,Delivered,84,5,3
+ORD100086,04-06-2025,C1147,Customer_146,Female,19,Trichy,Tamil Nadu,Central,P1334,Bag,Accessories,HP,5,9999,5,7061.77,47495.25,12186.4,Net Banking,Delivered,60,6,1
+ORD100087,19-12-2025,C1235,Customer_266,Male,26,Trichy,Tamil Nadu,Central,P1145,Cap,,Puma,-4,199,20,167.09,636.8,-31.56,Debit Card,Cancelled,300,7,3
+ORD100088,19-05-2025,C1212,Customer_256,Male,39,Madurai,Tamil Nadu,South,P1145,Car,Toys,Apple,4,4999,15,3118.23,16996.6,4523.68,UPI,Delivered,126,8,2
+ORD100089,01-03-2025,C1299,Customer_92,Female,34,Erode,Tamil Nadu,West,P1097,Tennis Ball,Sports,Apple,6,9999,10,8107.83,53994.6,5347.62,Debit Card,Delivered,63,8,3
+ORD100090,08-09-2025,C1028,Customer_52,Female,53,Salem,Tamil Nadu,West,P1071,Jersey,Sports,Apple,8,1499,15,1138.6,10193.2,1084.4,Debit Card,Returned,292,2,3
+ORD100091,27-12-2025,C1035,Customer_110,Female,22,Trichy,Tamil Nadu,Central,P1223,T-Shirt,Clothing,HP,3,4999,10,2966.07,13497.3,4599.09,Cash,Delivered,224,8,2
+ORD100092,08-10-2025,C1080,Customer_61,Male,39,Salem,Tamil Nadu,West,P1018,Mouse,Electronics,Apple,3,499,0,371.04,1497.0,383.88,Credit Card,Returned,42,7,3
+ORD100093,20-05-2025,C1033,Customer_275,Male,19,Madurai,Tamil Nadu,South,P1282,Football,Sports,Local,3,2499,5,2018.49,7122.15,1066.68,UPI,Delivered,103,3,4
+ORD100094,19-07-2025,C1096,Customer_108,Male,36,Tirunelveli,Tamil Nadu,South,P1307,Fan,Home,Dell,1,799,0,590.29,799.0,208.71,Cash,Returned,49,9,4
+ORD100095,26-02-2025,C1217,Customer_180,Male,42,Vellore,Tamil Nadu,North,P1167,Python Book,Books,LG,3,2499,15,1932.26,6372.45,575.67,Credit Card,Delivered,160,2,1
+ORD100096,31-13-2025,C1038,Customer_284,Female,19,Tirunelveli,Tamil Nadu,South,P1094,Shoes,Clothing,Sony,5,9999,10,6450.44,44995.5,12743.3,Cash,Returned,291,8,7
+ORD100097,11-02-2025,C1141,Customer_162,Male,30,Trichy,Tamil Nadu,Central,P1393,Notebook,Books,HP,8,799,20,551.94,5113.6,698.08,Credit Card,Cancelled,233,6,5
+ORD100098,24-01-2025,C1157,Customer_48,Female,51,Tirunelveli,Tamil Nadu,South,P1069,Monitor,Electronics,LG,3,4999,10,2842.45,13497.3,4969.95,Credit Card,Delivered,271,3,1
+ORD100099,10-09-2025,C1158,Customer_109,Male,36,Madurai,Tamil Nadu,South,P1433,Watch,Accessories,Puma,6,1499,20,1242.85,7195.2,-261.9,Credit Card,Returned,234,5,5
+ORD100100,07-03-2025,C1194,Customer_34,Female,45,Chennai,Tamil Nadu,North,P1060,T-Shirt,Clothing,Puma,4,4999,0,3974.2,19996.0,4099.2,UPI,Delivered,158,9,2
+ORD100101,16-11-2025,C1238,Customer_137,Male,19,Madurai,Tamil Nadu,South,P1400,Jersey,Sports,Sony,5,1499,10,1084.45,6745.5,1323.25,Debit Card,Delivered,255,4,3
+ORD100102,12-11-2025,C1174,Customer_159,Male,44,Tirunelveli,Tamil Nadu,South,P1230,Desk,Furniture,Apple,6,2499,5,1956.13,14244.3,2507.52,Debit Card,Cancelled,127,9,5
+ORD100103,22-08-2025,C1022,Customer_77,Male,22,Erode,Tamil Nadu,West,P1422,Notebook,Books,Samsung,4,199,10,149.81,716.4,117.16,Credit Card,Delivered,129,8,2
+ORD100104,29-03-2025,C1057,Customer_202,Male,57,Coimbatore,Tamil Nadu,West,P1101,Eggs,Groceries,Boat,1,199,20,166.24,159.2,-7.04,Credit Card,Delivered,106,2,4
+ORD100105,31-01-2025,C1009,Customer_260,Female,54,Erode,Tamil Nadu,West,P1274,Sugar,Groceries,Boat,2,2499,15,1649.32,4248.3,949.66,Debit Card,Delivered,59,8,5
+ORD100106,31-13-2025,C1188,Customer_65,Male,44,Erode,Tamil Nadu,West,P1363,Lotion,Beauty,Dell,1,1499,10,932.62,1349.1,416.48,Credit Card,Returned,173,1,4
+ORD100107,29-12-2025,C1243,Customer_274,Female,39,Vellore,Tamil Nadu,North,P1190,Car,Toys,Local,7,2499,20,2037.93,13994.4,-271.11,Debit Card,Cancelled,227,6,5
+ORD100108,05-04-2025,C1163,Customer_50,Female,63,Erode,Tamil Nadu,West,P1140,Doll,Toys,HP,7,799,20,477.54,4474.4,1131.62,Debit Card,Delivered,55,10,1
+ORD100109,10-10-2025,C1181,Customer_75,Female,65,Trichy,Tamil Nadu,Central,P1028,Bag,Accessories,Dell,5,1499,0,1038.2,7495.0,2304.0,Net Banking,Returned,72,2,5
+ORD100110,09-01-2025,C1001,Customer_243,Female,49,Trichy,Tamil Nadu,Central,P1321,Bed,Furniture,HP,3,799,10,553.3,2157.3,497.4,Net Banking,Returned,223,10,2
+ORD100111,28-04-2025,C1135,Customer_91,Male,41,Erode,Tamil Nadu,West,P1257,Milk,Groceries,Puma,2,999,20,771.54,1598.4,55.32,Debit Card,Cancelled,249,5,2
+ORD100112,26-10-2025,C1205,Customer_41,Female,24,Erode,Tamil Nadu,West,P1329,Jeans,Clothing,Nike,8,299,10,177.41,2152.8,733.52,Cash,Returned,68,2,1
+ORD100113,24-08-2025,C1248,Customer_298,Female,32,Salem,Tamil Nadu,West,P1218,Wallet,Accessories,LG,6,2499,0,1785.4,14994.0,4281.6,Cash,Returned,235,2,4
+ORD100114,03-06-2025,C1003,Customer_235,Female,49,Vellore,Tamil Nadu,North,P1412,SQL Book,,Local,3,4999,20,3452.21,11997.6,1640.97,UPI,Delivered,293,7,1
+ORD100115,16-03-2025,C1258,Customer_28,Male,64,Trichy,Tamil Nadu,Central,P1237,Laptop,Electronics,HP,1,299,10,186.36,269.1,82.74,Cash,Delivered,91,2,1
+ORD100116,23-06-2025,C1087,Customer_3,Female,25,Erode,Tamil Nadu,West,P1098,Mixer,Home,LG,2,299,5,245.15,568.1,77.8,UPI,Delivered,57,8,1
+ORD100117,12-02-2025,C1151,Customer_59,Male,57,Coimbatore,Tamil Nadu,West,P1116,Sugar,Groceries,Puma,6,2499,15,1833.74,12744.9,1742.46,UPI,Delivered,141,1,4
+ORD100118,27-10-2025,C1105,Customer_253,Male,47,Tirunelveli,Tamil Nadu,South,P1389,Soap,Beauty,Puma,7,999,10,669.58,6293.7,1606.64,Cash,Delivered,213,6,1
+ORD100119,24-03-2025,C1125,Customer_60,Female,20,Tirunelveli,Tamil Nadu,South,P1070,Jersey,Sports,Apple,5,999,15,785.64,4245.75,317.55,Credit Card,Delivered,300,8,3
+ORD100120,22-06-2025,C1242,Customer_300,Male,35,Salem,Tamil Nadu,West,P1315,Cooker,Home,HP,5,4999,10,3087.47,22495.5,7058.15,Net Banking,Delivered,269,9,5
+ORD100121,23-12-2025,C1246,Customer_7,Female,64,Salem,Tamil Nadu,West,P1324,Headphones,Electronics,LG,3,799,5,611.8,2277.15,441.75,Credit Card,Delivered,78,9,1
+ORD100122,11-07-2025,C1111,,Male,54,Erode,Tamil Nadu,West,P1436,Cricket Bat,Sports,Puma,6,199,15,124.76,1014.9,266.34,Net Banking,Delivered,181,3,3
+ORD100123,26-03-2025,C1125,Customer_289,Male,58,Coimbatore,Tamil Nadu,West,P1460,Shoes,Clothing,Boat,8,9999,20,7703.86,63993.6,2362.72,Net Banking,Delivered,200,10,1
+ORD100124,03-12-2025,C1152,Customer_68,Female,44,Salem,Tamil Nadu,West,P1364,Belt,Accessories,Nike,8,1499,0,893.79,11992.0,4841.68,Cash,Delivered,78,4,3
+ORD100125,02-02-2025,C1044,Customer_90,Female,65,Coimbatore,Tamil Nadu,West,P1082,Keyboard,Electronics,Sony,2,199,15,161.1,338.3,16.1,Debit Card,Cancelled,47,3,5
+ORD100126,08-08-2025,C1112,Customer_149,Male,22,Erode,Tamil Nadu,West,P1428,Keyboard,Electronics,Sony,5,199,5,131.62,945.25,287.15,Debit Card,Delivered,46,10,2
+ORD100127,23-01-2025,C1219,Customer_61,Female,18,Salem,Tamil Nadu,West,P1113,Sunglasses,Accessories,Sony,7,9999,0,7675.87,69993.0,16261.91,Net Banking,Delivered,212,2,3
+ORD100128,29-04-2025,C1011,Customer_238,Male,63,Vellore,Tamil Nadu,North,P1469,SQL Book,Books,Nike,5,1499,10,1122.04,6745.5,1135.3,Cash,Delivered,172,1,3
+ORD100129,09-09-2025,C1080,Customer_12,Male,31,Erode,Tamil Nadu,West,P1115,Soap,Beauty,Samsung,3,9999,0,7415.23,29997.0,7751.31,Net Banking,Delivered,153,4,2
+ORD100130,24-12-2025,C1057,Customer_150,Male,27,Coimbatore,Tamil Nadu,West,P1135,Train,Toys,Samsung,5,199,0,122.35,995.0,383.25,Credit Card,Returned,285,7,4
+ORD100131,25-02-2025,C1022,Customer_130,Male,44,Salem,Tamil Nadu,West,P1385,Train,Toys,Samsung,2,199,15,151.03,338.3,36.24,Credit Card,Delivered,236,10,2
+ORD100132,21-08-2025,C1050,Customer_110,Female,38,Coimbatore,Tamil Nadu,West,P1404,Car,Toys,Samsung,7,999,10,572.7,6293.7,2284.8,Credit Card,Cancelled,212,2,5
+ORD100133,08-03-2025,C1073,Customer_279,Female,48,Trichy,Tamil Nadu,Central,P1496,Curtain,Home,HP,4,2499,20,1391.44,7996.8,2431.04,Cash,Delivered,266,8,1
+ORD100134,29-03-2025,C1076,Customer_243,Male,54,Salem,Tamil Nadu,West,P1366,Shoes,Clothing,Apple,1,9999,10,5704.2,8999.1,3294.9,Net Banking,Returned,298,4,2
+ORD100135,10-01-2025,C1089,,Male,31,Salem,Tamil Nadu,West,P1077,Jersey,Sports,HP,4,2499,20,1957.37,7996.8,167.32,UPI,Delivered,110,8,2
+ORD100136,25-01-2025,C1015,Customer_39,Female,40,Coimbatore,Tamil Nadu,West,P1439,Soap,Beauty,Boat,8,799,20,539.78,5113.6,795.36,Credit Card,Delivered,71,3,4
+ORD100137,26-06-2025,C1191,Customer_7,Male,51,Chennai,Tamil Nadu,North,P1257,Doll,Toys,Apple,4,9999,5,8328.64,37996.2,4681.64,Net Banking,Cancelled,247,4,4
+ORD100138,09-06-2025,C1153,Customer_160,Female,59,Trichy,Tamil Nadu,Central,P1280,SQL Book,Books,Boat,-4,1499,0,1255.68,10493.0,1703.24,UPI,Delivered,148,1,5
+ORD100139,23-09-2025,C1038,Customer_75,Female,40,Chennai,Tamil Nadu,North,P1025,Shirt,Clothing,Puma,7,9999,10,5750.26,62993.7,22741.88,Credit Card,Returned,110,4,5
+ORD100140,25-07-2025,C1051,Customer_292,Male,61,Trichy,Tamil Nadu,Central,P1427,Fan,Home,Puma,8,4999,15,3067.63,33993.2,9452.16,Debit Card,Delivered,112,9,4
+ORD100141,31-08-2025,C1216,Customer_263,Male,20,Trichy,Tamil Nadu,Central,P1156,Shampoo,Beauty,Sony,5,9999,15,8232.78,42495.75,1331.85,Cash,Returned,117,7,5
+ORD100142,13-01-2025,C1031,Customer_32,Female,30,Erode,Tamil Nadu,West,P1026,Cooker,Home,Sony,7,499,20,309.47,2794.4,628.11,Cash,Delivered,140,7,3
+ORD100143,15-11-2025,C1085,Customer_65,Female,53,Trichy,Tamil Nadu,Central,P1409,Lotion,Beauty,Dell,5,199,20,123.46,796.0,178.7,UPI,Delivered,116,5,5
+ORD100144,20-08-2025,C1060,Customer_278,Female,44,Tirunelveli,Tamil Nadu,South,P1138,Python Book,Books,Apple,1,799,20,559.45,639.2,79.75,Net Banking,Delivered,230,1,3
+ORD100145,17-02-2025,C1216,Customer_175,Male,26,Salem,Tamil Nadu,West,P1397,Fan,Home,Boat,6,199,10,113.61,1074.6,392.94,Debit Card,Returned,111,1,3
+ORD100146,07-12-2025,C1054,Customer_15,Male,41,Vellore,Tamil Nadu,North,P1044,Dictionary,Books,Puma,2,199,20,161.91,318.4,-5.42,Cash,Delivered,126,4,4
+ORD100147,25-11-2025,C1103,Customer_85,Male,27,Coimbatore,Tamil Nadu,West,P1310,Shoes,Clothing,HP,6,299,15,248.5,1524.9,33.9,Cash,Delivered,266,9,2
+ORD100148,24-04-2025,C1156,Customer_278,Female,52,Coimbatore,Tamil Nadu,West,P1469,Python Book,Books,Puma,2,499,10,374.65,898.2,148.9,UPI,Delivered,151,9,5
+ORD100149,17-12-2025,C1285,Customer_34,Male,55,Erode,Tamil Nadu,West,P1170,Eggs,Groceries,Puma,4,999,15,560.66,3396.6,1153.96,Cash,Delivered,198,2,7
+ORD100150,11-01-2025,C1026,Customer_254,Male,35,Trichy,Tamil Nadu,Central,P1137,Lotion,Beauty,Dell,2,499,15,423.57,848.3,1.16,Cash,Delivered,54,8,4
+ORD100151,20-03-2025,C1260,Customer_164,Female,64,Tirunelveli,Tamil Nadu,South,P1121,Shampoo,Beauty,LG,7,799,0,640.29,5593.0,1110.97,Debit Card,Delivered,184,3,4
+ORD100152,07-10-2025,C1050,Customer_205,Male,44,Erode,Tamil Nadu,West,P1447,Chair,Furniture,Samsung,2,199,15,152.94,338.3,32.42,Net Banking,Returned,47,1,4
+ORD100153,16-05-2025,C1205,Customer_136,Female,47,Coimbatore,Tamil Nadu,West,P1366,Sugar,Groceries,Apple,1,299,15,165.84,254.15,88.31,Credit Card,Cancelled,162,7,4
+ORD100154,18-05-2025,C1232,Customer_52,Female,62,Tirunelveli,Tamil Nadu,South,P1137,Perfume,Beauty,Local,8,199,5,132.64,1512.4,451.28,Net Banking,Delivered,52,1,2
+ORD100155,14-05-2025,C1047,Customer_254,Male,44,Coimbatore,Tamil Nadu,West,P1395,Sugar,Groceries,Local,2,1499,10,909.95,2698.2,878.3,UPI,Returned,288,3,2
+ORD100156,10-12-2025,C1045,Customer_99,Female,53,Madurai,Tamil Nadu,South,P1137,Mouse,Electronics,Boat,4,2499,20,1981.56,7996.8,70.56,UPI,Delivered,278,9,4
+ORD100157,31-05-2025,C1239,,Female,47,Madurai,Tamil Nadu,South,P1235,Dictionary,Books,Dell,6,499,5,361.02,2844.3,678.18,UPI,Delivered,286,9,1
+ORD100158,15-06-2025,C1157,Customer_270,Female,64,Salem,Tamil Nadu,West,P1430,SQL Book,Books,Samsung,6,2499,10,1487.22,13494.6,4571.28,UPI,Delivered,40,7,3
+ORD100159,12-03-2025,C1032,Customer_185,Female,39,Vellore,Tamil Nadu,North,P1091,Dictionary,Books,Samsung,2,499,10,405.92,898.2,86.36,UPI,Returned,104,7,3
+ORD100160,15-09-2025,C1053,Customer_70,Male,42,Coimbatore,Tamil Nadu,West,P1045,Oil,Groceries,Boat,4,1499,10,889.89,5396.4,1836.84,Credit Card,Returned,81,2,5
+ORD100161,12-05-2025,C1131,Customer_300,Male,48,Tirunelveli,Tamil Nadu,South,P1158,Python Book,Books,HP,8,199,20,139.29,1273.6,159.28,Credit Card,Returned,191,4,5
+ORD100162,30-03-2025,C1276,Customer_157,Female,22,Vellore,Tamil Nadu,North,P1238,Cricket Bat,Sports,Puma,6,2499,10,1916.18,13494.6,1997.52,UPI,Delivered,228,6,1
+ORD100163,23-09-2025,C1057,Customer_80,Male,29,Madurai,Tamil Nadu,South,P1353,Python Book,Books,HP,5,2499,5,1886.34,11870.25,2438.55,UPI,Returned,201,10,2
+ORD100164,24-06-2025,C1061,Customer_196,Female,24,Tirunelveli,Tamil Nadu,South,P1203,Chair,Furniture,HP,1,2499,5,1820.93,2374.05,553.12,Cash,Delivered,128,10,4
+ORD100165,05-10-2025,C1020,Customer_275,Male,37,Trichy,Tamil Nadu,Central,P1008,Data Science Book,Books,Dell,8,799,15,656.56,5433.2,180.72,Net Banking,Cancelled,41,3,2
+ORD100166,25-12-2025,C1255,Customer_218,Male,50,Trichy,Tamil Nadu,Central,P1229,Sunglasses,Accessories,Puma,6,4999,0,3595.34,29994.0,8421.96,Credit Card,Cancelled,178,8,1
+ORD100167,09-09-2025,C1006,Customer_18,Female,38,Chennai,Tamil Nadu,North,P1190,Bottle,Home,Boat,6,199,5,145.03,1134.3,264.12,Net Banking,Delivered,137,4,5
+ORD100168,19-07-2025,C1036,Customer_198,Female,35,Trichy,Tamil Nadu,Central,P1120,Bread,Groceries,Samsung,8,299,5,177.54,2272.4,852.08,Debit Card,Returned,213,9,2
+ORD100169,26-01-2025,C1007,Customer_254,Female,22,Vellore,Tamil Nadu,North,P1467,Printer,Electronics,Nike,6,9999,15,6876.42,50994.9,9736.38,UPI,Delivered,259,2,2
+ORD100170,29-09-2025,C1026,Customer_246,Female,31,Tirunelveli,Tamil Nadu,South,P1423,Laptop,Electronics,LG,2,799,10,641.75,1438.2,154.7,Cash,Cancelled,78,7,1
+ORD100171,13-10-2025,C1085,Customer_38,Female,18,Salem,Tamil Nadu,West,P1292,Jersey,Sports,Puma,1,199,5,135.58,189.05,53.47,Credit Card,Delivered,133,3,3
+ORD100172,19-11-2025,C1033,Customer_53,Female,18,Chennai,Tamil Nadu,North,P1410,Cooker,Home,Boat,1,799,20,443.44,639.2,195.76,Net Banking,Delivered,215,2,1
+ORD100173,30-05-2025,C1053,Customer_50,Male,52,Salem,Tamil Nadu,West,P1349,Jacket,Clothing,Nike,5,799,20,495.16,3196.0,720.2,Net Banking,Returned,146,7,5
+ORD100174,31-12-2025,C1192,Customer_123,Female,60,Coimbatore,Tamil Nadu,West,P1033,Headphones,Electronics,HP,4,9999,0,5995.51,39996.0,16013.96,Cash,Returned,47,10,5
+ORD100175,15-05-2025,C1050,Customer_288,Male,49,Madurai,Tamil Nadu,South,P1494,Sofa,Furniture,Boat,6,1499,0,956.81,8994.0,3253.14,UPI,Returned,212,10,5
+ORD100176,05-04-2025,C1161,Customer_87,Female,24,Chennai,Tamil Nadu,North,P1087,Jacket,Clothing,Puma,5,1499,15,1016.43,6370.75,1288.6,Credit Card,Delivered,147,4,5
+ORD100177,28-08-2025,C1279,Customer_82,Male,54,Vellore,Tamil Nadu,North,P1229,Bread,Groceries,Samsung,5,299,10,183.91,1345.5,425.95,Debit Card,Cancelled,170,6,3
+ORD100178,13-01-2025,C1195,Customer_252,Male,52,Tirunelveli,Tamil Nadu,South,P1134,Table,Furniture,Dell,8,2499,5,1601.59,18992.4,6179.68,Debit Card,Delivered,231,8,2
+ORD100179,18-03-2025,C1060,Customer_187,Female,51,Chennai,Tamil Nadu,North,P1410,Desk,Furniture,Local,2,499,20,313.6,798.4,171.2,Cash,Delivered,281,2,1
+ORD100180,21-02-2025,C1192,Customer_127,Female,38,Chennai,Tamil Nadu,North,P1221,Cricket Bat,Sports,Apple,8,4999,20,3675.07,31993.6,2593.04,Net Banking,Delivered,55,7,7
+ORD100181,23-11-2025,C1226,Customer_93,Male,24,Trichy,Tamil Nadu,Central,P1268,Doll,Toys,Apple,8,2499,0,1789.31,19992.0,5677.52,Debit Card,Delivered,195,6,5
+ORD100182,01-04-2025,C1154,Customer_225,Female,24,Erode,Tamil Nadu,West,P1308,Lotion,Beauty,Boat,2,4999,150,3267.36,7998.4,1463.68,UPI,Delivered,291,1,2
+ORD100183,24-02-2025,C1073,Customer_81,Female,47,Vellore,Tamil Nadu,North,P1244,Perfume,Beauty,Boat,7,199,20,158.42,1114.4,5.46,Cash,Returned,104,8,5
+ORD100184,11-05-2025,C1276,Customer_147,Female,18,Coimbatore,Tamil Nadu,West,P1357,Keyboard,Electronics,LG,4,799,5,518.05,3036.2,964.0,Cash,Delivered,236,1,7
+ORD100185,31-01-2025,C1195,,Female,52,Tirunelveli,Tamil Nadu,South,P1213,Train,,Local,7,2499,0,1548.78,17493.0,6651.54,Debit Card,Delivered,206,5,2
+ORD100186,15-01-2025,C1205,Customer_141,Male,35,Madurai,Tamil Nadu,South,P1121,Puzzle,Toys,HP,3,999,0,765.34,2997.0,700.98,Credit Card,Returned,106,7,2
+ORD100187,29-10-2025,C1137,Customer_209,Male,21,Coimbatore,Tamil Nadu,West,P1078,Desk,Furniture,HP,5,299,0,218.19,1495.0,404.05,UPI,Delivered,253,10,5
+ORD100188,01-04-2025,C1018,Customer_94,Female,23,Vellore,Tamil Nadu,North,P1057,Novel,Books,HP,4,499,10,287.48,1796.4,646.48,Net Banking,Delivered,118,6,2
+ORD100189,20-04-2025,C1056,Customer_114,Female,63,Madurai,Tamil Nadu,South,P1073,Football,Sports,Sony,7,1499,20,1256.24,8394.4,-399.28,Debit Card,Cancelled,111,2,4
+ORD100190,02-05-2025,C1217,Customer_195,Male,42,Vellore,Tamil Nadu,North,P1233,Shirt,Clothing,Sony,4,799,5,450.12,3036.2,1235.72,Cash,Delivered,263,3,2
+ORD100191,05-07-2025,C1092,Customer_118,Female,62,Salem,Tamil Nadu,West,P1215,Football,Sports,Apple,2,1499,0,1168.86,2998.0,660.28,Credit Card,Cancelled,261,9,5
+ORD100192,30-12-2025,C1132,Customer_296,Male,27,Coimbatore,Tamil Nadu,West,P1306,Bottle,Home,Dell,5,299,0,195.79,1495.0,516.05,Debit Card,Delivered,175,5,1
+ORD100193,29-09-2025,C1287,Customer_225,Female,65,Chennai,Tamil Nadu,North,P1434,Milk,Groceries,LG,7,9999,10,6482.05,62993.7,17619.35,Net Banking,Delivered,80,4,1
+ORD100194,10-01-2025,C1145,Customer_134,Female,59,Salem,Tamil Nadu,West,P1297,Chair,Furniture,HP,2,299,10,198.51,538.2,141.18,Credit Card,Returned,258,4,2
+ORD100195,20-07-2025,C1231,Customer_185,Female,63,Erode,Tamil Nadu,West,P1430,Cream,Beauty,Sony,8,4999,20,3262.83,31993.6,5890.96,Debit Card,Cancelled,281,6,3
+ORD100196,28-04-2025,C1277,Customer_190,Female,26,Trichy,Tamil Nadu,Central,P1437,Car,Toys,Sony,8,499,0,295.5,3992.0,1628.0,UPI,Delivered,286,2,4
+ORD100197,09-03-2025,C1134,Customer_100,Female,38,Trichy,Tamil Nadu,Central,P1241,Face Wash,Beauty,LG,7,199,10,145.52,1253.7,235.06,Debit Card,Delivered,146,10,1
+ORD100198,30-08-2025,C1030,Customer_40,Male,33,Coimbatore,Tamil Nadu,West,P1374,Rice,Groceries,LG,2,799,0,597.13,1598.0,403.74,Credit Card,Returned,189,3,4
+ORD100199,19-10-2025,C1051,Customer_167,Female,64,Coimbatore,Tamil Nadu,West,P1169,Printer,Electronics,LG,2,199,20,136.06,318.4,46.28,Net Banking,Returned,185,3,3
+ORD100200,01-09-2025,C1028,Customer_90,Male,34,Vellore,Tamil Nadu,North,P1050,Shirt,Clothing,Apple,1,9999,10,7177.57,8999.1,1821.53,Cash,Delivered,198,9,4
+ORD100201,17-10-2025,C1222,Customer_18,Female,52,Salem,Tamil Nadu,West,P1242,Car,Toys,Sony,3,9999,10,6905.26,26997.3,6281.52,Debit Card,Cancelled,131,10,4
+ORD100202,30-12-2025,C1112,Customer_261,Female,33,Vellore,Tamil Nadu,North,P1433,Watch,Accessories,Puma,5,499,0,381.38,2495.0,588.1,Cash,Delivered,74,1,2
+ORD100203,18-07-2025,C1021,Customer_109,Female,35,Salem,Tamil Nadu,West,P1419,Lamp,Home,Local,5,2499,15,1585.15,10620.75,2695.0,Net Banking,Cancelled,277,7,2
+ORD100204,29-01-2025,C1090,Customer_27,Male,65,Salem,Tamil Nadu,West,P1064,SQL Book,Books,Nike,2,9999,20,5569.46,15998.4,4859.48,Net Banking,Returned,208,6,3
+ORD100205,21-03-2025,C1230,Customer_91,Male,45,Trichy,Tamil Nadu,Central,P1209,Lotion,Beauty,LG,3,1499,0,1226.12,4497.0,818.64,Debit Card,Delivered,91,9,1
+ORD100206,09-02-2025,C1220,Customer_160,Male,45,Chennai,Tamil Nadu,North,P1356,Keyboard,Electronics,Samsung,3,1499,15,918.15,3822.45,1068.0,Net Banking,Delivered,274,3,1
+ORD100207,01-01-2025,C1157,Customer_106,Female,41,Tirunelveli,Tamil Nadu,South,P1172,Train,Toys,Apple,7,299,0,184.65,2093.0,800.45,Cash,Delivered,269,4,4
+ORD100208,10-04-2025,C1286,Customer_91,Female,51,Trichy,Tamil Nadu,Central,P1426,Bread,Groceries,Puma,3,1499,0,1082.58,4497.0,1249.26,UPI,Delivered,194,6,2
+ORD100209,09-02-2025,C1150,Customer_57,Female,24,Tirunelveli,Tamil Nadu,South,P1192,Jeans,Clothing,LG,4,1499,0,1162.09,5996.0,1347.64,Credit Card,Delivered,188,1,3
+ORD100210,18-05-2025,C1224,Customer_130,Male,29,Coimbatore,Tamil Nadu,West,P1480,Jeans,Clothing,HP,8,9999,15,6111.56,67993.2,19100.72,Credit Card,Delivered,295,6,4
+ORD100211,11-11-2025,C1011,Customer_103,Male,34,Erode,Tamil Nadu,West,P1458,Shoes,Sports,Nike,1,199,15,123.3,169.15,45.85,Credit Card,Delivered,254,3,1
+ORD100212,02-01-2025,C1206,Customer_1,Female,53,Tirunelveli,Tamil Nadu,South,P1367,Notebook,Books,LG,4,799,10,559.25,2876.4,639.4,Credit Card,Delivered,95,5,2
+ORD100213,11-12-2025,C1139,Customer_285,Female,25,Erode,Tamil Nadu,West,P1253,Car,Toys,Sony,4,199,15,110.21,676.6,235.76,Net Banking,Delivered,284,4,1
+ORD100214,09-09-2025,C1047,Customer_81,Male,23,Vellore,Tamil Nadu,North,P1029,T-Shirt,Clothing,Local,2,999,10,648.05,1798.2,502.1,Debit Card,Returned,59,8,3
+ORD100215,25-12-2025,C1003,Customer_112,Female,52,Coimbatore,Tamil Nadu,West,P1150,Belt,Accessories,Puma,6,1499,10,1238.93,8094.6,661.02,Debit Card,Returned,115,4,4
+ORD100216,16-11-2025,C1068,Customer_175,Male,62,Coimbatore,Tamil Nadu,West,P1055,Keyboard,Electronics,Dell,1,799,10,559.03,719.1,160.07,Credit Card,Cancelled,85,1,1
+ORD100217,14-09-2025,C1019,Customer_82,Female,25,Trichy,Tamil Nadu,Central,P1403,Monitor,Electronics,Boat,4,2499,5,1508.69,9496.2,3461.44,UPI,Delivered,182,9,2
+ORD100218,08-04-2025,C1235,Customer_297,Female,27,Chennai,Tamil Nadu,North,P1073,Cap,Clothing,LG,2,2499,10,1943.76,4498.2,610.68,Debit Card,Delivered,184,9,2
+ORD100219,18-11-2025,C1251,Customer_13,Female,34,Salem,Tamil Nadu,West,P1437,Sofa,Furniture,Samsung,3,1499,0,974.24,4497.0,1574.28,Credit Card,Delivered,173,7,3
+ORD100220,10-06-2025,C1155,Customer_89,Male,37,Salem,Tamil Nadu,West,P1404,Charger,,Sony,6,499,20,330.17,2395.2,414.18,Debit Card,Returned,119,5,2
+ORD100221,13-10-2025,C1090,Customer_276,Female,58,Vellore,Tamil Nadu,North,P1390,Yoga Mat,Sports,Apple,3,199,0,151.49,597.0,142.53,Cash,Delivered,180,4,4
+ORD100222,07-04-2025,C1212,Customer_49,Female,22,Madurai,Tamil Nadu,South,P1336,Monitor,Electronics,Samsung,6,1499,15,877.36,7644.9,2380.74,Net Banking,Delivered,240,2,5
+ORD100223,28-12-2025,C1177,Customer_235,Male,42,Chennai,Tamil Nadu,North,P1239,Cooker,Home,Puma,4,1499,10,985.73,5396.4,1453.48,Cash,Returned,214,4,4
+ORD100224,29-01-2025,C1205,Customer_154,Female,56,Vellore,Tamil Nadu,North,P1399,Watch,Accessories,Boat,7,999,0,726.88,6993.0,1904.84,Credit Card,Returned,58,9,2
+ORD100225,28-03-2025,C1232,Customer_130,Male,64,Vellore,Tamil Nadu,North,P1440,Printer,,Boat,4,499,10,356.52,1796.4,370.32,Cash,Returned,267,7,2
+ORD100226,14-03-2025,C1296,Customer_173,Female,51,Salem,Tamil Nadu,West,P1231,Notebook,Books,Local,4,1499,15,1140.41,5096.6,534.96,Credit Card,Returned,117,5,5
+ORD100227,22-09-2025,C1001,Customer_157,Male,36,Trichy,Tamil Nadu,Central,P1425,Sunglasses,Accessories,HP,5,4999,5,4182.6,23745.25,2832.25,Net Banking,Delivered,157,3,5
+ORD100228,13-12-2025,C1040,Customer_275,Female,30,Chennai,Tamil Nadu,North,P1091,Rice,Groceries,Boat,3,999,15,559.67,2547.45,868.44,Cash,Returned,282,4,4
+ORD100229,27-08-2025,C1280,Customer_98,Male,39,Erode,Tamil Nadu,West,P1253,Face Wash,Beauty,HP,5,299,10,221.81,1345.5,236.45,Credit Card,Delivered,61,3,1
+ORD100230,02-03-2025,C1017,Customer_60,Female,28,Erode,Tamil Nadu,West,P1296,Laptop,,Samsung,1,4999,10,3382.77,4499.1,1116.33,UPI,Delivered,243,4,5
+ORD100231,16-07-2025,C1231,Customer_57,Male,29,Trichy,Tamil Nadu,Central,P1059,Bottle,Home,Nike,6,499,0,331.73,2994.0,1003.62,Cash,Returned,227,5,1
+ORD100232,23-09-2025,C1200,Customer_114,Male,33,Trichy,Tamil Nadu,Central,P1104,Cream,Beauty,Samsung,8,1499,10,1266.64,10792.8,659.68,Cash,Returned,172,4,5
+ORD100233,03-05-2025,C1277,Customer_167,Female,24,Trichy,Tamil Nadu,Central,P1305,Curtain,Home,Nike,5,9999,20,6137.01,39996.0,9310.95,Net Banking,Delivered,104,1,5
+ORD100234,13-10-2025,C1055,Customer_242,Female,44,Chennai,Tamil Nadu,North,P1398,Data Science Book,Books,LG,3,9999,0,5892.48,29997.0,12319.56,Net Banking,Cancelled,64,10,4
+ORD100235,19-10-2025,C1143,Customer_109,Female,38,Trichy,Tamil Nadu,Central,P1462,Monitor,Electronics,Puma,6,799,20,669.37,3835.2,-181.02,Credit Card,Cancelled,52,2,2
+ORD100236,04-01-2025,C1086,Customer_206,Male,41,Erode,Tamil Nadu,West,P1083,Puzzle,Toys,Puma,8,199,15,165.01,1353.2,33.12,Cash,Delivered,268,9,1
+ORD100237,21-03-2025,C1221,,Female,23,Erode,Tamil Nadu,West,P1238,Shampoo,Beauty,Nike,7,4999,20,3835.88,27994.4,1143.24,Net Banking,Delivered,210,10,2
+ORD100238,30-01-2025,C1295,Customer_111,Female,33,Madurai,Tamil Nadu,South,P1451,Desk,Furniture,Sony,7,199,20,134.83,1114.4,170.59,UPI,Cancelled,85,6,2
+ORD100239,29-11-2025,C1072,Customer_64,Male,23,Vellore,Tamil Nadu,North,P1472,Perfume,Beauty,HP,4,1499,15,951.48,5096.6,1290.68,Credit Card,Delivered,284,1,5
+ORD100240,06-02-2025,C1036,Customer_191,Female,34,Tirunelveli,Tamil Nadu,South,P1142,Keyboard,Electronics,Samsung,4,299,20,248.22,956.8,-36.08,Debit Card,Delivered,122,10,1
+ORD100241,29-11-2025,C1240,Customer_300,Female,45,Erode,Tamil Nadu,West,P1354,Keyboard,Electronics,HP,6,9999,0,6021.49,59994.0,23865.06,Net Banking,Delivered,140,3,1
+ORD100242,24-05-2025,C1042,Customer_246,Male,49,Erode,Tamil Nadu,West,P1307,Robot,Toys,Dell,3,299,150,169.66,717.6,208.62,Net Banking,Cancelled,140,5,1
+ORD100243,30-01-2025,C1103,Customer_116,Female,28,Trichy,Tamil Nadu,Central,P1444,Bottle,Home,Samsung,2,499,10,357.74,898.2,182.72,Net Banking,Returned,46,1,3
+ORD100244,05-09-2025,C1274,Customer_152,Female,39,Vellore,Tamil Nadu,North,P1167,Bag,Accessories,Dell,1,199,10,153.54,179.1,25.56,Debit Card,Delivered,56,10,5
+ORD100245,04-02-2025,C1118,Customer_124,Female,20,Madurai,Tamil Nadu,South,P1035,Train,Toys,Local,5,499,15,297.83,2120.75,631.6,Cash,Delivered,188,8,2
+ORD100246,19-04-2025,C1230,Customer_201,Male,23,Salem,Tamil Nadu,West,P1177,Milk,Groceries,HP,-5,499,5,375.09,3792.4,791.68,Net Banking,Delivered,141,10,5
+ORD100247,18-10-2025,C1143,Customer_8,Female,22,Chennai,Tamil Nadu,North,P1499,Shoes,Sports,Sony,3,1499,10,1030.29,4047.3,956.43,Cash,Delivered,124,7,2
+ORD100248,06-04-2025,C1284,Customer_118,Female,43,Tirunelveli,Tamil Nadu,South,P1307,Watch,Accessories,Dell,3,2499,5,1898.83,7122.15,1425.66,Credit Card,Cancelled,222,2,4
+ORD100249,03-06-2025,C1234,Customer_75,Female,19,Erode,Tamil Nadu,West,P1200,Bed,Furniture,LG,2,799,5,488.56,1518.1,540.98,Cash,Returned,71,2,2
+ORD100250,08-09-2025,C1293,Customer_251,Female,57,Tirunelveli,Tamil Nadu,South,P1417,Fan,Home,LG,5,9999,10,7728.53,44995.5,6352.85,Cash,Delivered,272,9,5
+ORD100251,20-07-2025,C1106,Customer_277,Female,47,Trichy,Tamil Nadu,Central,P1469,Charger,Accessories,Boat,6,799,5,530.52,4554.3,1371.18,UPI,Returned,101,2,2
+ORD100252,08-12-2025,C1093,Customer_67,Male,54,Madurai,Tamil Nadu,South,P1035,Keyboard,Electronics,LG,8,499,15,362.66,3393.2,491.92,Credit Card,Cancelled,141,8,4
+ORD100253,08-11-2025,C1056,Customer_193,Male,61,Madurai,Tamil Nadu,South,P1195,Jacket,Clothing,Apple,4,9999,0,8145.02,39996.0,7415.92,Net Banking,Returned,217,6,1
+ORD100254,22-03-2025,C1138,Customer_10,Male,39,Chennai,Tamil Nadu,North,P1371,Cooker,Home,Local,8,4999,15,3784.3,33993.2,3718.8,Credit Card,Returned,45,9,5
+ORD100255,18-09-2025,C1056,Customer_21,Female,36,Tirunelveli,Tamil Nadu,South,P1155,Fan,Home,Boat,5,199,10,132.57,895.5,232.65,Debit Card,Returned,195,10,3
+ORD100256,23-02-2025,C1156,Customer_260,Male,49,Tirunelveli,Tamil Nadu,South,P1271,Headphones,Electronics,Dell,8,4999,10,3605.66,35992.8,7147.52,Net Banking,Delivered,227,4,2
+ORD100257,20-09-2025,C1264,Customer_155,Femle,48,Trichy,Tamil Nadu,Central,P1461,Table,Furniture,Samsung,1,1499,15,1012.58,1274.15,261.57,Credit Card,Cancelled,183,1,2
+ORD100258,11-01-2025,C1260,Customer_151,Male,21,Erode,Tamil Nadu,West,P1015,Shoes,Sports,Apple,1,9999,20,7200.14,7999.2,799.06,Net Banking,Delivered,95,2,3
+ORD100259,04-06-2025,C1089,Customer_67,Male,62,Trichy,Tamil Nadu,Central,P1199,Sugar,Groceries,Samsung,2,999,10,790.67,1798.2,216.86,Debit Card,Delivered,224,9,1
+ORD100260,09-09-2025,C1069,Customer_3,Female,21,Chennai,Tamil Nadu,North,P1370,Belt,Accessories,Apple,2,2499,10,2012.5,4498.2,473.2,Cash,Returned,217,8,2
+ORD100261,30-11-2025,C1200,Customer_289,Male,26,Erode,Tamil Nadu,West,P1004,Curtain,Home,Dell,4,1499,0,870.36,5996.0,2514.56,Credit Card,Delivered,132,3,4
+ORD100262,11-02-2025,C1068,Customer_127,Male,20,Madurai,Tamil Nadu,South,P1337,Python Book,Books,Dell,2,199,10,160.94,358.2,36.32,Net Banking,Cancelled,181,2,4
+ORD100263,29-12-2025,C1240,Customer_291,Female,20,Erode,Tamil Nadu,West,P1271,Robot,Toys,Boat,5,199,0,154.66,995.0,221.7,Net Banking,Delivered,84,3,4
+ORD100264,05-05-2025,C1139,Customer_194,Female,34,Erode,Tamil Nadu,West,P1227,Doll,Toys,HP,5,499,20,393.31,1996.0,29.45,Net Banking,Cancelled,106,9,5
+ORD100265,10-11-2025,C1234,Customer_156,Male,48,Madurai,Tamil Nadu,South,P1323,Belt,Accessories,LG,7,4999,20,3699.37,27994.4,2098.81,Net Banking,Delivered,125,8,3
+ORD100266,04-11-2025,C1103,Customer_248,Male,36,Erode,Tamil Nadu,West,P1477,Car,Toys,Dell,8,199,0,159.11,1592.0,319.12,UPI,Delivered,99,2,2
+ORD100267,10-07-2025,C1183,Customer_289,Femle,49,Madurai,Tamil Nadu,South,P1371,Face Wash,Beauty,Local,3,1499,0,898.98,4497.0,1800.06,Credit Card,Returned,133,8,1
+ORD100268,02-01-2025,C1130,Customer_185,Female,60,Trichy,Tamil Nadu,Central,P1406,Bed,Furniture,Samsung,6,199,15,115.31,1014.9,323.04,Net Banking,Delivered,115,9,4
+ORD100269,12-03-2025,C1263,Customer_136,Female,24,Madurai,Tamil Nadu,South,P1288,Sugar,Groceries,Puma,5,799,10,496.28,3595.5,1114.1,UPI,Delivered,95,2,4
+ORD100270,09-10-2025,C1184,Customer_88,Female,34,Vellore,Tamil Nadu,North,P1167,Tennis Ball,Sports,Boat,4,199,0,163.89,796.0,140.44,UPI,Delivered,258,1,5
+ORD100271,24-04-2025,C1219,Customer_46,Female,31,Coimbatore,Tamil Nadu,West,P1196,Python Book,Books,Nike,8,4999,10,2771.08,35992.8,13824.16,Debit Card,Delivered,51,7,1
+ORD100272,15-10-2025,C1141,Customer_103,Male,41,Coimbatore,Tamil Nadu,West,P1469,Football,Sports,HP,2,2499,15,1494.42,4248.3,1259.46,Credit Card,Delivered,110,3,2
+ORD100273,24-04-2025,C1007,Customer_299,Female,19,Erode,Tamil Nadu,West,P1467,Cream,Beauty,Sony,7,1499,20,848.93,8394.4,2451.89,Net Banking,Delivered,136,7,3
+ORD100274,15-06-2025,C1225,Customer_67,Male,62,Madurai,Tamil Nadu,South,P1094,Data Science Book,Books,Samsung,7,1499,10,1105.24,9443.7,1707.02,UPI,Cancelled,164,4,2
+ORD100275,08-02-2025,C1114,Customer_133,Male,20,Madurai,Tamil Nadu,South,P1274,Printer,Electronics,Samsung,2,4999,20,3466.09,7998.4,1066.22,UPI,Delivered,48,3,2
+ORD100276,20-10-2025,C1100,Customer_198,Male,56,Tirunelveli,Tamil Nadu,South,P1011,Soap,Beauty,Apple,7,4999,0,2915.16,34993.0,14586.88,Net Banking,Returned,136,3,3
+ORD100277,12-08-2025,C1208,Customer_27,Male,49,Salem,Tamil Nadu,West,P1004,Jersey,Sports,Dell,6,1499,10,906.28,8094.6,2656.92,UPI,Delivered,94,8,1
+ORD100278,24-04-2025,C1151,Customer_201,Male,27,Coimbatore,Tamil Nadu,West,P1359,Yoga Mat,Sports,LG,7,1499,5,891.86,9968.35,3725.33,UPI,Cancelled,107,5,3
+ORD100279,21-02-2025,C1082,Customer_11,Female,49,Coimbatore,Tamil Nadu,West,P1434,Football,Sports,Dell,-3,2499,5,1646.87,14244.3,4363.08,UPI,Returned,240,6,5
+ORD100280,21-07-2025,C1218,Customer_247,Female,62,Chennai,Tamil Nadu,North,P1253,Eggs,Groceries,Samsung,4,299,10,182.82,1076.4,345.12,Cash,Cancelled,213,2,5
+ORD100281,23-06-2025,C1196,Customer_248,Femle,18,Erode,Tamil Nadu,West,P1168,Jersey,Sports,Boat,4,9999,0,7561.8,39996.0,9748.8,Net Banking,Returned,189,1,2
+ORD100282,26-12-2025,C1271,Customer_150,Male,18,Chennai,Tamil Nadu,North,P1438,Bread,Groceries,Samsung,4,9999,5,8143.55,37996.2,5422.0,Credit Card,Delivered,256,5,3
+ORD100283,16-04-2025,C1029,Customer_31,Male,41,Tirunelveli,Tamil Nadu,South,P1357,Face Wash,Beauty,Dell,1,4999,10,3324.48,4499.1,1174.62,Cash,Delivered,238,5,3
+ORD100284,19-04-2025,C1272,Customer_258,Female,35,Salem,Tamil Nadu,West,P1236,Fan,Home,Nike,6,2499,0,1849.65,14994.0,3896.1,Net Banking,Delivered,280,6,5
+ORD100285,26-03-2025,C1044,Customer_153,Female,33,Trichy,Tamil Nadu,Central,P1431,Bread,Groceries,Dell,4,799,20,554.34,2556.8,339.44,UPI,Delivered,148,6,4
+ORD100286,16-07-2025,C1198,Customer_202,Male,48,Madurai,Tamil Nadu,South,P1293,Cupboard,Furniture,Dell,6,1499,0,1106.92,8994.0,2352.48,Cash,Delivered,294,3,1
+ORD100287,03-07-2025,C1296,Customer_174,Male,47,Salem,Tamil Nadu,West,P1462,Fan,Home,Nike,1,4999,20,3497.74,3999.2,501.46,Net Banking,Delivered,278,7,1
+ORD100288,07-05-2025,C1078,Customer_33,Mle,20,Coimbatore,Tamil Nadu,West,P1274,Charger,Accessories,Nike,4,499,10,374.46,1796.4,298.56,Cash,Cancelled,56,9,1
+ORD100289,29-08-2025,C1137,Customer_298,Male,32,Madurai,Tamil Nadu,South,P1148,Cooker,Home,Samsung,8,999,15,634.12,6793.2,1720.24,Net Banking,Delivered,263,9,5
+ORD100290,25-07-2025,C1223,Customer_268,Female,34,Salem,Tamil Nadu,West,P1062,Oil,Groceries,Nike,7,199,0,165.18,1393.0,236.74,Net Banking,Delivered,289,9,1
+ORD100291,06-03-2025,C1076,Customer_177,Male,62,Tirunelveli,Tamil Nadu,South,P1317,Shampoo,Beauty,Puma,5,499,20,414.41,1996.0,-76.05,Debit Card,Returned,220,4,4
+ORD100292,08-09-2025,C1081,Customer_22,Female,25,Trichy,Tamil Nadu,Central,P1500,Car,Toys,Dell,5,499,15,330.46,2120.75,468.45,Debit Card,Delivered,82,3,2
+ORD100293,23-02-2025,C1240,Customer_120,Female,59,Erode,Tamil Nadu,West,P1063,Mouse,Electronics,Samsung,2,2499,5,1951.74,4748.1,844.62,Debit Card,Returned,93,6,2
+ORD100294,09-02-2025,C1028,Customer_113,Female,58,Erode,Tamil Nadu,West,P1442,Notebook,Books,Nike,4,4999,15,3968.15,16996.6,1124.0,UPI,Delivered,235,10,2
+ORD100295,04-06-2025,C1003,Customer_107,Male,29,Madurai,Tamil Nadu,South,P1345,Wallet,Accessories,Local,4,299,20,215.31,956.8,95.56,Credit Card,Delivered,106,1,4
+ORD100296,30-11-2025,C1253,Customer_161,Male,40,Chennai,Tamil Nadu,North,P1109,Perfume,Beauty,Apple,5,799,5,643.61,3795.25,577.2,UPI,Returned,72,8,1
+ORD100297,30-09-2025,C1105,Customer_259,Female,26,Erode,Tamil Nadu,West,P1000,Rice,Groceries,Local,1,299,20,186.73,239.2,52.47,Credit Card,Delivered,172,8,4
+ORD100298,05-05-2025,C1289,Customer_1,Female,39,Coimbatore,Tamil Nadu,West,P1150,Jacket,Clothing,Nike,1,199,10,147.93,179.1,31.17,Net Banking,Returned,171,9,5
+ORD100299,20-08-2025,C1237,,Male,63,Salem,Tamil Nadu,West,P1235,SQL Book,Books,Local,3,299,10,206.33,807.3,188.31,Net Banking,Cancelled,119,10,3
+ORD100300,26-04-2025,C1256,Customer_160,Male,47,Chennai,Tamil Nadu,North,P1148,Table,Furniture,LG,3,199,20,150.37,477.6,26.49,Net Banking,Returned,162,1,1
+ORD100301,31-13-2025,C1001,Customer_226,Male,25,Trichy,Tamil Nadu,Central,P1049,Perfume,Beauty,Local,4,999,10,724.77,3596.4,697.32,UPI,Cancelled,134,9,2
+ORD100302,18-08-2025,C1108,Customer_246,Male,61,Madurai,Tamil Nadu,South,P1368,Chair,Furniture,Apple,3,299,10,185.36,807.3,251.22,Credit Card,Delivered,181,8,7
+ORD100303,20-06-2025,C1081,Customer_78,Female,31,Chennai,Tamil Nadu,North,P1133,Novel,Books,Puma,4,499,10,365.03,1796.4,336.28,Cash,Returned,279,2,5
+ORD100304,26-12-2025,C1261,Customer_292,Male,24,Vellore,Tamil Nadu,North,P1247,Belt,Accessories,Apple,2,299,5,237.68,568.1,92.74,Debit Card,Cancelled,196,10,4
+ORD100305,09-01-2025,C1213,Customer_155,Female,61,Coimbatore,Tamil Nadu,West,P1010,Eggs,Groceries,HP,1,999,5,703.91,949.05,245.14,UPI,Cancelled,72,10,3
+ORD100306,29-05-2025,C1213,Customer_39,Female,19,Tirunelveli,Tamil Nadu,South,P1378,Dictionary,Books,Local,6,9999,0,6461.71,59994.0,21223.74,Credit Card,Delivered,157,7,5
+ORD100307,10-06-2025,C1079,Customer_2,Male,56,Chennai,Tamil Nadu,North,P1142,Cooker,Home,Dell,1,2499,15,1673.06,2124.15,451.09,Cash,Returned,196,5,3
+ORD100308,05-11-2025,C1165,Customer_125,Female,31,Erode,Tamil Nadu,West,P1152,Lamp,Home,Dell,2,4999,15,3170.3,8498.3,2157.7,Cash,Cancelled,296,10,2
+ORD100309,15-01-2025,C1145,Customer_162,Female,34,Erode,Tamil Nadu,West,P1259,Train,Toys,HP,2,9999,0,6906.43,19998.0,6185.14,Cash,Cancelled,186,4,5
+ORD100310,01-08-2025,C1262,Customer_293,Male,57,Trichy,Tamil Nadu,Central,P1044,Bag,Accessories,Nike,4,499,5,383.66,1896.2,361.56,Debit Card,Delivered,146,4,5
+ORD100311,25-04-2025,C1128,Customer_10,Male,50,Trichy,Tamil Nadu,Central,P1393,Cream,,Samsung,2,2499,5,1623.99,4748.1,1500.12,Debit Card,Delivered,266,8,2
+ORD100312,31-13-2025,C1171,Customer_87,Female,47,Tirunelveli,Tamil Nadu,South,P1237,Charger,Accessories,Boat,4,499,5,316.15,1896.2,631.6,UPI,Cancelled,271,5,2
+ORD100313,02-08-2025,C1021,Customer_281,Female,21,Tirunelveli,Tamil Nadu,South,P1044,Cap,Clothing,Puma,5,9999,5,6967.66,47495.25,12656.95,Debit Card,Delivered,253,1,5
+ORD100314,12-11-2025,C1267,Customer_70,Male,58,Erode,Tamil Nadu,West,P1117,Blocks,Toys,Apple,2,499,10,275.17,898.2,347.86,Debit Card,Cancelled,43,10,5
+ORD100315,04-03-2025,C1152,Customer_103,Female,31,Vellore,Tamil Nadu,North,P1482,Cap,Clothing,Sony,6,199,10,156.55,1074.6,135.3,Net Banking,Delivered,128,3,2
+ORD100316,30-08-2025,C1204,Customer_14,Male,49,Madurai,Tamil Nadu,South,P1415,Sugar,Groceries,HP,1,4999,10,3908.73,4499.1,590.37,Debit Card,Delivered,229,10,2
+ORD100317,03-09-2025,C1092,Customer_23,Female,40,Trichy,Tamil Nadu,Central,P1352,Shoes,Sports,Boat,6,2499,15,1742.72,12744.9,2288.58,Cash,Delivered,76,2,3
+ORD100318,22-12-2025,C1145,Customer_277,Male,23,Tirunelveli,Tamil Nadu,South,P1395,Shirt,Clothing,Dell,8,1499,10,906.34,10792.8,3542.08,Credit Card,Delivered,219,6,3
+ORD100319,23-10-2025,C1067,Customer_32,Male,58,Vellore,Tamil Nadu,North,P1001,Jeans,Clothing,Samsung,6,799,0,638.37,4794.0,963.78,UPI,Delivered,78,7,5
+ORD100320,19-06-2025,C1042,Customer_41,Female,61,Salem,Tamil Nadu,West,P1167,Face Wash,Beauty,Nike,2,199,20,133.56,318.4,51.28,Debit Card,Delivered,287,4,4
+ORD100321,17-01-2025,C1045,Customer_229,Male,62,Chennai,Tamil Nadu,North,P1403,Desk,Furniture,Apple,6,799,10,597.41,4314.6,730.14,Debit Card,Delivered,45,8,1
+ORD100322,04-09-2025,C1255,Customer_287,Male,24,Tirunelveli,Tamil Nadu,South,P1367,Rice,Groceries,Apple,2,799,20,537.79,1278.4,202.82,Credit Card,Cancelled,296,2,4
+ORD100323,13-02-2025,C1224,Customer_278,Female,21,Trichy,Tamil Nadu,Central,P1430,Monitor,Electronics,Nike,7,1499,20,929.46,8394.4,1888.18,Credit Card,Delivered,236,2,1
+ORD100324,21-10-2025,C1279,Customer_208,Male,57,Trichy,Tamil Nadu,Central,P1278,Cooker,Home,Sony,-1,9999,0,6671.77,19998.0,6654.46,Debit Card,Delivered,67,10,5
+ORD100325,01-07-2025,C1276,Customer_161,Female,52,Coimbatore,Tamil Nadu,West,P1496,Table,Furniture,Local,7,2499,0,1908.78,17493.0,4131.54,Net Banking,Returned,159,2,2
+ORD100326,22-06-2025,C1205,Customer_290,Female,63,Trichy,Tamil Nadu,Central,P1410,Headphones,Electronics,Boat,3,2499,0,1958.24,7497.0,1622.28,Debit Card,Returned,83,1,3
+ORD100327,20-03-2025,C1272,Customer_130,Female,26,Coimbatore,Tamil Nadu,West,P1475,Notebook,Books,Boat,8,199,0,167.34,1592.0,253.28,UPI,Returned,84,7,4
+ORD100328,31-01-2025,C1073,Customer_40,Male,59,Vellore,Tamil Nadu,North,P1093,Mixer,Home,Local,7,199,20,166.85,1114.4,-53.55,Cash,Delivered,111,5,1
+ORD100329,11-05-2025,C1169,Customer_55,Male,24,Coimbatore,Tamil Nadu,West,P1497,Notebook,Books,HP,4,199,10,127.16,716.4,207.76,Net Banking,Returned,134,10,2
+ORD100330,01-09-2025,C1179,Customer_208,Male,20,Erode,Tamil Nadu,West,P1448,Wallet,Accessories,Samsung,-4,4999,15,3848.81,29744.05,2802.38,Credit Card,Delivered,66,7,5
+ORD100331,28-08-2025,C1169,Customer_205,Female,34,Coimbatore,Tamil Nadu,West,P1338,Bed,Furniture,HP,5,999,15,738.35,4245.75,554.0,UPI,Delivered,92,4,1
+ORD100332,12-07-2025,C1097,Customer_100,Male,45,Madurai,Tamil Nadu,South,P1009,Shirt,Clothing,Boat,4,999,15,805.34,3396.6,175.24,Net Banking,Cancelled,190,8,3
+ORD100333,08-06-2025,C1075,Customer_207,Male,63,Erode,Tamil Nadu,West,P1457,Lotion,Beauty,LG,3,4999,20,3848.45,11997.6,452.25,Cash,Delivered,243,7,5
+ORD100334,05-11-2025,C1256,Customer_81,Male,54,Chennai,Tamil Nadu,North,P1420,Python Book,Books,Dell,3,499,20,335.06,1197.6,192.42,UPI,Returned,237,1,4
+ORD100335,26-09-2025,C1266,Customer_33,Male,22,Coimbatore,Tamil Nadu,West,P1435,Cupboard,Furniture,Samsung,7,2499,0,1904.73,17493.0,4159.89,Net Banking,Cancelled,41,2,3
+ORD100336,15-12-2025,C1076,Customer_172,Female,42,Vellore,Tamil Nadu,North,P1058,Shoes,Sports,Puma,1,499,20,349.64,399.2,49.56,UPI,Delivered,239,1,3
+ORD100337,15-12-2025,C1229,Customer_162,Female,18,Vellore,Tamil Nadu,North,P1357,Rice,Groceries,LG,8,999,20,667.46,6393.6,1053.92,Debit Card,Delivered,178,1,3
+ORD100338,10-02-2025,C1069,,Male,65,Coimbatore,Tamil Nadu,West,P1400,Tennis Ball,Sports,Local,8,299,20,211.13,1913.6,224.56,Debit Card,Cancelled,155,9,2
+ORD100339,02-08-2025,C1033,Customer_23,Female,60,Salem,Tamil Nadu,West,P1127,Milk,Groceries,Apple,6,1499,0,1077.07,8994.0,2531.58,Credit Card,Delivered,207,5,5
+ORD100340,03-12-2025,C1027,Customer_282,Female,65,Vellore,Tamil Nadu,North,P1450,T-Shirt,Clothing,HP,2,999,15,767.31,1698.3,163.68,Debit Card,Delivered,88,10,3
+ORD100341,12-07-2025,C1273,Customer_52,Male,59,Vellore,Tamil Nadu,North,P1210,Rice,Groceries,HP,2,999,5,639.79,1898.1,618.52,Debit Card,Delivered,192,3,5
+ORD100342,31-08-2025,C1271,Customer_145,Male,53,Salem,Tamil Nadu,West,P1065,Belt,Accessories,HP,6,799,10,442.98,4314.6,1656.72,Credit Card,Delivered,100,5,3
+ORD100343,21-04-2025,C1295,Customer_44,Male,24,Tirunelveli,Tamil Nadu,South,P1184,Bread,,Local,6,299,20,225.21,1435.2,83.94,Cash,Cancelled,176,7,5
+ORD100344,01-05-2025,C1283,Customer_274,Female,59,Trichy,Tamil Nadu,Central,P1406,Notebook,Books,Boat,7,4999,5,3130.25,33243.35,11331.6,Debit Card,Cancelled,54,3,1
+ORD100345,26-07-2025,C1269,Customer_248,Female,62,Coimbatore,Tamil Nadu,West,P1185,SQL Book,Books,Sony,5,2499,0,2073.08,12495.0,2129.6,Credit Card,Returned,286,8,3
+ORD100346,03-01-2025,C1243,Customer_175,Male,41,Trichy,Tamil Nadu,Central,P1288,Bag,Accessories,HP,4,2499,20,1749.67,7996.8,998.12,Net Banking,Delivered,53,7,5
+ORD100347,31-13-2025,C1082,Customer_102,Female,29,Chennai,Tamil Nadu,North,P1324,Sugar,Groceries,Samsung,1,199,10,151.67,179.1,27.43,UPI,Delivered,169,4,1
+ORD100348,22-02-2025,C1244,Customer_177,Male,33,Salem,Tamil Nadu,West,P1357,Bed,Furniture,Apple,4,999,5,550.21,3796.2,1595.36,Net Banking,Cancelled,227,10,3
+ORD100349,22-09-2025,C1030,Customer_211,Female,21,Trichy,Tamil Nadu,Central,P1156,Lamp,Home,HP,8,299,10,201.93,2152.8,537.36,Credit Card,Delivered,181,4,1
+ORD100350,19-05-2025,C1257,Customer_70,Male,38,Trichy,Tamil Nadu,Central,P1237,Curtain,Home,Local,8,199,15,168.3,1353.2,6.8,Debit Card,Delivered,265,8,1
+ORD100351,01-09-2025,C1200,Customer_147,Male,43,Madurai,Tamil Nadu,South,P1449,Curtain,Home,Sony,4,4999,150,3232.68,17996.4,5065.68,Cash,Cancelled,268,6,1
+ORD100352,10-05-2025,C1001,Customer_167,Female,49,Trichy,Tamil Nadu,Central,P1249,Table,Furniture,Local,1,9999,20,7062.64,7999.2,936.56,UPI,Delivered,88,1,3
+ORD100353,26-08-2025,C1008,Customer_170,Male,61,Madurai,Tamil Nadu,South,P1307,Train,Toys,LG,6,499,5,417.91,2844.3,336.84,Cash,Delivered,250,8,3
+ORD100354,11-07-2025,C1255,Customer_4,Male,61,Chennai,Tamil Nadu,North,P1321,Bottle,Home,Local,5,199,10,138.59,895.5,202.55,UPI,Delivered,296,2,3
+ORD100355,05-01-2025,C1052,Customer_7,Female,18,Tirunelveli,Tamil Nadu,South,P1070,Oil,Groceries,Sony,2,1499,20,1078.37,2398.4,241.66,Net Banking,Delivered,146,8,1
+ORD100356,20-10-2025,C1030,Customer_31,Female,37,Coimbatore,Tamil Nadu,West,P1494,Lotion,Beauty,Apple,8,4999,15,4224.52,33993.2,197.04,Cash,Returned,131,5,2
+ORD100357,21-10-2025,C1297,Customer_85,Female,34,Vellore,Tamil Nadu,North,P1485,Football,Sports,Local,6,999,0,631.88,5994.0,2202.72,Cash,Delivered,152,4,5
+ORD100358,03-08-2025,C1046,Customer_88,Male,51,Salem,Tamil Nadu,West,P1347,Notebook,Books,Sony,4,9999,20,8492.64,31996.8,-1973.76,Net Banking,Delivered,62,10,4
+ORD100359,29-06-2025,C1228,Customer_200,Male,55,Coimbatore,Tamil Nadu,West,P1365,Chair,Furniture,Nike,6,9999,15,6526.94,50994.9,11833.26,Cash,Cancelled,292,2,2
+ORD100360,06-12-2025,C1031,Customer_67,Female,21,Madurai,Tamil Nadu,South,P1048,Notebook,Books,Apple,1,9999,5,7537.29,9499.05,1961.76,Credit Card,Cancelled,178,9,5
+ORD100361,17-02-2025,C1097,Customer_156,Female,18,Trichy,Tamil Nadu,Central,P1058,Mouse,Electronics,Samsung,7,4999,10,3266.27,31493.7,8629.81,UPI,Delivered,157,5,2
+ORD100362,10-10-2025,C1131,Customer_300,Male,53,Chennai,Tamil Nadu,North,P1194,Train,Toys,LG,7,4999,5,3117.98,33243.35,11417.49,UPI,Cancelled,226,6,3
+ORD100363,06-05-2025,C1084,Customer_19,Female,58,Chennai,Tamil Nadu,North,P1026,Jacket,Clothing,Local,7,999,15,747.28,5944.05,713.09,UPI,Delivered,227,1,7
+ORD100364,18-03-2025,C1249,Customer_46,Male,38,Vellore,Tamil Nadu,North,P1114,Desk,Furniture,Sony,3,299,5,189.03,852.15,285.06,UPI,Cancelled,153,9,2
+ORD100365,02-09-2025,C1167,Customer_268,Female,41,Tirunelveli,Tamil Nadu,South,P1102,Soap,Beauty,Puma,6,499,5,391.88,2844.3,493.02,UPI,Cancelled,256,10,5
+ORD100366,18-03-2025,C1169,Customer_134,Male,62,Tirunelveli,Tamil Nadu,South,P1207,T-Shirt,Clothing,Samsung,6,199,5,156.6,1134.3,194.7,Debit Card,Delivered,134,1,2
+ORD100367,30-09-2025,C1288,Customer_154,Female,54,Salem,Tamil Nadu,West,P1039,Blocks,Toys,Local,1,4999,15,3879.6,4249.15,369.55,Net Banking,Delivered,168,5,5
+ORD100368,01-03-2025,C1156,Customer_181,Female,21,Trichy,Tamil Nadu,Central,P1370,Cupboard,Furniture,Sony,2,799,0,478.69,1598.0,640.62,Debit Card,Cancelled,246,7,2
+ORD100369,31-08-2025,C1157,Customer_121,Male,65,Salem,Tamil Nadu,West,P1215,Robot,Toys,Apple,5,2499,15,1863.79,10620.75,1301.8,Net Banking,Delivered,286,5,2
+ORD100370,05-08-2025,C1150,Customer_203,Male,49,Erode,Tamil Nadu,West,P1391,Cap,Clothing,Dell,7,4999,10,2799.39,31493.7,11897.97,UPI,Cancelled,199,7,3
+ORD100371,03-08-2025,C1209,Customer_268,Male,62,Coimbatore,Tamil Nadu,West,P1317,Cricket Bat,Sports,Boat,5,299,15,179.35,1270.75,374.0,Cash,Cancelled,292,2,5
+ORD100372,23-12-2025,C1114,Customer_278,Female,32,Madurai,Tamil Nadu,South,P1282,Bottle,Home,Boat,7,4999,0,3489.51,34993.0,10566.43,Debit Card,Delivered,208,3,5
+ORD100373,27-04-2025,C1084,Customer_192,Male,46,Vellore,Tamil Nadu,North,P1270,Car,Toys,HP,4,999,5,730.14,3796.2,875.64,Credit Card,Returned,141,8,2
+ORD100374,16-08-2025,C1261,Customer_173,Male,57,Vellore,Tamil Nadu,North,P1452,Milk,Groceries,Nike,5,2499,5,1416.43,11870.25,4788.1,Credit Card,Delivered,250,2,1
+ORD100375,22-09-2025,C1157,Customer_247,Female,59,Vellore,Tamil Nadu,North,P1268,Python Book,Books,Puma,3,999,15,651.49,2547.45,592.98,Cash,Delivered,222,9,4
+ORD100376,09-01-2025,C1276,Customer_122,Female,22,Madurai,Tamil Nadu,South,P1080,Charger,Accessories,HP,4,199,20,118.66,636.8,162.16,Debit Card,Delivered,261,4,5
+ORD100377,26-09-2025,C1159,Customer_152,Male,39,Tirunelveli,Tamil Nadu,South,P1295,Headphones,Electronics,Dell,6,4999,15,3041.09,25494.9,7248.36,Net Banking,Returned,68,2,5
+ORD100378,28-08-2025,C1144,Customer_227,Female,22,Coimbatore,Tamil Nadu,West,P1337,Sunglasses,Accessories,Sony,4,499,10,297.52,1796.4,606.32,Debit Card,Delivered,102,7,5
+ORD100379,02-10-2025,C1164,Customer_156,Male,59,Erode,Tamil Nadu,West,P1225,Sunglasses,Accessories,Dell,7,299,20,235.28,1674.4,27.44,UPI,Delivered,156,9,3
+ORD100380,31-13-2025,C1278,Customer_185,Male,58,Coimbatore,Tamil Nadu,West,P1168,Mouse,Electronics,Nike,1,499,150,394.45,399.2,4.75,Debit Card,Returned,99,5,1
+ORD100381,25-10-2025,C1052,Customer_166,Female,52,Salem,Tamil Nadu,West,P1023,Shirt,Clothing,Local,8,199,10,148.29,1432.8,246.48,UPI,Delivered,290,6,2
+ORD100382,17-12-2025,C1020,Customer_7,Female,32,Trichy,Tamil Nadu,Central,P1086,Cap,Clothing,Boat,5,2499,0,1484.04,12495.0,5074.8,UPI,Delivered,55,10,1
+ORD100383,21-12-2025,C1173,Customer_220,Male,39,Salem,Tamil Nadu,West,P1411,Laptop,Electronics,Sony,8,9999,5,7929.9,75992.4,12553.2,Debit Card,Returned,174,2,1
+ORD100384,02-09-2025,C1197,Customer_195,Female,59,Erode,Tamil Nadu,West,P1045,Bed,Furniture,HP,6,2499,15,1958.41,12744.9,994.44,Credit Card,Cancelled,149,10,2
+ORD100385,23-11-2025,C1010,Customer_20,Male,49,Vellore,Tamil Nadu,North,P1386,Sunglasses,Accessories,Apple,6,1499,5,1170.81,8544.3,1519.44,UPI,Delivered,231,2,5
+ORD100386,08-08-2025,C1084,Customer_76,Female,29,Trichy,Tamil Nadu,Central,P1295,Car,Toys,Samsung,2,299,15,240.43,508.3,27.44,Cash,Returned,82,5,4
+ORD100387,26-10-2025,C1099,Customer_264,Female,40,Madurai,Tamil Nadu,South,P1274,Yoga Mat,Sports,Apple,6,9999,10,6017.46,53994.6,17889.84,Credit Card,Delivered,205,10,1
+ORD100388,28-08-2025,C1247,Customer_166,Male,56,Tirunelveli,Tamil Nadu,South,P1302,Sunglasses,Accessories,Nike,4,199,0,121.13,796.0,311.48,Credit Card,Delivered,253,4,5
+ORD100389,24-04-2025,C1172,Customer_49,Male,49,Madurai,Tamil Nadu,South,P1297,Fan,Home,Nike,5,9999,10,6872.61,44995.5,10632.45,UPI,Returned,193,4,5
+ORD100390,15-11-2025,C1262,Customer_23,Male,61,Coimbatore,Tamil Nadu,West,P1148,Yoga Mat,Sports,Local,1,799,0,620.77,799.0,178.23,Debit Card,Delivered,157,7,1
+ORD100391,05-05-2025,C1006,Customer_205,Female,30,Salem,Tamil Nadu,West,P1321,Cream,Beauty,Samsung,7,499,0,322.31,3493.0,1236.83,Debit Card,Returned,41,4,1
+ORD100392,01-06-2025,C1254,Customer_169,Female,60,Coimbatore,Tamil Nadu,West,P1417,Oil,Groceries,Dell,6,299,5,232.98,1704.3,306.42,Cash,Delivered,204,5,5
+ORD100393,27-09-2025,C1218,Customer_225,Male,52,Coimbatore,Tamil Nadu,West,P1050,Python Book,Books,Dell,8,499,10,315.16,3592.8,1071.52,Debit Card,Returned,105,10,4
+ORD100394,22-09-2025,C1159,Customer_33,Male,24,Chennai,Tamil Nadu,North,P1435,Bed,Furniture,Boat,5,999,10,672.86,4495.5,1131.2,UPI,Cancelled,206,5,4
+ORD100395,04-06-2025,C1278,Customer_177,Male,31,Tirunelveli,Tamil Nadu,South,P1429,Eggs,Groceries,Local,5,4999,15,3230.97,21245.75,5090.9,UPI,Delivered,290,10,3
+ORD100396,10-08-2025,C1148,Customer_232,Female,34,Salem,Tamil Nadu,West,P1454,Robot,Toys,Boat,6,499,5,371.58,2844.3,614.82,Cash,Returned,56,8,3
+ORD100397,31-13-2025,C1147,Customer_291,Male,21,Salem,Tamil Nadu,West,P1312,Novel,Books,Local,4,1499,0,1074.61,5996.0,1697.56,Credit Card,Cancelled,191,8,2
+ORD100398,19-08-2025,C1165,Customer_219,Female,28,Erode,Tamil Nadu,West,P1287,Bed,Furniture,HP,2,4999,10,3055.59,8998.2,2887.02,UPI,Cancelled,171,9,4
+ORD100399,23-05-2025,C1084,Customer_125,Female,53,Salem,Tamil Nadu,West,P1494,Cap,Clothing,Local,4,799,0,615.29,3196.0,734.84,Cash,Returned,238,6,3
+ORD100400,13-08-2025,C1213,Customer_21,Female,40,Vellore,Tamil Nadu,North,P1176,Lamp,Home,Nike,3,9999,15,7214.5,25497.45,3853.95,Cash,Cancelled,62,4,1
+ORD100401,16-08-2025,C1239,Customer_32,Male,18,Chennai,Tamil Nadu,North,P1059,Rice,Groceries,LG,2,2499,20,1886.23,3998.4,225.94,UPI,Delivered,129,9,3
+ORD100402,28-03-2025,C1239,Customer_22,Female,47,Trichy,Tamil Nadu,Central,P1325,Curtain,Home,Apple,2,499,10,383.73,898.2,130.74,UPI,Returned,238,9,5
+ORD100403,07-02-2025,C1135,Customer_262,Male,18,Trichy,Tamil Nadu,Central,P1234,Oil,Groceries,Boat,5,799,15,581.23,3395.75,489.6,Debit Card,Delivered,69,8,1
+ORD100404,03-07-2025,C1083,Customer_210,Femle,44,Trichy,Tamil Nadu,Central,P1396,Belt,Accessories,LG,3,1499,20,1111.1,3597.6,264.3,UPI,Delivered,147,7,4
+ORD100405,14-01-2025,C1088,Customer_200,Female,65,Trichy,Tamil Nadu,Central,P1239,Shirt,Clothing,LG,5,499,15,280.22,2120.75,719.65,Credit Card,Returned,197,1,1
+ORD100406,26-11-2025,C1131,Customer_192,Female,41,Trichy,Tamil Nadu,Central,P1095,Dictionary,Books,Nike,2,999,5,763.21,1898.1,371.68,Debit Card,Delivered,85,3,3
+ORD100407,22-06-2025,C1235,Customer_175,Female,60,Coimbatore,Tamil Nadu,West,P1050,Shoes,Sports,Sony,4,299,20,211.26,956.8,111.76,Net Banking,Returned,208,1,1
+ORD100408,28-07-2025,C1039,Customer_106,Male,54,Vellore,Tamil Nadu,North,P1152,Wallet,Accessories,HP,8,9999,20,6714.7,63993.6,10276.0,Debit Card,Returned,120,1,3
+ORD100409,18-08-2025,C1126,Customer_74,Female,55,Tirunelveli,Tamil Nadu,South,P1111,Data Science Book,,Puma,8,1499,20,1192.73,9593.6,51.76,UPI,Delivered,198,4,3
+ORD100410,25-06-2025,C1019,Customer_68,Female,56,Coimbatore,Tamil Nadu,West,P1421,Headphones,Electronics,Puma,8,4999,10,3966.42,35992.8,4261.44,Cash,Delivered,143,5,5
+ORD100411,15-01-2025,C1162,Customer_225,Male,37,Coimbatore,Tamil Nadu,West,P1469,SQL Book,Books,Puma,6,499,15,328.76,2544.9,572.34,Debit Card,Delivered,232,5,3
+ORD100412,13-01-2025,C1199,Customer_85,Male,65,Coimbatore,Tamil Nadu,West,P1204,Watch,Accessories,Puma,4,2499,0,1884.2,9996.0,2459.2,Credit Card,Cancelled,59,6,4
+ORD100413,03-09-2025,C1025,Customer_245,Female,20,Salem,Tamil Nadu,West,P1147,Jeans,,Samsung,6,2499,15,1893.77,12744.9,1382.28,UPI,Delivered,118,2,2
+ORD100414,18-07-2025,C1141,Customer_232,Male,57,Salem,Tamil Nadu,West,P1243,Cupboard,Furniture,Apple,2,199,15,151.46,338.3,35.38,Debit Card,Returned,84,8,4
+ORD100415,04-11-2025,C1261,Customer_107,Female,54,Vellore,Tamil Nadu,North,P1405,Novel,Books,Apple,8,2499,20,1436.34,15993.6,4502.88,Net Banking,Cancelled,107,8,5
+ORD100416,28-09-2025,C1108,Customer_204,Female,55,Chennai,Tamil Nadu,North,P1125,Laptop,Electronics,Local,2,199,0,153.63,398.0,90.74,Credit Card,Delivered,246,8,2
+ORD100417,18-08-2025,C1217,Customer_111,Female,21,Vellore,Tamil Nadu,North,P1228,Jeans,Clothing,Dell,2,299,5,184.8,568.1,198.5,Cash,Delivered,132,8,3
+ORD100418,05-11-2025,C1057,Customer_154,Female,25,Erode,Tamil Nadu,West,P1094,Printer,Electronics,Dell,1,1499,20,1225.13,1199.2,-25.93,Net Banking,Returned,204,4,5
+ORD100419,17-06-2025,C1108,Customer_144,Male,29,Erode,Tamil Nadu,West,P1468,Cupboard,Furniture,Puma,2,299,15,205.59,508.3,97.12,Credit Card,Delivered,261,9,1
+ORD100420,12-12-2025,C1131,Customer_230,Male,43,Madurai,Tamil Nadu,South,P1051,Blocks,Toys,Local,3,499,20,385.2,1197.6,42.0,Credit Card,Delivered,282,2,3
+ORD100421,19-04-2025,C1016,Customer_198,Male,56,Tirunelveli,Tamil Nadu,South,P1415,Fan,Home,HP,5,799,20,447.25,3196.0,959.75,Net Banking,Returned,291,9,5
+ORD100422,21-07-2025,C1057,Customer_9,Female,63,Vellore,Tamil Nadu,North,P1180,Notebook,Books,Dell,2,799,10,543.5,1438.2,351.2,Net Banking,Delivered,271,5,2
+ORD100423,25-08-2025,C1069,Customer_54,Male,48,Vellore,Tamil Nadu,North,P1179,Puzzle,Toys,Puma,7,2499,15,1482.31,14869.05,4492.88,Debit Card,Delivered,278,6,4
+ORD100424,27-08-2025,C1228,Customer_225,Male,61,Tirunelveli,Tamil Nadu,South,P1488,Data Science Book,Books,Samsung,-4,2499,0,1828.73,4998.0,1340.54,Net Banking,Cancelled,272,3,1
+ORD100425,22-04-2025,C1220,Customer_234,Male,36,Chennai,Tamil Nadu,North,P1147,Laptop,Electronics,Local,3,4999,0,3729.92,14997.0,3807.24,Net Banking,Delivered,257,9,5
+ORD100426,31-08-2025,C1282,Customer_271,Female,18,Coimbatore,Tamil Nadu,West,P1421,Charger,Accessories,Sony,2,299,10,232.74,538.2,72.72,Credit Card,Returned,265,9,1
+ORD100427,10-03-2025,C1117,Customer_95,Male,49,Tirunelveli,Tamil Nadu,South,P1185,T-Shirt,Clothing,LG,1,199,20,150.57,159.2,8.63,Net Banking,Delivered,202,6,5
+ORD100428,13-01-2025,C1182,Customer_177,Male,39,Trichy,Tamil Nadu,Central,P1202,Table,Furniture,LG,1,799,20,635.3,639.2,3.9,Net Banking,Cancelled,108,2,2
+ORD100429,02-09-2025,C1177,Customer_246,Male,37,Erode,Tamil Nadu,West,P1483,Charger,Accessories,LG,3,999,20,840.51,2397.6,-123.93,Net Banking,Cancelled,68,3,2
+ORD100430,24-12-2025,C1040,Customer_138,Male,21,Tirunelveli,Tamil Nadu,South,P1331,Cream,Beauty,Apple,6,999,0,680.63,5994.0,1910.22,Credit Card,Delivered,175,6,5
+ORD100431,31-08-2025,C1108,Customer_59,Male,62,Erode,Tamil Nadu,West,P1107,Doll,Toys,Apple,5,999,5,666.9,4745.25,1410.75,UPI,Delivered,210,8,3
+ORD100432,23-02-2025,C1083,Customer_115,Female,43,Coimbatore,Tamil Nadu,West,P1297,Shoes,Sports,Samsung,2,199,5,162.94,378.1,52.22,Credit Card,Cancelled,207,1,2
+ORD100433,26-01-2025,C1253,Customer_251,Male,43,Madurai,Tamil Nadu,South,P1266,Sunglasses,Accessories,Dell,1,999,5,765.27,949.05,183.78,Net Banking,Delivered,128,8,5
+ORD100434,01-10-2025,C1210,Customer_279,Female,56,Salem,Tamil Nadu,West,P1114,Cupboard,Furniture,Dell,3,9999,150,7466.72,25497.45,3097.29,Cash,Cancelled,217,8,1
+ORD100435,05-10-2025,C1142,Customer_86,Male,28,Chennai,Tamil Nadu,North,P1365,Chair,Furniture,HP,3,2499,150,1932.32,5997.6,200.64,Debit Card,Delivered,81,8,5
+ORD100436,28-04-2025,C1012,Customer_181,Female,18,Trichy,Tamil Nadu,Central,P1399,Jersey,Sports,Puma,4,499,0,373.85,1996.0,500.6,Net Banking,Delivered,137,5,3
+ORD100437,28-04-2025,C1184,Customer_26,Female,35,Coimbatore,Tamil Nadu,West,P1450,Monitor,Electronics,HP,5,1499,5,906.43,7120.25,2588.1,Cash,Delivered,238,10,3
+ORD100438,08-09-2025,C1123,Customer_186,Male,37,Madurai,Tamil Nadu,South,P1003,Printer,Electronics,Sony,2,499,0,332.13,998.0,333.74,UPI,Cancelled,251,4,4
+ORD100439,01-02-2025,C1003,Customer_193,Male,46,Vellore,Tamil Nadu,North,P1500,SQL Book,Books,Nike,5,2499,20,1386.3,9996.0,3064.5,UPI,Delivered,249,6,1
+ORD100440,15-04-2025,C1226,Customer_261,Female,24,Salem,Tamil Nadu,West,P1009,Mouse,Electronics,Local,7,999,20,815.37,5594.4,-113.19,Cash,Delivered,128,1,1
+ORD100441,13-07-2025,C1122,Customer_27,Female,20,Salem,Tamil Nadu,West,P1481,Shoes,Clothing,Puma,1,499,15,301.61,424.15,122.54,UPI,Delivered,202,4,2
+ORD100442,14-11-2025,C1112,Customer_174,Female,40,Madurai,Tamil Nadu,South,P1212,Cooker,Home,Sony,3,299,0,202.21,897.0,290.37,Debit Card,Returned,290,7,3
+ORD100443,21-08-2025,C1273,Customer_41,Female,42,Trichy,Tamil Nadu,Central,P1332,Mouse,Electronics,HP,-4,499,0,376.94,998.0,244.12,Net Banking,Returned,84,10,1
+ORD100444,21-05-2025,C1185,Customer_277,Male,59,Madurai,Tamil Nadu,South,P1104,Perfume,Beauty,HP,6,299,10,229.95,1614.6,234.9,Cash,Cancelled,85,7,4
+ORD100445,15-02-2025,C1246,Customer_174,Female,44,Chennai,Tamil Nadu,North,P1375,Bed,Furniture,Sony,8,1499,15,1070.98,10193.2,1625.36,Credit Card,Delivered,194,1,3
+ORD100446,21-06-2025,C1010,Customer_207,Female,18,Salem,Tamil Nadu,West,P1257,Puzzle,Toys,Sony,5,999,0,812.3,4995.0,933.5,Debit Card,Returned,155,7,5
+ORD100447,20-08-2025,C1257,Customer_43,Female,28,Chennai,Tamil Nadu,North,P1020,Data Science Book,Books,Nike,4,9999,0,6939.88,39996.0,12236.48,Net Banking,Returned,114,6,1
+ORD100448,09-05-2025,C1205,Customer_43,Female,57,Erode,Tamil Nadu,West,P1408,Lotion,Beauty,Boat,8,1499,5,875.5,11392.4,4388.4,Net Banking,Cancelled,94,1,2
+ORD100449,16-11-2025,C1219,Customer_190,Mle,50,Erode,Tamil Nadu,West,P1454,Cooker,Home,Nike,1,9999,0,6050.26,9999.0,3948.74,Cash,Delivered,91,3,3
+ORD100450,29-10-2025,C1063,Customer_137,Female,21,Coimbatore,Tamil Nadu,West,P1419,Cream,Beauty,Nike,7,799,0,529.89,5593.0,1883.77,Debit Card,Returned,237,3,5
+ORD100451,15-09-2025,C1060,Customer_282,Female,48,Trichy,Tamil Nadu,Central,P1191,Wallet,Accessories,Boat,4,9999,10,6396.02,35996.4,10412.32,Net Banking,Delivered,263,4,2
+ORD100452,20-02-2025,C1035,Customer_88,Male,41,Coimbatore,Tamil Nadu,West,P1233,Cricket Bat,Sports,Local,-5,2499,0,2058.27,7497.0,1322.19,Credit Card,Returned,245,1,4
+ORD100453,09-11-2025,C1300,Customer_2,Female,21,Chennai,Tamil Nadu,North,P1106,Blocks,,Sony,2,799,10,464.42,1438.2,509.36,Cash,Delivered,41,2,2
+ORD100454,31-13-2025,C1023,Customer_231,Female,42,Erode,Tamil Nadu,West,P1365,Mixer,Home,Dell,6,4999,15,3476.15,25494.9,4638.0,Net Banking,Returned,87,6,1
+ORD100455,22-09-2025,C1138,Customer_95,Female,50,Chennai,Tamil Nadu,North,P1283,Lamp,Home,Boat,8,999,5,753.86,7592.4,1561.52,Credit Card,Delivered,278,9,1
+ORD100456,11-05-2025,C1269,Customer_22,Male,65,Salem,Tamil Nadu,West,P1159,Shampoo,Beauty,Dell,3,199,10,158.63,537.3,61.41,Net Banking,Delivered,226,1,2
+ORD100457,09-02-2025,C1290,Customer_204,Male,40,Trichy,Tamil Nadu,Central,P1102,Sofa,Furniture,Samsung,2,1499,10,1262.88,2698.2,172.44,Net Banking,Delivered,90,3,3
+ORD100458,10-11-2025,C1270,,Female,43,Trichy,Tamil Nadu,Central,P1135,Tennis Ball,Sports,Dell,7,299,10,213.46,1883.7,389.48,Debit Card,Returned,277,4,4
+ORD100459,13-12-2025,C1289,Customer_300,Female,41,Tirunelveli,Tamil Nadu,South,P1065,Cream,Beauty,Sony,2,299,15,232.76,508.3,42.78,Cash,Returned,42,9,1
+ORD100460,10-12-2025,C1177,Customer_227,Male,29,Erode,Tamil Nadu,West,P1039,Sofa,Furniture,Puma,7,2499,5,1387.87,16618.35,6903.26,Cash,Delivered,50,6,1
+ORD100461,04-05-2025,C1298,Customer_242,Female,38,Trichy,Tamil Nadu,Central,P1374,Watch,Accessories,Samsung,2,9999,0,7498.86,19998.0,5000.28,Cash,Delivered,273,9,1
+ORD100462,13-06-2025,C1132,Customer_149,Female,27,Erode,Tamil Nadu,West,P1066,Train,Toys,Apple,6,1499,20,1083.33,7195.2,695.22,Cash,Delivered,222,6,4
+ORD100463,31-05-2025,C1137,Customer_34,Female,26,Trichy,Tamil Nadu,Central,P1440,Jeans,Clothing,Boat,3,199,15,134.69,507.45,103.38,UPI,Delivered,103,5,1
+ORD100464,10-06-2025,C1155,Customer_57,Female,57,Erode,Tamil Nadu,West,P1315,Face Wash,Beauty,Local,6,2499,20,1486.69,11995.2,3075.06,Debit Card,Cancelled,61,3,5
+ORD100465,28-12-2025,C1300,Customer_101,Male,40,Chennai,Tamil Nadu,North,P1109,Puzzle,Toys,Puma,4,9999,10,8011.01,35996.4,3952.36,Cash,Cancelled,63,9,2
+ORD100466,09-09-2025,C1024,Customer_121,Female,24,Tirunelveli,Tamil Nadu,South,P1068,Sunglasses,Accessories,Boat,5,799,15,495.69,3395.75,917.3,Credit Card,Delivered,237,8,2
+ORD100467,12-12-2025,C1092,Customer_148,Male,51,Coimbatore,Tamil Nadu,West,P1222,Soap,Beauty,LG,8,2499,20,1691.12,15993.6,2464.64,UPI,Returned,273,3,5
+ORD100468,04-07-2025,C1098,Customer_50,Female,53,Trichy,Tamil Nadu,Central,P1150,Table,Furniture,Sony,4,499,5,290.65,1896.2,733.6,Net Banking,Delivered,234,2,5
+ORD100469,30-01-2025,C1222,Customer_14,Female,55,Tirunelveli,Tamil Nadu,South,P1484,Lamp,Home,Puma,3,2499,15,1913.62,6372.45,631.59,Cash,Returned,130,7,1
+ORD100470,19-05-2025,C1038,Customer_186,Male,54,Salem,Tamil Nadu,West,P1130,Sugar,Groceries,Dell,1,299,10,185.59,269.1,83.51,Cash,Delivered,66,1,3
+ORD100471,05-11-2025,C1250,Customer_51,Male,64,Coimbatore,Tamil Nadu,West,P1039,Sofa,Furniture,LG,6,499,20,409.69,2395.2,-62.94,Debit Card,Delivered,55,3,5
+ORD100472,09-12-2025,C1172,Customer_54,Female,57,Erode,Tamil Nadu,West,P1171,Python Book,Books,LG,4,4999,20,3814.43,15996.8,739.08,Debit Card,Delivered,90,4,2
+ORD100473,24-04-2025,C1287,Customer_20,Male,46,Salem,Tamil Nadu,West,P1408,Doll,Toys,Dell,6,499,0,369.42,2994.0,777.48,Cash,Cancelled,299,6,1
+ORD100474,23-12-2025,C1140,Customer_91,Female,49,Coimbatore,Tamil Nadu,West,P1480,Jersey,Sports,Puma,1,499,20,397.2,399.2,2.0,Cash,Cancelled,178,4,3
+ORD100475,01-03-2025,C1244,Customer_166,Male,42,Vellore,Tamil Nadu,North,P1226,Python Book,Books,Puma,2,2499,5,1439.53,4748.1,1869.04,Net Banking,Returned,188,3,1
+ORD100476,13-10-2025,C1154,Customer_260,Female,32,Vellore,Tamil Nadu,North,P1148,Bread,Groceries,LG,8,199,10,116.42,1432.8,501.44,Cash,Delivered,64,2,4
+ORD100477,31-13-2025,C1205,Customer_141,Male,39,Tirunelveli,Tamil Nadu,South,P1259,Oil,Groceries,Boat,4,199,5,157.21,756.2,127.36,Credit Card,Cancelled,46,8,1
+ORD100478,01-04-2025,C1234,Customer_23,Female,47,Tirunelveli,Tamil Nadu,South,P1057,Cap,Clothing,HP,4,4999,5,3768.49,18996.2,3922.24,Net Banking,Delivered,154,7,1
+ORD100479,02-07-2025,C1043,,Male,23,Tirunelveli,Tamil Nadu,South,P1237,Keyboard,Electronics,Local,7,199,0,165.66,1393.0,233.38,Net Banking,Returned,284,2,5
+ORD100480,30-04-2025,C1243,Customer_148,Female,23,Trichy,Tamil Nadu,Central,P1256,Desk,Furniture,Dell,6,199,0,143.26,1194.0,334.44,Credit Card,Delivered,249,9,3
+ORD100481,10-02-2025,C1041,Customer_189,Female,49,Coimbatore,Tamil Nadu,West,P1188,Doll,Toys,Puma,4,1499,5,1246.94,5696.2,708.44,UPI,Returned,78,9,3
+ORD100482,09-05-2025,C1204,Customer_179,Female,26,Chennai,Tamil Nadu,North,P1186,Cooker,Home,Samsung,1,199,15,116.55,169.15,52.6,Cash,Delivered,289,9,2
+ORD100483,03-11-2025,C1248,Customer_114,Male,21,Erode,Tamil Nadu,West,P1496,Bottle,Home,LG,8,799,15,624.97,5433.2,433.44,Credit Card,Returned,145,1,1
+ORD100484,13-02-2025,C1050,Customer_291,Male,25,Chennai,Tamil Nadu,North,P1205,Blocks,Toys,HP,8,1499,5,825.29,11392.4,4790.08,Cash,Returned,237,1,7
+ORD100485,17-02-2025,C1263,Customer_144,Female,42,Madurai,Tamil Nadu,South,P1434,Sunglasses,Accessories,Samsung,3,1499,15,876.18,3822.45,1193.91,UPI,Delivered,216,1,4
+ORD100486,10-08-2025,C1186,Customer_103,Female,38,Chennai,Tamil Nadu,North,P1251,Watch,Accessories,Boat,5,499,0,279.05,2495.0,1099.75,Credit Card,Delivered,268,3,2
+ORD100487,28-09-2025,C1082,Customer_278,Female,40,Erode,Tamil Nadu,West,P1391,Sunglasses,Accessories,Dell,5,499,15,385.59,2120.75,192.8,Cash,Returned,116,5,4
+ORD100488,29-07-2025,C1300,Customer_121,Female,23,Coimbatore,Tamil Nadu,West,P1458,Milk,Groceries,Local,7,499,10,316.21,3143.7,930.23,Cash,Delivered,244,1,2
+ORD100489,03-10-2025,C1209,Customer_196,Female,31,Salem,Tamil Nadu,West,P1239,Cap,Clothing,Apple,4,2499,10,1428.2,8996.4,3283.6,Credit Card,Delivered,89,1,2
+ORD100490,24-09-2025,C1008,Customer_234,Female,31,Madurai,Tamil Nadu,South,P1185,Cream,Beauty,Sony,7,2499,5,1937.37,16618.35,3056.76,Debit Card,Delivered,60,7,3
+ORD100491,15-08-2025,C1013,Customer_13,Male,42,Tirunelveli,Tamil Nadu,South,P1349,Rice,Groceries,Dell,6,199,5,123.67,1134.3,392.28,Debit Card,Delivered,80,10,1
+ORD100492,14-03-2025,C1113,Customer_108,Female,33,Coimbatore,Tamil Nadu,West,P1019,Bread,Groceries,Samsung,2,2499,15,2074.15,4248.3,100.0,Cash,Cancelled,101,10,2
+ORD100493,06-10-2025,C1051,Customer_180,Male,64,Erode,Tamil Nadu,West,P1036,Shampoo,Beauty,Boat,3,2499,5,1965.88,7122.15,1224.51,Debit Card,Delivered,283,4,2
+ORD100494,07-09-2025,C1258,Customer_161,Male,18,Salem,Tamil Nadu,West,P1262,Desk,Furniture,Samsung,4,4999,10,3730.25,17996.4,3075.4,Cash,Delivered,51,6,3
+ORD100495,10-10-2025,C1036,Customer_48,Female,30,Trichy,Tamil Nadu,Central,P1402,Cupboard,Furniture,Dell,7,199,10,123.25,1253.7,390.95,Cash,Delivered,129,3,1
+ORD100496,09-06-2025,C1018,Customer_288,Female,49,Chennai,Tamil Nadu,North,P1194,Sofa,Furniture,LG,3,299,0,188.33,897.0,332.01,Credit Card,Cancelled,53,3,2
+ORD100497,15-03-2025,C1059,,Male,29,Salem,Tamil Nadu,West,P1244,Bread,Groceries,Dell,6,2499,0,1810.02,14994.0,4133.88,Cash,Delivered,217,3,3
+ORD100498,22-06-2025,C1216,Customer_123,Male,63,Tirunelveli,Tamil Nadu,South,P1409,Desk,Furniture,Dell,2,9999,0,8368.59,19998.0,3260.82,UPI,Delivered,202,6,2
+ORD100499,12-11-2025,C1160,Customer_288,Female,41,Salem,Tamil Nadu,West,P1237,Charger,Accessories,LG,5,9999,5,7142.59,47495.25,11782.3,UPI,Delivered,77,3,5
+ORD100500,31-13-2025,C1043,Customer_276,Male,19,Chennai,Tamil Nadu,North,P1344,Perfume,Beauty,Sony,1,9999,20,6411.05,7999.2,1588.15,Net Banking,Delivered,107,10,1
+ORD100501,23-04-2025,C1144,Customer_170,Female,33,Vellore,Tamil Nadu,North,P1089,Keyboard,Electronics,HP,6,199,5,141.51,1134.3,285.24,Credit Card,Returned,76,3,4
+ORD100502,03-12-2025,C1148,Customer_80,Male,49,Erode,Tamil Nadu,West,P1285,Cupboard,Furniture,Samsung,5,4999,0,2809.58,24995.0,10947.1,Cash,Cancelled,262,6,2
+ORD100503,27-12-2025,C1039,Customer_95,Male,34,Vellore,Tamil Nadu,North,P1495,Bottle,Home,Dell,3,199,5,146.54,567.15,127.53,Credit Card,Returned,206,10,5
+ORD100504,28-06-2025,C1035,Customer_33,Female,28,Vellore,Tamil Nadu,North,P1103,Cream,Beauty,Nike,6,2499,10,1416.38,13494.6,4996.32,UPI,Cancelled,77,8,1
+ORD100505,31-13-2025,C1125,Customer_222,Female,45,Chennai,Tamil Nadu,North,P1118,Printer,Electronics,Local,1,999,0,692.72,999.0,306.28,Credit Card,Delivered,284,3,5
+ORD100506,20-07-2025,C1027,Customer_49,Female,22,Vellore,Tamil Nadu,North,P1227,Table,Furniture,Apple,7,2499,15,2016.25,14869.05,755.3,Cash,Delivered,87,4,3
+ORD100507,12-02-2025,C1113,Customer_111,Male,60,Trichy,Tamil Nadu,Central,P1267,Chair,Furniture,Apple,8,1499,20,1189.73,9593.6,75.76,Net Banking,Cancelled,257,9,3
+ORD100508,10-03-2025,C1218,Customer_259,Female,64,Coimbatore,Tamil Nadu,West,P1322,Cooker,Home,HP,8,199,0,117.24,1592.0,654.08,Credit Card,Delivered,44,8,5
+ORD100509,28-11-2025,C1193,Customer_29,Female,49,Salem,Tamil Nadu,West,P1060,Cricket Bat,Sports,Local,2,299,5,200.19,568.1,167.72,Debit Card,Delivered,192,7,2
+ORD100510,04-01-2025,C1162,Customer_129,Female,64,Vellore,Tamil Nadu,North,P1497,Bag,Accessories,Samsung,8,799,15,565.43,5433.2,909.76,Net Banking,Delivered,234,8,2
+ORD100511,17-11-2025,C1114,Customer_176,Male,56,Chennai,Tamil Nadu,North,P1493,Bed,Furniture,HP,5,1499,20,973.23,5996.0,1129.85,Cash,Delivered,188,6,4
+ORD100512,06-04-2025,C1193,Customer_83,Female,57,Coimbatore,Tamil Nadu,West,P1239,Jeans,Clothing,Dell,5,1499,0,1200.22,7495.0,1493.9,Cash,Cancelled,266,1,1
+ORD100513,05-08-2025,C1264,Customer_222,Female,40,Coimbatore,Tamil Nadu,West,P1318,Bag,Accessories,Sony,2,1499,15,1108.48,2548.3,331.34,Cash,Cancelled,245,10,2
+ORD100514,04-03-2025,C1247,Customer_239,Female,42,Salem,Tamil Nadu,West,P1092,Cricket Bat,,Sony,5,299,10,189.43,1345.5,398.35,UPI,Delivered,262,1,4
+ORD100515,01-04-2025,C1276,Customer_256,Female,45,Madurai,Tamil Nadu,South,P1136,Monitor,Electronics,Dell,2,199,15,148.93,338.3,40.44,Credit Card,Returned,110,7,1
+ORD100516,06-06-2025,C1075,Customer_104,Male,61,Coimbatore,Tamil Nadu,West,P1025,Sofa,Furniture,Local,2,4999,15,3038.96,8498.3,2420.38,Cash,Delivered,280,1,3
+ORD100517,24-01-2025,C1011,Customer_118,Female,24,Salem,Tamil Nadu,West,P1320,Sofa,Furniture,Local,7,999,20,747.77,5594.4,360.01,Debit Card,Returned,207,9,3
+ORD100518,27-01-2025,C1120,Customer_136,Female,20,Trichy,Tamil Nadu,Central,P1496,Data Science Book,Books,Local,5,799,5,582.76,3795.25,881.45,Cash,Delivered,128,9,4
+ORD100519,19-04-2025,C1087,Customer_97,Female,41,Coimbatore,Tamil Nadu,West,P1160,Lamp,Home,Boat,5,799,15,670.64,3395.75,42.55,Net Banking,Delivered,65,4,1
+ORD100520,29-08-2025,C1211,Customer_7,Female,34,Salem,Tamil Nadu,West,P1159,Perfume,Beauty,Nike,4,4999,10,2900.12,17996.4,6395.92,Debit Card,Returned,136,7,5
+ORD100521,26-03-2025,C1149,Customer_73,Male,47,Trichy,Tamil Nadu,Central,P1281,Shampoo,Beauty,Dell,5,199,5,128.38,945.25,303.35,Debit Card,Returned,222,5,4
+ORD100522,07-05-2025,C1081,Customer_139,Male,31,Madurai,Tamil Nadu,South,P1099,Curtain,Home,LG,2,4999,15,3739.06,8498.3,1020.18,Debit Card,Delivered,269,6,5
+ORD100523,01-04-2025,C1054,Customer_242,Male,30,Coimbatore,Tamil Nadu,West,P1366,Mouse,Electronics,LG,3,2499,0,1671.3,7497.0,2483.1,Net Banking,Returned,294,5,2
+ORD100524,18-02-2025,C1049,Customer_214,Female,59,Trichy,Tamil Nadu,Central,P1008,Cream,Beauty,Nike,3,999,10,708.26,2697.3,572.52,Net Banking,Delivered,248,7,4
+ORD100525,31-07-2025,C1082,Customer_289,Male,59,Tirunelveli,Tamil Nadu,South,P1474,Monitor,Electronics,Nike,5,799,5,486.89,3795.25,1360.8,Credit Card,Returned,228,8,1
+ORD100526,25-10-2025,C1240,Customer_58,Male,20,Erode,Tamil Nadu,West,P1006,Curtain,Home,Samsung,2,999,0,687.68,1998.0,622.64,Debit Card,Delivered,167,5,2
+ORD100527,07-10-2025,C1083,Customer_66,Male,64,Tirunelveli,Tamil Nadu,South,P1417,Bag,Accessories,Puma,2,299,10,195.11,538.2,147.98,Credit Card,Cancelled,191,8,3
+ORD100528,10-05-2025,C1193,Customer_220,Male,62,Trichy,Tamil Nadu,Central,P1009,Doll,Toys,Nike,1,2499,0,1963.41,2499.0,535.59,UPI,Delivered,272,8,3
+ORD100529,21-04-2025,C1194,Customer_84,Female,44,Coimbatore,Tamil Nadu,West,P1450,Jeans,Clothing,LG,2,2499,15,1628.14,4248.3,992.02,Cash,Delivered,203,10,4
+ORD100530,17-10-2025,C1282,Customer_97,Female,20,Tirunelveli,Tamil Nadu,South,P1425,Face Wash,Beauty,Samsung,8,2499,5,1614.61,18992.4,6075.52,Net Banking,Cancelled,154,4,5
+ORD100531,09-07-2025,C1141,Customer_218,Male,58,Trichy,Tamil Nadu,Central,P1122,Cooker,Home,Sony,8,199,20,112.58,1273.6,372.96,Cash,Returned,49,4,4
+ORD100532,25-12-2025,C1106,Customer_145,Male,51,Vellore,Tamil Nadu,North,P1130,Soap,Beauty,Apple,2,199,15,127.15,338.3,84.0,UPI,Delivered,189,3,1
+ORD100533,24-05-2025,C1130,Customer_46,Female,40,Chennai,Tamil Nadu,North,P1147,Yoga Mat,Sports,Apple,6,299,0,170.7,1794.0,769.8,Cash,Delivered,216,8,5
+ORD100534,09-04-2025,C1166,Customer_223,Mle,57,Coimbatore,Tamil Nadu,West,P1352,Python Book,Books,LG,3,799,15,509.89,2037.45,507.78,Cash,Delivered,168,5,2
+ORD100535,11-06-2025,C1077,Customer_235,Male,52,Erode,Tamil Nadu,West,P1469,Wallet,Accessories,Sony,2,9999,150,6179.8,18998.1,6638.5,UPI,Delivered,129,9,3
+ORD100536,05-02-2025,C1189,Customer_253,Female,18,Erode,Tamil Nadu,West,P1112,Doll,Toys,Boat,1,999,15,589.37,849.15,259.78,Cash,Cancelled,112,9,3
+ORD100537,05-05-2025,C1089,Customer_102,Male,19,Chennai,Tamil Nadu,North,P1172,Shoes,Clothing,Puma,4,299,150,206.12,1076.4,251.92,Cash,Returned,159,6,1
+ORD100538,15-05-2025,C1156,Customer_180,Female,35,Salem,Tamil Nadu,West,P1062,Fan,Home,Local,1,299,0,196.78,299.0,102.22,Cash,Delivered,182,3,7
+ORD100539,18-08-2025,C1192,Customer_272,Female,23,Vellore,Tamil Nadu,North,P1285,Tennis Ball,Sports,Samsung,1,1499,10,1169.91,1349.1,179.19,Credit Card,Delivered,134,4,2
+ORD100540,20-04-2025,C1071,Customer_1,Female,18,Madurai,Tamil Nadu,South,P1133,Table,Furniture,Boat,3,799,20,447.29,1917.6,575.73,Cash,Delivered,91,6,3
+ORD100541,01-07-2025,C1239,Customer_234,Male,29,Coimbatore,Tamil Nadu,West,P1362,Chair,Furniture,Boat,6,999,5,804.56,5694.3,866.94,Cash,Delivered,125,10,2
+ORD100542,11-01-2025,C1272,Customer_112,Male,28,Coimbatore,Tamil Nadu,West,P1174,Puzzle,Toys,LG,2,799,15,651.93,1358.3,54.44,Cash,Returned,107,3,1
+ORD100543,31-13-2025,C1092,Customer_126,Male,56,Madurai,Tamil Nadu,South,P1044,Keyboard,Electronics,Dell,1,4999,0,3589.89,4999.0,1409.11,Credit Card,Delivered,47,8,1
+ORD100544,04-09-2025,C1056,Customer_37,Male,57,Madurai,Tamil Nadu,South,P1491,Face Wash,Beauty,Dell,6,499,15,372.47,2544.9,310.08,Credit Card,Cancelled,123,1,2
+ORD100545,07-09-2025,C1274,Customer_183,Male,61,Erode,Tamil Nadu,West,P1268,Notebook,Books,Samsung,8,199,5,126.68,1512.4,498.96,Debit Card,Delivered,56,10,3
+ORD100546,28-06-2025,C1228,Customer_63,Male,60,Chennai,Tamil Nadu,North,P1452,Shoes,Sports,Dell,1,9999,5,7375.73,9499.05,2123.32,Net Banking,Returned,67,9,1
+ORD100547,18-05-2025,C1089,,Male,28,Salem,Tamil Nadu,West,P1252,Shoes,Sports,Boat,5,2499,20,2062.37,9996.0,-315.85,Cash,Cancelled,296,9,2
+ORD100548,28-10-2025,C1076,Customer_263,Femle,23,Chennai,Tamil Nadu,North,P1083,Wallet,Accessories,Sony,6,299,5,247.26,1704.3,220.74,Credit Card,Cancelled,90,6,2
+ORD100549,02-07-2025,C1053,,Female,57,Trichy,Tamil Nadu,Central,P1167,Dictionary,Books,Nike,3,199,15,123.46,507.45,137.07,Credit Card,Delivered,154,8,1
+ORD100550,29-08-2025,C1122,Customer_19,Female,51,Tirunelveli,Tamil Nadu,South,P1463,Novel,Books,Apple,7,4999,15,4198.81,29744.05,352.38,Credit Card,Delivered,130,6,1
+ORD100551,15-05-2025,C1237,Customer_207,Male,57,Chennai,Tamil Nadu,North,P1205,Milk,Groceries,Puma,5,2499,10,1847.76,11245.5,2006.7,UPI,Returned,195,8,5
+ORD100552,31-13-2025,C1238,Customer_277,Female,59,Erode,Tamil Nadu,West,P1230,Tennis Ball,Sports,Sony,1,799,10,552.49,719.1,166.61,Cash,Delivered,60,8,2
+ORD100553,20-08-2025,C1129,Customer_253,Female,44,Erode,Tamil Nadu,West,P1229,Printer,Electronics,Apple,5,4999,0,3073.53,24995.0,9627.35,Credit Card,Returned,242,9,5
+ORD100554,01-07-2025,C1079,Customer_271,Male,38,Erode,Tamil Nadu,West,P1348,Shampoo,Beauty,Boat,6,299,5,173.04,1704.3,666.06,Net Banking,Returned,267,1,5
+ORD100555,30-03-2025,C1171,Customer_274,Male,29,Erode,Tamil Nadu,West,P1160,Doll,Toys,Nike,2,299,5,225.23,568.1,117.64,Credit Card,Delivered,210,8,4
+ORD100556,02-12-2025,C1293,Customer_234,Female,23,Chennai,Tamil Nadu,North,P1000,Monitor,Electronics,Boat,5,9999,20,6142.12,39996.0,9285.4,Debit Card,Cancelled,63,1,3
+ORD100557,12-06-2025,C1288,Customer_97,Female,53,Madurai,Tamil Nadu,South,P1118,Sugar,Groceries,Dell,8,1499,15,1044.03,10193.2,1840.96,Net Banking,Returned,66,7,4
+ORD100558,15-03-2025,C1119,Customer_218,Female,29,Salem,Tamil Nadu,West,P1028,Printer,Electronics,Samsung,4,2499,15,1690.3,8496.6,1735.4,Debit Card,Delivered,96,1,7
+ORD100559,31-03-2025,C1293,Customer_59,Male,31,Vellore,Tamil Nadu,North,P1190,Football,Sports,Sony,5,1499,0,1075.32,7495.0,2118.4,UPI,Delivered,216,2,5
+ORD100560,17-06-2025,C1264,Customer_40,Male,54,Vellore,Tamil Nadu,North,P1159,Lotion,Beauty,Nike,4,799,20,651.97,2556.8,-51.08,Credit Card,Delivered,250,8,4
+ORD100561,01-04-2025,C1253,Customer_285,Male,37,Salem,Tamil Nadu,West,P1277,Wallet,Accessories,Local,8,499,20,349.41,3193.6,398.32,Credit Card,Returned,43,4,2
+ORD100562,17-03-2025,C1272,Customer_147,Male,35,Vellore,Tamil Nadu,North,P1341,Sunglasses,Accessories,Samsung,6,499,10,281.07,2694.6,1008.18,UPI,Delivered,183,9,2
+ORD100563,11-06-2025,C1039,Customer_212,Male,55,Tirunelveli,Tamil Nadu,South,P1372,Shirt,Clothing,LG,-4,299,15,238.94,1016.6,60.84,UPI,Cancelled,153,10,3
+ORD100564,16-02-2025,C1135,Customer_221,Male,36,Trichy,Tamil Nadu,Central,P1405,Printer,Electronics,Dell,1,9999,5,7387.65,9499.05,2111.4,Debit Card,Cancelled,254,3,3
+ORD100565,17-11-2025,C1003,Customer_169,Female,36,Erode,Tamil Nadu,West,P1445,Watch,Accessories,Dell,3,4999,0,3906.32,14997.0,3278.04,Credit Card,Delivered,155,6,2
+ORD100566,12-07-2025,C1202,Customer_251,Female,23,Coimbatore,Tamil Nadu,West,P1167,Cupboard,Furniture,LG,8,2499,10,1377.26,17992.8,6974.72,Cash,Delivered,244,4,4
+ORD100567,10-05-2025,C1021,Customer_281,Male,39,Coimbatore,Tamil Nadu,West,P1356,T-Shirt,Clothing,Dell,7,4999,20,4213.0,27994.4,-1496.6,UPI,Cancelled,253,6,3
+ORD100568,20-07-2025,C1012,Customer_190,Female,46,Salem,Tamil Nadu,West,P1100,Football,Sports,Boat,4,199,10,139.09,716.4,160.04,Debit Card,Returned,76,6,1
+ORD100569,28-07-2025,C1107,Customer_202,Male,55,Vellore,Tamil Nadu,North,P1011,Bottle,Home,LG,8,1499,5,915.98,11392.4,4064.56,Credit Card,Cancelled,69,3,4
+ORD100570,26-12-2025,C1234,Customer_70,Male,45,Vellore,Tamil Nadu,North,P1303,Data Science Book,Books,HP,3,499,15,347.65,1272.45,229.5,Debit Card,Cancelled,177,7,5
+ORD100571,20-10-2025,C1147,Customer_40,Female,37,Erode,Tamil Nadu,West,P1150,Chair,Furniture,Dell,3,999,5,664.77,2847.15,852.84,Credit Card,Delivered,219,4,2
+ORD100572,10-07-2025,C1103,Customer_149,Female,42,Chennai,Tamil Nadu,North,P1171,Fan,Home,Dell,2,799,20,509.68,1278.4,259.04,Net Banking,Delivered,198,3,5
+ORD100573,25-04-2025,C1063,Customer_170,Female,43,Madurai,Tamil Nadu,South,P1492,Table,Furniture,Local,8,199,20,164.94,1273.6,-45.92,Credit Card,Delivered,215,3,4
+ORD100574,31-12-2025,C1293,Customer_235,Male,35,Trichy,Tamil Nadu,Central,P1181,Car,Toys,Local,6,4999,5,3807.32,28494.3,5650.38,UPI,Delivered,298,5,2
+ORD100575,13-11-2025,C1191,Customer_253,Male,40,Coimbatore,Tamil Nadu,West,P1496,Train,Toys,LG,5,199,5,125.11,945.25,319.7,UPI,Delivered,77,1,1
+ORD100576,29-03-2025,C1010,Customer_209,Female,29,Chennai,Tamil Nadu,North,P1293,Cooker,Home,Sony,5,2499,15,1692.81,10620.75,2156.7,Credit Card,Delivered,196,1,7
+ORD100577,12-11-2025,C1059,Customer_95,Female,64,Salem,Tamil Nadu,West,P1127,Car,Toys,Puma,1,2499,10,1992.88,2249.1,256.22,Net Banking,Delivered,258,8,4
+ORD100578,27-03-2025,C1158,Customer_174,Male,45,Erode,Tamil Nadu,West,P1018,Train,Toys,Nike,6,499,20,389.67,2395.2,57.18,UPI,Delivered,282,5,4
+ORD100579,23-01-2025,C1225,Customer_172,Male,24,Salem,Tamil Nadu,West,P1449,Oil,Groceries,Apple,2,199,15,166.36,338.3,5.58,Debit Card,Delivered,276,2,5
+ORD100580,24-09-2025,C1111,Customer_155,Female,54,Trichy,Tamil Nadu,Central,P1251,Yoga Mat,Sports,Apple,3,2499,5,1454.82,7122.15,2757.69,UPI,Delivered,96,2,3
+ORD100581,02-12-2025,C1091,Customer_72,Female,37,Erode,Tamil Nadu,West,P1023,Milk,Groceries,LG,7,199,20,167.72,1114.4,-59.64,Net Banking,Delivered,157,3,2
+ORD100582,05-08-2025,C1132,,Female,35,Madurai,Tamil Nadu,South,P1413,Jacket,Clothing,Puma,8,199,15,154.27,1353.2,119.04,Cash,Returned,225,3,1
+ORD100583,07-09-2025,C1072,Customer_47,Male,41,Trichy,Tamil Nadu,Central,P1122,Table,Furniture,Apple,5,499,20,328.6,1996.0,353.0,Cash,Delivered,87,9,1
+ORD100584,05-08-2025,C1082,Customer_225,Male,35,Vellore,Tamil Nadu,North,P1359,Robot,Toys,Local,7,299,15,215.77,1779.05,268.66,UPI,Cancelled,123,6,1
+ORD100585,08-09-2025,C1149,Customer_296,Female,47,Trichy,Tamil Nadu,Central,P1309,Mixer,Home,LG,-1,499,15,304.67,1272.45,358.44,Cash,Delivered,87,2,2
+ORD100586,06-04-2025,C1072,Customer_122,Male,51,Salem,Tamil Nadu,West,P1205,Keyboard,Electronics,Apple,4,799,10,499.82,2876.4,877.12,Debit Card,Delivered,248,7,1
+ORD100587,16-04-2025,C1040,Customer_278,Female,38,Madurai,Tamil Nadu,South,P1452,Tennis Ball,Sports,Nike,2,999,0,667.67,1998.0,662.66,Cash,Cancelled,56,8,5
+ORD100588,19-10-2025,C1224,Customer_178,Male,29,Salem,Tamil Nadu,West,P1071,Printer,Electronics,Samsung,6,499,15,298.69,2544.9,752.76,Debit Card,Cancelled,229,6,5
+ORD100589,05-03-2025,C1185,Customer_105,Female,18,Salem,Tamil Nadu,West,P1275,Jersey,Sports,Puma,4,999,15,805.62,3396.6,174.12,UPI,Cancelled,69,3,3
+ORD100590,28-09-2025,C1073,Customer_219,Female,47,Vellore,Tamil Nadu,North,P1229,Shirt,Clothing,Boat,8,1499,5,1095.97,11392.4,2624.64,Cash,Returned,158,2,3
+ORD100591,13-03-2025,C1250,Customer_16,Male,45,Salem,Tamil Nadu,West,P1158,Cooker,Home,HP,6,999,0,737.49,5994.0,1569.06,Net Banking,Delivered,61,6,4
+ORD100592,18-11-2025,C1167,Customer_284,Female,61,Chennai,Tamil Nadu,North,P1082,Data Science Book,Books,Samsung,8,299,5,247.16,2272.4,295.12,Debit Card,Delivered,234,9,3
+ORD100593,05-05-2025,C1296,Customer_95,Female,29,Chennai,Tamil Nadu,North,P1229,Cricket Bat,Sports,Samsung,8,499,20,356.88,3193.6,338.56,UPI,Delivered,62,8,1
+ORD100594,04-04-2025,C1233,Customer_4,Female,56,Trichy,Tamil Nadu,Central,P1445,Belt,Accessories,Dell,8,299,10,177.39,2152.8,733.68,Net Banking,Returned,212,8,4
+ORD100595,17-05-2025,C1139,Customer_16,Female,43,Salem,Tamil Nadu,West,P1368,Doll,Toys,Local,2,9999,10,6651.86,17998.2,4694.48,Credit Card,Returned,202,3,1
+ORD100596,29-03-2025,C1037,,Female,41,Madurai,Tamil Nadu,South,P1291,Sofa,Furniture,Nike,5,2499,0,1847.5,12495.0,3257.5,UPI,Delivered,60,10,2
+ORD100597,18-02-2025,C1006,Customer_235,Female,33,Vellore,Tamil Nadu,North,P1494,Shoes,Clothing,Apple,2,299,10,169.52,538.2,199.16,Cash,Delivered,110,4,3
+ORD100598,28-04-2025,C1169,Customer_11,Male,29,Vellore,Tamil Nadu,North,P1456,Mouse,Electronics,Apple,6,1499,0,948.74,8994.0,3301.56,UPI,Delivered,292,9,7
+ORD100599,20-12-2025,C1118,Customer_161,Female,49,Coimbatore,Tamil Nadu,West,P1481,Table,Furniture,Dell,2,1499,150,908.81,2398.4,580.78,Cash,Delivered,102,6,3
+ORD100600,07-02-2025,C1234,Customer_239,Female,28,Salem,Tamil Nadu,West,P1283,Dictionary,Books,Sony,2,799,10,447.74,1438.2,542.72,Credit Card,Delivered,88,3,2
+ORD100601,21-07-2025,C1056,Customer_61,Female,25,Tirunelveli,Tamil Nadu,South,P1276,Bread,Groceries,HP,1,299,10,237.49,269.1,31.61,UPI,Delivered,194,6,1
+ORD100602,08-02-2025,C1220,Customer_183,Female,64,Trichy,Tamil Nadu,Central,P1430,Shoes,Sports,Samsung,6,799,20,521.93,3835.2,703.62,Credit Card,Delivered,299,8,1
+ORD100603,11-05-2025,C1154,Customer_191,Female,31,Coimbatore,Tamil Nadu,West,P1296,Bottle,Home,Nike,6,799,10,556.21,4314.6,977.34,UPI,Cancelled,149,4,3
+ORD100604,26-12-2025,C1078,Customer_26,Female,59,Salem,Tamil Nadu,West,P1311,Sunglasses,Accessories,Dell,3,299,20,191.72,717.6,142.44,Net Banking,Delivered,83,8,3
+ORD100605,28-10-2025,C1087,Customer_31,Female,32,Madurai,Tamil Nadu,South,P1201,Charger,Accessories,Local,1,199,15,117.77,169.15,51.38,Debit Card,Returned,169,2,2
+ORD100606,14-03-2025,C1176,Customer_274,Female,21,Coimbatore,Tamil Nadu,West,P1034,Lamp,Home,Puma,6,499,5,360.19,2844.3,683.16,Net Banking,Delivered,40,6,3
+ORD100607,19-06-2025,C1297,Customer_264,Female,44,Chennai,Tamil Nadu,North,P1241,Eggs,Groceries,Samsung,1,999,10,666.29,899.1,232.81,Net Banking,Cancelled,48,1,4
+ORD100608,04-01-2025,C1045,Customer_63,Female,47,Trichy,Tamil Nadu,Central,P1204,Shoes,Sports,Boat,4,2499,20,1921.52,7996.8,310.72,Net Banking,Returned,126,4,1
+ORD100609,18-04-2025,C1026,Customer_280,Male,20,Madurai,Tamil Nadu,South,P1037,Cricket Bat,Sports,Dell,5,199,20,166.1,796.0,-34.5,Credit Card,Delivered,185,4,2
+ORD100610,11-01-2025,C1187,Customer_221,Female,59,Vellore,Tamil Nadu,North,P1238,Fan,Home,Local,5,199,10,144.21,895.5,174.45,Credit Card,Returned,271,9,3
+ORD100611,24-07-2025,C1235,Customer_199,Female,27,Trichy,Tamil Nadu,Central,P1285,Fan,,Nike,3,199,15,131.22,507.45,113.79,Cash,Delivered,234,2,5
+ORD100612,06-09-2025,C1063,Customer_17,Female,46,Salem,Tamil Nadu,West,P1395,Table,Furniture,Samsung,8,2499,10,2077.18,17992.8,1375.36,Cash,Cancelled,294,5,3
+ORD100613,22-07-2025,C1206,Customer_294,Female,24,Salem,Tamil Nadu,West,P1450,Printer,Electronics,Local,7,299,0,212.0,2093.0,609.0,Credit Card,Returned,256,10,5
+ORD100614,28-02-2025,C1233,Customer_31,Femle,43,Chennai,Tamil Nadu,North,P1067,Dictionary,Books,Nike,5,9999,5,6440.65,47495.25,15292.0,Net Banking,Cancelled,140,8,2
+ORD100615,03-01-2025,C1263,Customer_106,Female,42,Tirunelveli,Tamil Nadu,South,P1201,Mouse,Electronics,Local,2,299,0,179.48,598.0,239.04,Credit Card,Cancelled,117,5,3
+ORD100616,11-02-2025,C1117,Customer_218,Male,59,Vellore,Tamil Nadu,North,P1014,Lotion,Beauty,HP,1,499,5,404.59,474.05,69.46,UPI,Delivered,158,2,2
+ORD100617,09-08-2025,C1267,Customer_88,Female,51,Chennai,Tamil Nadu,North,P1429,Cricket Bat,Sports,Puma,7,799,5,457.35,5313.35,2111.9,Cash,Delivered,218,7,4
+ORD100618,24-09-2025,C1267,Customer_159,Male,22,Trichy,Tamil Nadu,Central,P1035,Belt,Accessories,HP,1,1499,15,934.53,1274.15,339.62,Debit Card,Delivered,178,7,5
+ORD100619,28-07-2025,C1180,Customer_189,Female,41,Trichy,Tamil Nadu,Central,P1242,Mouse,Electronics,Nike,3,199,0,135.77,597.0,189.69,Cash,Delivered,157,9,2
+ORD100620,12-12-2025,C1249,Customer_135,Male,35,Chennai,Tamil Nadu,North,P1030,Mixer,Home,Nike,1,999,20,777.9,799.2,21.3,UPI,Cancelled,68,7,2
+ORD100621,08-08-2025,C1248,Customer_207,Female,40,Madurai,Tamil Nadu,South,P1131,Notebook,Books,Nike,4,799,5,515.43,3036.2,974.48,UPI,Delivered,275,7,2
+ORD100622,31-08-2025,C1249,Customer_72,Male,25,Salem,Tamil Nadu,West,P1095,Headphones,Electronics,Dell,-3,9999,20,6569.48,55994.4,10008.04,Debit Card,Cancelled,92,10,2
+ORD100623,07-07-2025,C1190,Customer_57,Female,40,Salem,Tamil Nadu,West,P1283,Shirt,Clothing,Apple,2,9999,0,8185.63,19998.0,3626.74,Credit Card,Cancelled,281,1,3
+ORD100624,08-07-2025,C1229,Customer_261,Male,35,Tirunelveli,Tamil Nadu,South,P1012,Cricket Bat,Sports,LG,5,299,15,216.37,1270.75,188.9,Cash,Delivered,265,1,3
+ORD100625,14-05-2025,C1037,Customer_160,Male,31,Erode,Tamil Nadu,West,P1183,Sofa,Furniture,LG,1,999,10,573.3,899.1,325.8,Credit Card,Cancelled,283,5,2
+ORD100626,27-04-2025,C1268,Customer_199,Female,63,Vellore,Tamil Nadu,North,P1442,Lamp,Home,Nike,5,499,0,424.1,2495.0,374.5,Net Banking,Delivered,79,7,5
+ORD100627,10-05-2025,C1036,Customer_187,Female,50,Madurai,Tamil Nadu,South,P1498,Robot,Toys,Puma,4,999,10,770.24,3596.4,515.44,UPI,Cancelled,205,10,4
+ORD100628,14-07-2025,C1154,Customer_102,Female,42,Erode,Tamil Nadu,West,P1344,Bread,Groceries,Nike,6,199,5,118.07,1134.3,425.88,Credit Card,Delivered,277,4,5
+ORD100629,14-10-2025,C1129,Customer_113,Femle,34,Madurai,Tamil Nadu,South,P1242,Printer,Electronics,Local,4,999,0,562.43,3996.0,1746.28,Net Banking,Returned,217,2,4
+ORD100630,26-04-2025,C1126,Customer_214,Male,35,Erode,Tamil Nadu,West,P1380,Rice,Groceries,Dell,4,9999,20,5681.17,31996.8,9272.12,UPI,Delivered,232,7,2
+ORD100631,11-09-2025,C1285,Customer_174,Male,23,Vellore,Tamil Nadu,North,P1142,Jacket,Clothing,Dell,7,199,15,115.78,1184.05,373.59,Credit Card,Delivered,248,6,2
+ORD100632,27-06-2025,C1265,Customer_177,Female,45,Salem,Tamil Nadu,West,P1181,Train,Toys,Puma,6,499,20,392.94,2395.2,37.56,UPI,Returned,298,8,5
+ORD100633,12-07-2025,C1275,Customer_249,Male,39,Chennai,Tamil Nadu,North,P1106,Rice,Groceries,Puma,3,999,20,821.16,2397.6,-65.88,Credit Card,Delivered,234,2,5
+ORD100634,24-06-2025,C1153,Customer_230,Male,41,Erode,Tamil Nadu,West,P1419,T-Shirt,Clothing,LG,4,2499,5,1955.62,9496.2,1673.72,UPI,Delivered,111,1,3
+ORD100635,27-02-2025,C1212,Customer_161,Male,30,Tirunelveli,Tamil Nadu,South,P1381,Data Science Book,Books,Apple,6,4999,5,3907.64,28494.3,5048.46,Cash,Delivered,268,6,4
+ORD100636,02-02-2025,C1050,Customer_213,Male,56,Salem,Tamil Nadu,West,P1114,Sugar,Groceries,Boat,1,2499,5,1902.94,2374.05,471.11,UPI,Returned,294,3,3
+ORD100637,31-13-2025,C1254,Customer_136,Female,24,Coimbatore,Tamil Nadu,West,P1013,Perfume,Beauty,Puma,2,299,0,242.49,598.0,113.02,Credit Card,Returned,205,3,3
+ORD100638,01-06-2025,C1281,Customer_110,Male,26,Coimbatore,Tamil Nadu,West,P1076,Perfume,Beauty,Local,6,499,10,312.45,2694.6,819.9,Credit Card,Returned,88,3,1
+ORD100639,09-12-2025,C1175,Customer_54,Male,32,Chennai,Tamil Nadu,North,P1342,Bottle,Home,Dell,2,499,10,296.03,898.2,306.14,Credit Card,Delivered,207,3,3
+ORD100640,01-09-2025,C1257,Customer_80,Male,20,Salem,Tamil Nadu,West,P1261,Soap,Beauty,Puma,8,9999,20,7571.7,63993.6,3420.0,Credit Card,Delivered,218,5,3
+ORD100641,01-03-2025,C1166,Customer_44,Male,30,Chennai,Tamil Nadu,North,P1109,Car,Toys,Sony,7,799,10,621.99,5033.7,679.77,Credit Card,Delivered,97,1,3
+ORD100642,05-01-2025,C1020,Customer_270,Female,26,Madurai,Tamil Nadu,South,P1184,Bread,Groceries,Nike,6,299,5,216.89,1704.3,402.96,UPI,Delivered,208,9,1
+ORD100643,03-09-2025,C1048,Customer_255,Male,59,Coimbatore,Tamil Nadu,West,P1271,Python Book,Books,Puma,3,1499,10,906.83,4047.3,1326.81,UPI,Delivered,276,8,2
+ORD100644,14-12-2025,C1299,Customer_96,Female,54,Madurai,Tamil Nadu,South,P1455,Jacket,Clothing,Sony,3,199,5,127.71,567.15,184.02,Net Banking,Returned,206,7,2
+ORD100645,20-09-2025,C1209,Customer_104,Female,34,Madurai,Tamil Nadu,South,P1157,Perfume,Beauty,Dell,1,9999,5,6789.28,9499.05,2709.77,UPI,Returned,165,7,2
+ORD100646,24-10-2025,C1209,Customer_34,Female,44,Chennai,Tamil Nadu,North,P1189,Oil,Groceries,HP,6,4999,10,4201.89,26994.6,1783.26,Net Banking,Cancelled,240,9,5
+ORD100647,24-12-2025,C1291,Customer_159,Female,54,Vellore,Tamil Nadu,North,P1210,Data Science Book,Books,Nike,5,199,0,151.16,995.0,239.2,Net Banking,Delivered,185,3,2
+ORD100648,07-01-2025,C1222,Customer_128,Male,29,Chennai,Tamil Nadu,North,P1039,Robot,Toys,Samsung,1,9999,10,6972.81,8999.1,2026.29,Credit Card,Cancelled,292,8,4
+ORD100649,18-05-2025,C1110,Customer_261,Female,32,Erode,Tamil Nadu,West,P1078,Shirt,Clothing,LG,4,199,5,145.44,756.2,174.44,UPI,Cancelled,96,4,3
+ORD100650,16-07-2025,C1277,Customer_191,Male,45,Trichy,Tamil Nadu,Central,P1346,Bed,Furniture,Sony,4,2499,20,1723.97,7996.8,1100.92,UPI,Cancelled,66,3,3
+ORD100651,18-10-2025,C1000,Customer_209,Mle,30,Coimbatore,Tamil Nadu,West,P1061,Cream,Beauty,Sony,1,1499,10,1236.64,1349.1,112.46,Cash,Delivered,157,10,3
+ORD100652,31-13-2025,C1159,Customer_286,Female,62,Tirunelveli,Tamil Nadu,South,P1110,Desk,Furniture,Apple,3,299,0,224.17,897.0,224.49,Net Banking,Delivered,94,8,4
+ORD100653,24-12-2025,C1038,Customer_182,Femle,25,Coimbatore,Tamil Nadu,West,P1026,Cream,Beauty,Boat,1,4999,0,2769.38,4999.0,2229.62,Cash,Cancelled,190,8,3
+ORD100654,14-07-2025,C1130,Customer_97,Male,44,Tirunelveli,Tamil Nadu,South,P1444,Lotion,Beauty,Samsung,3,9999,5,7553.77,28497.15,5835.84,Credit Card,Delivered,245,7,1
+ORD100655,04-10-2025,C1168,Customer_145,Male,45,Salem,Tamil Nadu,West,P1161,Belt,Accessories,Samsung,3,299,10,234.2,807.3,104.7,Net Banking,Cancelled,274,2,1
+ORD100656,11-06-2025,C1083,Customer_296,Male,56,Madurai,Tamil Nadu,South,P1361,Face Wash,Beauty,Nike,6,199,10,152.52,1074.6,159.48,UPI,Delivered,155,10,2
+ORD100657,14-08-2025,C1110,Customer_103,Female,53,Erode,Tamil Nadu,West,P1244,Jacket,Clothing,Local,7,1499,10,1125.41,9443.7,1565.83,Net Banking,Delivered,299,9,5
+ORD100658,27-08-2025,C1184,Customer_4,Female,59,Vellore,Tamil Nadu,North,P1348,Car,Toys,Nike,8,499,20,335.62,3193.6,508.64,Cash,Returned,162,5,5
+ORD100659,28-10-2025,C1094,Customer_53,Male,30,Salem,Tamil Nadu,West,P1279,Curtain,Home,Local,8,4999,5,3535.23,37992.4,9710.56,Credit Card,Cancelled,123,3,1
+ORD100660,28-06-2025,C1298,Customer_264,Female,37,Erode,Tamil Nadu,West,P1459,Curtain,Home,Local,3,299,0,189.27,897.0,329.19,Credit Card,Delivered,202,4,1
+ORD100661,15-07-2025,C1196,Customer_25,Male,63,Coimbatore,Tamil Nadu,West,P1147,Data Science Book,Books,Dell,2,299,20,169.03,478.4,140.34,UPI,Returned,288,4,4
+ORD100662,22-03-2025,C1239,Customer_3,Male,46,Vellore,Tamil Nadu,North,P1026,Shoes,Clothing,LG,5,2499,0,1808.99,12495.0,3450.05,Credit Card,Delivered,271,8,4
+ORD100663,07-10-2025,C1247,Customer_206,Male,38,Trichy,Tamil Nadu,Central,P1272,Cricket Bat,Sports,HP,1,299,10,223.92,269.1,45.18,Credit Card,Delivered,168,7,4
+ORD100664,20-08-2025,C1027,Customer_150,Male,31,Erode,Tamil Nadu,West,P1184,Puzzle,Toys,Samsung,6,799,20,498.02,3835.2,847.08,Debit Card,Returned,105,1,5
+ORD100665,03-02-2025,C1216,Customer_230,Female,30,Vellore,Tamil Nadu,North,P1068,Charger,Accessories,Nike,6,9999,15,7820.88,50994.9,4069.62,Debit Card,Delivered,231,4,3
+ORD100666,30-07-2025,C1181,Customer_146,Female,54,Trichy,Tamil Nadu,Central,P1148,Keyboard,Electronics,LG,6,199,5,155.47,1134.3,201.48,UPI,Delivered,68,6,3
+ORD100667,11-04-2025,C1186,Customer_102,Female,20,Trichy,Tamil Nadu,Central,P1034,Yoga Mat,Sports,Apple,7,1499,15,835.78,8919.05,3068.59,UPI,Returned,126,5,2
+ORD100668,02-02-2025,C1156,Customer_26,Male,28,Tirunelveli,Tamil Nadu,South,P1345,Curtain,Home,Apple,3,999,0,789.92,2997.0,627.24,Debit Card,Delivered,115,3,3
+ORD100669,15-12-2025,C1015,Customer_154,Male,28,Chennai,Tamil Nadu,North,P1244,Chair,Furniture,LG,8,999,20,669.44,6393.6,1038.08,Cash,Cancelled,199,6,1
+ORD100670,12-10-2025,C1259,Customer_228,Female,53,Coimbatore,Tamil Nadu,West,P1317,Yoga Mat,Sports,Apple,-3,199,20,125.12,1114.4,238.56,UPI,Delivered,47,3,5
+ORD100671,14-08-2025,C1177,Customer_289,Female,63,Trichy,Tamil Nadu,Central,P1190,Monitor,Electronics,LG,8,2499,0,1682.17,19992.0,6534.64,Debit Card,Cancelled,141,2,2
+ORD100672,20-07-2025,C1239,Customer_182,Female,27,Chennai,Tamil Nadu,North,P1120,Train,Toys,Samsung,2,799,15,591.85,1358.3,174.6,Debit Card,Delivered,76,1,1
+ORD100673,16-03-2025,C1136,Customer_50,Female,22,Salem,Tamil Nadu,West,P1040,Novel,Books,Local,5,299,20,217.48,1196.0,108.6,Cash,Delivered,179,8,5
+ORD100674,27-11-2025,C1022,,Female,30,Erode,Tamil Nadu,West,P1421,Monitor,Electronics,Dell,8,2499,15,1817.82,16993.2,2450.64,Credit Card,Returned,256,3,3
+ORD100675,14-05-2025,C1191,Customer_137,Male,29,Erode,Tamil Nadu,West,P1280,Bread,Groceries,Nike,8,1499,5,1208.2,11392.4,1726.8,Cash,Delivered,172,2,1
+ORD100676,29-08-2025,C1221,Customer_113,Female,30,Coimbatore,Tamil Nadu,West,P1071,Tennis Ball,Sports,Local,7,999,5,579.41,6643.35,2587.48,Credit Card,Delivered,222,7,2
+ORD100677,09-10-2025,C1097,Customer_118,Male,59,Coimbatore,Tamil Nadu,West,P1370,Milk,Groceries,LG,7,2499,20,1633.89,13994.4,2557.17,Net Banking,Cancelled,168,8,1
+ORD100678,22-05-2025,C1066,Customer_8,Male,35,Erode,Tamil Nadu,West,P1147,Notebook,Books,Local,7,799,10,624.14,5033.7,664.72,UPI,Delivered,246,10,4
+ORD100679,21-09-2025,C1162,Customer_71,Female,33,Erode,Tamil Nadu,West,P1423,Football,Sports,Apple,8,499,0,419.45,3992.0,636.4,UPI,Delivered,243,2,3
+ORD100680,27-09-2025,C1180,Customer_210,Female,63,Madurai,Tamil Nadu,South,P1213,Football,Sports,Sony,2,4999,5,2962.18,9498.1,3573.74,Net Banking,Delivered,255,6,4
+ORD100681,13-02-2025,C1060,Customer_151,Female,58,Coimbatore,Tamil Nadu,West,P1059,Laptop,Electronics,Nike,3,1499,5,1040.02,4272.15,1152.09,UPI,Cancelled,171,8,1
+ORD100682,06-03-2025,C1021,Customer_78,Male,43,Tirunelveli,Tamil Nadu,South,P1002,Wallet,Accessories,Samsung,7,999,5,731.42,6643.35,1523.41,UPI,Delivered,41,8,1
+ORD100683,07-03-2025,C1152,Customer_39,Female,34,Tirunelveli,Tamil Nadu,South,P1448,Car,Toys,Dell,4,1499,10,1250.51,5396.4,394.36,Net Banking,Delivered,136,10,7
+ORD100684,25-05-2025,C1293,Customer_233,Female,32,Erode,Tamil Nadu,West,P1049,Face Wash,Beauty,Puma,6,199,20,164.54,955.2,-32.04,Credit Card,Delivered,139,4,3
+ORD100685,12-07-2025,C1199,Customer_113,Male,18,Coimbatore,Tamil Nadu,West,P1233,Fan,Home,Sony,2,2499,5,1733.7,4748.1,1280.7,Cash,Cancelled,56,2,3
+ORD100686,17-01-2025,C1058,Customer_119,Mle,30,Coimbatore,Tamil Nadu,West,P1090,Puzzle,Toys,Samsung,3,4999,15,3500.21,12747.45,2246.82,Net Banking,Delivered,124,9,5
+ORD100687,02-08-2025,C1125,Customer_33,Female,41,Madurai,Tamil Nadu,South,P1065,Bottle,,Dell,6,799,0,642.19,4794.0,940.86,UPI,Cancelled,203,3,7
+ORD100688,08-12-2025,C1068,,Female,51,Madurai,Tamil Nadu,South,P1004,Perfume,Beauty,HP,6,499,15,419.75,2544.9,26.4,Debit Card,Cancelled,197,6,1
+ORD100689,01-01-2025,C1135,Customer_276,Female,18,Salem,Tamil Nadu,West,P1464,Rice,Groceries,Nike,7,299,0,180.2,2093.0,831.6,Net Banking,Delivered,106,3,4
+ORD100690,27-10-2025,C1082,Customer_192,Female,33,Chennai,Tamil Nadu,North,P1044,Lotion,Beauty,Dell,2,799,10,583.18,1438.2,271.84,Credit Card,Delivered,229,1,2
+ORD100691,22-10-2025,C1223,Customer_141,Male,65,Madurai,Tamil Nadu,South,P1181,Lotion,Beauty,Boat,6,1499,10,968.98,8094.6,2280.72,Credit Card,Delivered,111,5,3
+ORD100692,20-01-2025,C1260,Customer_268,Female,26,Trichy,Tamil Nadu,Central,P1182,Cooker,Home,Nike,6,499,20,295.92,2395.2,619.68,Cash,Returned,293,3,3
+ORD100693,11-02-2025,C1128,Customer_192,Female,31,Erode,Tamil Nadu,West,P1465,Robot,Toys,Local,2,799,150,595.34,1438.2,247.52,UPI,Delivered,214,2,1
+ORD100694,17-07-2025,C1280,,Female,41,Vellore,Tamil Nadu,North,P1211,SQL Book,Books,Dell,3,299,20,215.05,717.6,72.45,Net Banking,Delivered,215,3,2
+ORD100695,20-07-2025,C1077,Customer_257,Female,22,Madurai,Tamil Nadu,South,P1285,Shirt,Clothing,HP,3,1499,150,1065.8,4047.3,849.9,Cash,Cancelled,67,9,5
+ORD100696,12-10-2025,C1095,Customer_117,Female,38,Tirunelveli,Tamil Nadu,South,P1152,Football,Sports,Sony,2,299,10,231.72,538.2,74.76,Debit Card,Cancelled,298,5,5
+ORD100697,12-12-2025,C1224,Customer_112,Male,24,Salem,Tamil Nadu,West,P1064,Sugar,Groceries,HP,6,1499,10,1108.69,8094.6,1442.46,Credit Card,Delivered,172,1,3
+ORD100698,17-09-2025,C1044,Customer_7,Male,53,Tirunelveli,Tamil Nadu,South,P1426,Doll,Toys,Nike,5,1499,0,989.06,7495.0,2549.7,Net Banking,Delivered,273,3,1
+ORD100699,24-12-2025,C1292,Customer_244,Female,37,Chennai,Tamil Nadu,North,P1357,Tennis Ball,Sports,Nike,5,299,10,173.89,1345.5,476.05,Debit Card,Delivered,178,1,1
+ORD100700,31-07-2025,C1249,Customer_245,Female,55,Vellore,Tamil Nadu,North,P1013,Shirt,Clothing,Nike,2,799,150,462.34,1518.1,593.42,Net Banking,Delivered,42,8,5
+ORD100701,15-02-2025,C1003,Customer_213,Female,61,Vellore,Tamil Nadu,North,P1202,Cream,Beauty,Sony,4,499,15,390.72,1696.6,133.72,Debit Card,Delivered,128,6,4
+ORD100702,14-06-2025,C1242,Customer_85,Female,19,Tirunelveli,Tamil Nadu,South,P1081,Charger,Accessories,Sony,2,499,5,278.14,948.1,391.82,Debit Card,Delivered,95,3,4
+ORD100703,13-11-2025,C1017,Customer_241,Female,22,Tirunelveli,Tamil Nadu,South,P1257,Lotion,Beauty,Nike,2,9999,150,6528.75,16998.3,3940.8,Credit Card,Cancelled,96,5,5
+ORD100704,26-06-2025,C1224,Customer_176,Female,19,Madurai,Tamil Nadu,South,P1251,Tennis Ball,Sports,Puma,8,999,0,571.64,7992.0,3418.88,Cash,Cancelled,95,7,5
+ORD100705,07-07-2025,C1152,Customer_258,Male,29,Vellore,Tamil Nadu,North,P1345,Charger,Accessories,Local,4,299,5,238.25,1136.2,183.2,UPI,Delivered,265,6,3
+ORD100706,31-13-2025,C1007,Customer_144,Male,40,Salem,Tamil Nadu,West,P1297,SQL Book,Books,Apple,1,1499,5,1035.7,1424.05,388.35,UPI,Delivered,268,10,5
+ORD100707,18-01-2025,C1165,Customer_17,Female,64,Salem,Tamil Nadu,West,P1336,Blocks,Toys,Dell,4,499,10,310.39,1796.4,554.84,Cash,Delivered,203,8,5
+ORD100708,05-01-2025,C1267,,Male,35,Chennai,Tamil Nadu,North,P1218,Headphones,Electronics,Sony,5,9999,10,6110.13,44995.5,14444.85,Credit Card,Cancelled,154,5,3
+ORD100709,19-01-2025,C1225,Customer_7,Male,62,Salem,Tamil Nadu,West,P1188,Car,Toys,HP,8,2499,5,2005.65,18992.4,2947.2,UPI,Delivered,102,10,2
+ORD100710,23-01-2025,C1236,Customer_278,Male,29,Coimbatore,Tamil Nadu,West,P1319,Headphones,Electronics,LG,6,199,10,117.07,1074.6,372.18,UPI,Delivered,54,2,4
+ORD100711,02-08-2025,C1113,Customer_184,Female,29,Madurai,Tamil Nadu,South,P1253,Jeans,Clothing,Dell,3,4999,0,3889.64,14997.0,3328.08,Net Banking,Delivered,256,9,3
+ORD100712,22-12-2025,C1000,Customer_41,Male,38,Trichy,Tamil Nadu,Central,P1350,Robot,Toys,Puma,6,1499,5,939.93,8544.3,2904.72,UPI,Delivered,122,8,3
+ORD100713,28-07-2025,C1021,Customer_146,Female,34,Madurai,Tamil Nadu,South,P1313,Dictionary,Books,Puma,5,299,10,207.42,1345.5,308.4,Net Banking,Delivered,272,8,5
+ORD100714,05-12-2025,C1064,Customer_195,Male,32,Chennai,Tamil Nadu,North,P1321,Belt,Accessories,Sony,1,4999,10,4119.15,4499.1,379.95,Credit Card,Cancelled,82,8,4
+ORD100715,05-08-2025,C1293,Customer_82,Male,18,Salem,Tamil Nadu,West,P1237,Cupboard,Furniture,Sony,2,2499,0,1403.7,4998.0,2190.6,UPI,Cancelled,203,1,3
+ORD100716,04-08-2025,C1020,Customer_166,Female,65,Madurai,Tamil Nadu,South,P1145,Sugar,Groceries,Samsung,5,499,20,371.94,1996.0,136.3,UPI,Delivered,149,1,3
+ORD100717,31-07-2025,C1294,Customer_81,Male,63,Chennai,Tamil Nadu,North,P1283,Car,Toys,Puma,6,4999,0,3030.11,29994.0,11813.34,Cash,Returned,214,2,4
+ORD100718,01-10-2025,C1227,Customer_128,Male,55,Salem,Tamil Nadu,West,P1457,Lotion,Beauty,Sony,5,499,0,323.71,2495.0,876.45,Net Banking,Returned,99,2,2
+ORD100719,20-12-2025,C1053,Customer_75,Male,47,Chennai,Tamil Nadu,North,P1053,SQL Book,Books,LG,7,4999,0,3204.01,34993.0,12564.93,Cash,Delivered,144,8,4
+ORD100720,31-13-2025,C1179,Customer_226,Male,21,Trichy,Tamil Nadu,Central,P1380,Bread,Groceries,Apple,5,4999,10,3403.03,22495.5,5480.35,Net Banking,Returned,49,3,2
+ORD100721,21-07-2025,C1154,,Female,52,Chennai,Tamil Nadu,North,P1236,Robot,Toys,Samsung,1,299,5,236.9,284.05,47.15,Net Banking,Delivered,98,2,2
+ORD100722,17-05-2025,C1300,Customer_170,Male,48,Madurai,Tamil Nadu,South,P1448,Mouse,Electronics,Puma,3,199,0,121.7,597.0,231.9,UPI,Cancelled,228,2,1
+ORD100723,22-09-2025,C1011,Customer_114,Female,33,Erode,Tamil Nadu,West,P1124,Shirt,Clothing,Nike,8,2499,20,1888.18,15993.6,888.16,Debit Card,Cancelled,116,7,3
+ORD100724,18-11-2025,C1173,Customer_177,Female,44,Salem,Tamil Nadu,West,P1293,Oil,Groceries,Boat,1,2499,10,2122.39,2249.1,126.71,Debit Card,Returned,238,9,3
+ORD100725,06-09-2025,C1238,Customer_94,Male,19,Vellore,Tamil Nadu,North,P1248,Cupboard,,Apple,7,999,10,570.38,6293.7,2301.04,Credit Card,Delivered,236,8,5
+ORD100726,10-05-2025,C1293,Customer_80,Male,18,Erode,Tamil Nadu,West,P1482,Shoes,Clothing,Sony,1,4999,10,3891.44,4499.1,607.66,Cash,Returned,248,2,2
+ORD100727,30-09-2025,C1143,Customer_43,Male,39,Salem,Tamil Nadu,West,P1088,Charger,Accessories,HP,8,199,0,153.53,1592.0,363.76,Debit Card,Delivered,162,3,4
+ORD100728,09-09-2025,C1147,Customer_189,Female,54,Chennai,Tamil Nadu,North,P1074,Keyboard,Electronics,Samsung,3,9999,0,5836.27,29997.0,12488.19,Net Banking,Delivered,203,7,4
+ORD100729,30-04-2025,C1192,Customer_281,Male,55,Salem,Tamil Nadu,West,P1316,Sofa,Furniture,Local,6,299,5,181.82,1704.3,613.38,Debit Card,Delivered,271,9,3
+ORD100730,14-01-2025,C1010,Customer_221,Male,54,Trichy,Tamil Nadu,Central,P1323,Printer,Electronics,Boat,2,2499,15,2091.98,4248.3,64.34,UPI,Delivered,247,6,5
+ORD100731,14-02-2025,C1165,Customer_199,Male,28,Trichy,Tamil Nadu,Central,P1173,Keyboard,Electronics,Puma,7,799,10,612.63,5033.7,745.29,UPI,Delivered,227,8,1
+ORD100732,23-08-2025,C1250,Customer_57,Female,33,Vellore,Tamil Nadu,North,P1326,Mixer,Home,Apple,5,999,20,760.29,3996.0,194.55,UPI,Cancelled,189,1,1
+ORD100733,13-12-2025,C1160,Customer_251,Female,28,Salem,Tamil Nadu,West,P1408,Sofa,Furniture,Samsung,6,299,0,213.63,1794.0,512.22,Net Banking,Cancelled,271,9,2
+ORD100734,05-06-2025,C1012,Customer_123,Female,38,Coimbatore,Tamil Nadu,West,P1389,Sunglasses,Accessories,HP,7,2499,20,2039.91,13994.4,-284.97,Debit Card,Delivered,193,10,1
+ORD100735,24-05-2025,C1114,Customer_225,Female,58,Tirunelveli,Tamil Nadu,South,P1318,Puzzle,Toys,Dell,5,299,10,218.6,1345.5,252.5,Net Banking,Returned,193,5,2
+ORD100736,17-05-2025,C1130,Customer_224,Female,32,Trichy,Tamil Nadu,Central,P1460,Cap,Clothing,Apple,6,9999,20,7698.47,47995.2,1804.38,Net Banking,Returned,89,3,4
+ORD100737,19-04-2025,C1254,Customer_135,Male,49,Trichy,Tamil Nadu,Central,P1094,Cupboard,Furniture,HP,6,199,5,149.48,1134.3,237.42,Debit Card,Delivered,138,10,2
+ORD100738,02-12-2025,C1079,Customer_72,Female,61,Erode,Tamil Nadu,West,P1427,Cap,Clothing,Samsung,1,1499,5,1209.54,1424.05,214.51,Credit Card,Delivered,59,4,5
+ORD100739,07-12-2025,C1195,Customer_83,Female,58,Chennai,Tamil Nadu,North,P1083,Sugar,Groceries,Boat,4,299,0,184.01,1196.0,459.96,Credit Card,Delivered,89,3,5
+ORD100740,20-05-2025,C1146,Customer_56,Female,31,Trichy,Tamil Nadu,Central,P1051,Data Science Book,Books,LG,3,799,15,645.82,2037.45,99.99,UPI,Delivered,101,3,3
+ORD100741,15-04-2025,C1124,Customer_36,Female,51,Madurai,Tamil Nadu,South,P1068,Fan,Home,Samsung,3,2499,15,2086.87,6372.45,111.84,Credit Card,Cancelled,279,2,2
+ORD100742,01-06-2025,C1294,Customer_139,Female,29,Erode,Tamil Nadu,West,P1286,Car,Toys,Nike,8,199,20,148.66,1273.6,84.32,UPI,Delivered,296,6,4
+ORD100743,04-11-2025,C1078,Customer_57,Female,50,Coimbatore,Tamil Nadu,West,P1264,Bottle,Home,LG,8,9999,10,5800.96,71992.8,25585.12,Credit Card,Cancelled,114,9,2
+ORD100744,09-05-2025,C1073,Customer_132,Female,44,Trichy,Tamil Nadu,Central,P1072,Cooker,Home,LG,4,199,5,140.51,756.2,194.16,UPI,Delivered,259,10,4
+ORD100745,16-10-2025,C1009,Customer_240,Female,19,Erode,Tamil Nadu,West,P1042,Headphones,Electronics,Boat,8,299,5,174.53,2272.4,876.16,UPI,Delivered,216,2,5
+ORD100746,06-09-2025,C1157,Customer_91,Male,53,Salem,Tamil Nadu,West,P1182,Chair,Furniture,Apple,1,4999,10,3204.69,4499.1,1294.41,UPI,Returned,264,2,7
+ORD100747,03-06-2025,C1125,Customer_201,Female,36,Tirunelveli,Tamil Nadu,South,P1452,Bed,Furniture,Nike,6,299,10,241.58,1614.6,165.12,Cash,Delivered,221,3,3
+ORD100748,19-02-2025,C1092,Customer_231,Male,32,Vellore,Tamil Nadu,North,P1348,Doll,Toys,Samsung,7,999,15,651.5,5944.05,1383.55,Credit Card,Delivered,117,4,3
+ORD100749,31-12-2025,C1196,Customer_107,Male,65,Vellore,Tamil Nadu,North,P1118,Headphones,Electronics,Nike,2,4999,20,3368.93,7998.4,1260.54,Credit Card,Returned,228,1,4
+ORD100750,11-07-2025,C1193,Customer_12,Male,49,Vellore,Tamil Nadu,North,P1474,Cream,Beauty,Local,5,1499,15,898.54,6370.75,1878.05,Cash,Delivered,237,1,3
+ORD100751,16-02-2025,C1062,Customer_190,Male,39,Madurai,Tamil Nadu,South,P1382,Puzzle,Toys,Local,5,999,0,581.15,4995.0,2089.25,Cash,Cancelled,142,4,5
+ORD100752,03-09-2025,C1246,Customer_133,Female,49,Madurai,Tamil Nadu,South,P1019,Oil,Groceries,LG,8,1499,5,899.35,11392.4,4197.6,Net Banking,Delivered,242,2,1
+ORD100753,23-04-2025,C1196,Customer_242,Male,18,Vellore,Tamil Nadu,North,P1292,Car,Toys,Local,2,999,20,749.28,1598.4,99.84,Debit Card,Delivered,226,10,3
+ORD100754,21-12-2025,C1003,Customer_103,Male,49,Tirunelveli,Tamil Nadu,South,P1106,Eggs,Groceries,Apple,4,799,5,642.63,3036.2,465.68,Credit Card,Delivered,51,7,5
+ORD100755,29-05-2025,C1027,Customer_169,Male,41,Madurai,Tamil Nadu,South,P1411,Jersey,Sports,Dell,6,299,0,210.78,1794.0,529.32,UPI,Delivered,280,8,1
+ORD100756,25-04-2025,C1147,Customer_5,Male,65,Tirunelveli,Tamil Nadu,South,P1460,Fan,Home,Local,4,499,15,383.74,1696.6,161.64,Debit Card,Delivered,222,7,3
+ORD100757,02-07-2025,C1287,Customer_158,Male,53,Tirunelveli,Tamil Nadu,South,P1281,Python Book,Books,Dell,3,2499,10,1873.2,6747.3,1127.7,Cash,Delivered,221,10,4
+ORD100758,16-02-2025,C1141,Customer_283,Male,35,Salem,Tamil Nadu,West,P1263,Fan,Home,LG,3,299,10,178.02,807.3,273.24,Debit Card,Delivered,136,2,4
+ORD100759,04-07-2025,C1039,Customer_232,Female,31,Trichy,Tamil Nadu,Central,P1089,Milk,Groceries,Local,2,999,15,714.54,1698.3,269.22,Cash,Returned,64,4,4
+ORD100760,14-09-2025,C1263,Customer_290,Male,24,Trichy,Tamil Nadu,Central,P1132,Blocks,Toys,Boat,2,2499,5,1593.57,4748.1,1560.96,UPI,Delivered,105,10,4
+ORD100761,30-04-2025,C1071,Customer_75,Male,38,Salem,Tamil Nadu,West,P1305,Oil,Groceries,Nike,-4,199,10,137.85,179.1,41.25,Debit Card,Returned,113,8,5
+ORD100762,07-03-2025,C1065,Customer_12,Male,47,Coimbatore,Tamil Nadu,West,P1187,Python Book,Books,Local,4,499,20,397.89,1596.8,5.24,Cash,Cancelled,140,4,3
+ORD100763,26-11-2025,C1120,Customer_208,Female,28,Madurai,Tamil Nadu,South,P1221,Tennis Ball,Sports,Apple,-2,799,5,551.8,5313.35,1450.75,Debit Card,Returned,292,6,5
+ORD100764,22-12-2025,C1177,Customer_76,Male,61,Coimbatore,Tamil Nadu,West,P1298,Robot,,Apple,6,499,15,298.97,2544.9,751.08,Credit Card,Delivered,236,2,2
+ORD100765,22-11-2025,C1174,Customer_136,Male,18,Erode,Tamil Nadu,West,P1492,Bag,Accessories,Samsung,5,2499,10,1842.5,11245.5,2033.0,Debit Card,Returned,208,1,5
+ORD100766,27-06-2025,C1082,Customer_47,Female,41,Vellore,Tamil Nadu,North,P1263,Printer,Electronics,Nike,2,299,20,204.8,478.4,68.8,Debit Card,Delivered,264,2,5
+ORD100767,05-03-2025,C1205,Customer_25,Male,55,Coimbatore,Tamil Nadu,West,P1043,Football,Sports,Local,8,199,150,111.84,1273.6,378.88,Debit Card,Delivered,152,4,2
+ORD100768,26-01-2025,C1270,Customer_4,Male,38,Vellore,Tamil Nadu,North,P1133,Car,Toys,Local,6,2499,0,1613.18,14994.0,5314.92,Net Banking,Delivered,171,9,7
+ORD100769,16-06-2025,C1038,Customer_37,Male,26,Salem,Tamil Nadu,West,P1274,Train,Toys,Nike,2,199,150,142.48,318.4,33.44,Credit Card,Returned,259,3,4
+ORD100770,21-04-2025,C1043,Customer_48,Female,20,Erode,Tamil Nadu,West,P1199,Robot,Toys,Puma,7,4999,15,3997.98,29744.05,1758.19,Debit Card,Delivered,262,6,1
+ORD100771,27-11-2025,C1179,Customer_277,Male,30,Madurai,Tamil Nadu,South,P1057,Train,Toys,Apple,2,1499,150,1202.47,2698.2,293.26,Net Banking,Returned,130,6,2
+ORD100772,07-03-2025,C1257,Customer_143,Male,41,Salem,Tamil Nadu,West,P1047,Charger,Accessories,Dell,7,299,5,237.31,1988.35,327.18,Debit Card,Delivered,55,3,3
+ORD100773,23-05-2025,C1070,Customer_3,Female,18,Coimbatore,Tamil Nadu,West,P1096,Table,Furniture,Sony,3,4999,20,4227.88,11997.6,-686.04,Credit Card,Delivered,116,5,3
+ORD100774,16-05-2025,C1166,Customer_47,Male,49,Erode,Tamil Nadu,West,P1411,Watch,,Sony,3,1499,10,826.37,4047.3,1568.19,Debit Card,Returned,184,10,3
+ORD100775,31-01-2025,C1082,Customer_80,Male,38,Trichy,Tamil Nadu,Central,P1490,Mouse,Electronics,Samsung,3,9999,10,7311.44,26997.3,5062.98,UPI,Returned,181,2,1
+ORD100776,18-06-2025,C1208,Customer_287,Male,43,Tirunelveli,Tamil Nadu,South,P1303,Bread,Groceries,Nike,2,999,0,806.7,1998.0,384.6,UPI,Delivered,54,8,4
+ORD100777,28-03-2025,C1198,Customer_44,Female,36,Tirunelveli,Tamil Nadu,South,P1041,Chair,Furniture,Dell,3,4999,10,4091.55,13497.3,1222.65,Debit Card,Cancelled,49,3,3
+ORD100778,15-06-2025,C1195,,Male,40,Salem,Tamil Nadu,West,P1131,Sunglasses,Accessories,Puma,3,299,10,164.86,807.3,312.72,Credit Card,Delivered,98,10,3
+ORD100779,06-12-2025,C1148,Customer_56,Male,24,Chennai,Tamil Nadu,North,P1469,Charger,Accessories,Dell,4,999,20,825.2,3196.8,-104.0,Net Banking,Cancelled,94,8,4
+ORD100780,12-08-2025,C1285,Customer_100,Female,59,Trichy,Tamil Nadu,Central,P1052,Bottle,Home,LG,1,9999,15,7902.33,8499.15,596.82,Credit Card,Returned,236,9,2
+ORD100781,29-05-2025,C1076,Customer_26,Male,28,Vellore,Tamil Nadu,North,P1274,Charger,Accessories,Local,8,299,5,200.89,2272.4,665.28,UPI,Returned,227,6,3
+ORD100782,28-02-2025,C1201,Customer_257,Male,50,Tirunelveli,Tamil Nadu,South,P1119,Bottle,Home,Dell,1,299,10,187.94,269.1,81.16,Debit Card,Delivered,194,8,2
+ORD100783,12-07-2025,C1224,Customer_144,Male,44,Coimbatore,Tamil Nadu,West,P1321,Table,Furniture,Nike,5,9999,10,8027.74,44995.5,4856.8,UPI,Cancelled,216,2,3
+ORD100784,23-01-2025,C1024,Customer_110,Female,20,Tirunelveli,Tamil Nadu,South,P1163,Cap,Clothing,Dell,4,299,20,204.63,956.8,138.28,UPI,Delivered,173,9,5
+ORD100785,28-12-2025,C1276,Customer_191,Female,50,Coimbatore,Tamil Nadu,West,P1340,Rice,Groceries,Samsung,1,499,15,380.71,424.15,43.44,Credit Card,Returned,140,10,3
+ORD100786,02-10-2025,C1035,Customer_264,Male,62,Coimbatore,Tamil Nadu,West,P1280,Robot,Toys,Sony,3,499,20,350.85,1197.6,145.05,Cash,Returned,54,6,5
+ORD100787,04-05-2025,C1029,Customer_59,Male,47,Coimbatore,Tamil Nadu,West,P1384,Mixer,,Puma,2,2499,15,1636.45,4248.3,975.4,Net Banking,Delivered,43,4,1
+ORD100788,08-11-2025,C1078,Customer_27,Male,37,Erode,Tamil Nadu,West,P1262,Football,Sports,Nike,4,199,5,113.42,756.2,302.52,Debit Card,Delivered,70,2,5
+ORD100789,31-03-2025,C1203,Customer_113,Male,25,Trichy,Tamil Nadu,Central,P1388,Cooker,Home,Sony,3,4999,10,2865.33,13497.3,4901.31,Cash,Returned,51,9,5
+ORD100790,19-07-2025,C1032,Customer_108,Male,48,Tirunelveli,Tamil Nadu,South,P1287,Doll,Toys,Local,8,2499,10,2085.92,17992.8,1305.44,Net Banking,Delivered,177,2,3
+ORD100791,24-06-2025,C1271,Customer_166,Female,61,Coimbatore,Tamil Nadu,West,P1412,Yoga Mat,Sports,Sony,6,9999,5,8042.78,56994.3,8737.62,Credit Card,Delivered,72,2,4
+ORD100792,30-11-2025,C1300,Customer_270,Male,53,Tirunelveli,Tamil Nadu,South,P1291,Football,Sports,Boat,2,1499,0,1157.13,2998.0,683.74,Net Banking,Delivered,110,8,4
+ORD100793,02-06-2025,C1260,Customer_89,Male,27,Trichy,Tamil Nadu,Central,P1065,Mixer,Home,Nike,2,799,15,523.19,1358.3,311.92,Cash,Delivered,190,7,1
+ORD100794,27-06-2025,C1008,Customer_51,Female,27,Erode,Tamil Nadu,West,P1093,Cupboard,Furniture,HP,8,4999,15,4149.77,33993.2,795.04,Cash,Cancelled,147,7,1
+ORD100795,01-02-2025,C1001,Customer_254,Female,25,Tirunelveli,Tamil Nadu,South,P1334,Sunglasses,Accessories,Dell,1,199,20,117.7,159.2,41.5,UPI,Returned,87,10,4
+ORD100796,17-01-2025,C1151,Customer_114,Female,52,Tirunelveli,Tamil Nadu,South,P1397,Laptop,Electronics,LG,1,2499,10,1551.63,2249.1,697.47,Cash,Delivered,247,9,3
+ORD100797,28-05-2025,C1065,Customer_157,Female,55,Coimbatore,Tamil Nadu,West,P1160,Printer,Electronics,Samsung,4,999,20,686.65,3196.8,450.2,Debit Card,Delivered,84,5,5
+ORD100798,20-07-2025,C1099,Customer_261,Male,25,Coimbatore,Tamil Nadu,West,P1332,Notebook,Books,Local,8,799,20,457.74,5113.6,1451.68,Cash,Delivered,57,3,5
+ORD100799,23-11-2025,C1040,Customer_136,Female,65,Tirunelveli,Tamil Nadu,South,P1195,Dictionary,,Samsung,7,2499,0,1811.9,17493.0,4809.7,UPI,Returned,87,4,7
+ORD100800,18-09-2025,C1042,Customer_42,Male,30,Erode,Tamil Nadu,West,P1379,Mixer,Home,Dell,-3,499,10,405.23,3592.8,350.96,Cash,Delivered,48,4,1
+ORD100801,08-09-2025,C1022,Customer_250,Female,46,Chennai,Tamil Nadu,North,P1240,Blocks,Toys,LG,6,2499,0,2027.21,14994.0,2830.74,Net Banking,Delivered,252,9,3
+ORD100802,15-07-2025,C1171,Customer_130,Male,31,Salem,Tamil Nadu,West,P1475,Headphones,Electronics,Dell,1,199,10,161.21,179.1,17.89,Cash,Returned,235,6,5
+ORD100803,27-02-2025,C1113,Customer_44,Female,20,Vellore,Tamil Nadu,North,P1096,Bed,Furniture,Boat,1,4999,5,3771.61,4749.05,977.44,UPI,Delivered,268,8,4
+ORD100804,25-08-2025,C1049,Customer_291,Female,65,Madurai,Tamil Nadu,South,P1033,Mixer,Home,HP,6,999,5,582.38,5694.3,2200.02,Debit Card,Delivered,45,5,1
+ORD100805,21-03-2025,C1256,Customer_17,Male,57,Chennai,Tamil Nadu,North,P1170,Face Wash,Beauty,HP,5,2499,10,1537.98,11245.5,3555.6,Debit Card,Returned,288,9,3
+ORD100806,20-01-2025,C1173,Customer_235,Male,39,Trichy,Tamil Nadu,Central,P1246,Yoga Mat,Sports,Apple,7,2499,20,1802.75,13994.4,1375.15,Debit Card,Returned,94,10,4
+ORD100807,09-12-2025,C1253,Customer_300,Female,19,Vellore,Tamil Nadu,North,P1282,Blocks,Toys,Puma,4,1499,0,840.28,5996.0,2634.88,Debit Card,Cancelled,201,4,2
+ORD100808,13-12-2025,C1263,Customer_164,Male,48,Vellore,Tamil Nadu,North,P1201,Printer,,Sony,3,9999,5,5619.68,28497.15,11638.11,Credit Card,Delivered,66,5,5
+ORD100809,05-08-2025,C1161,Customer_65,Male,21,Tirunelveli,Tamil Nadu,South,P1328,Bread,Groceries,LG,6,799,20,579.29,3835.2,359.46,Credit Card,Returned,241,10,1
+ORD100810,12-08-2025,C1218,Customer_282,Female,44,Vellore,Tamil Nadu,North,P1012,Jeans,,HP,4,999,0,556.64,3996.0,1769.44,Cash,Delivered,290,9,7
+ORD100811,28-11-2025,C1280,Customer_245,Male,59,Madurai,Tamil Nadu,South,P1267,Bag,Accessories,Puma,6,799,5,585.84,4554.3,1039.26,Cash,Cancelled,186,4,4
+ORD100812,18-06-2025,C1048,Customer_90,Male,65,Erode,Tamil Nadu,West,P1352,Puzzle,Toys,Samsung,3,299,15,196.14,762.45,174.03,UPI,Delivered,144,3,3
+ORD100813,23-04-2025,C1071,Customer_100,Male,56,Trichy,Tamil Nadu,Central,P1407,Mixer,Home,Puma,3,999,15,724.38,2547.45,374.31,Net Banking,Delivered,232,1,3
+ORD100814,22-03-2025,C1276,Customer_105,Female,45,Madurai,Tamil Nadu,South,P1374,Sugar,Groceries,Apple,6,2499,5,1837.23,14244.3,3220.92,UPI,Delivered,196,9,5
+ORD100815,27-07-2025,C1283,Customer_96,Female,33,Erode,Tamil Nadu,West,P1290,Face Wash,Beauty,Puma,8,9999,20,8182.93,63993.6,-1469.84,Debit Card,Delivered,97,10,1
+ORD100816,18-03-2025,C1090,Customer_198,Femle,39,Vellore,Tamil Nadu,North,P1377,Table,Furniture,Nike,2,499,0,351.38,998.0,295.24,Debit Card,Delivered,117,5,2
+ORD100817,15-02-2025,C1033,Customer_45,Female,53,Coimbatore,Tamil Nadu,West,P1049,Lamp,Home,Sony,8,199,15,120.08,1353.2,392.56,UPI,Delivered,263,10,4
+ORD100818,27-06-2025,C1030,Customer_202,Male,38,Erode,Tamil Nadu,West,P1087,Keyboard,Electronics,Samsung,6,2499,15,2011.06,12744.9,678.54,Net Banking,Delivered,102,9,1
+ORD100819,04-11-2025,C1179,Customer_13,Female,32,Erode,Tamil Nadu,West,P1360,Eggs,Groceries,HP,3,499,5,422.48,1422.15,154.71,Credit Card,Delivered,253,10,4
+ORD100820,01-11-2025,C1161,,Male,45,Salem,Tamil Nadu,West,P1243,Cream,Beauty,Boat,8,9999,5,8252.75,75992.4,9970.4,Net Banking,Delivered,90,5,3
+ORD100821,03-09-2025,C1069,Customer_158,Female,48,Vellore,Tamil Nadu,North,P1024,Laptop,Electronics,Local,3,999,5,753.55,2847.15,586.5,Net Banking,Delivered,96,9,3
+ORD100822,10-06-2025,C1190,Customer_158,Male,38,Salem,Tamil Nadu,West,P1173,Blocks,Toys,Boat,5,9999,15,8014.14,42495.75,2425.05,UPI,Returned,132,1,3
+ORD100823,05-05-2025,C1109,Customer_80,Female,32,Chennai,Tamil Nadu,North,P1445,Shoes,Sports,LG,8,199,15,145.74,1353.2,187.28,Debit Card,Cancelled,185,2,5
+ORD100824,18-08-2025,C1165,Customer_169,Female,42,Vellore,Tamil Nadu,North,P1036,Laptop,Electronics,Samsung,7,4999,20,3183.86,27994.4,5707.38,Debit Card,Delivered,238,2,3
+ORD100825,25-03-2025,C1029,Customer_270,Male,49,Madurai,Tamil Nadu,South,P1225,Python Book,,Dell,4,2499,10,2105.82,8996.4,573.12,Cash,Delivered,195,1,1
+ORD100826,25-09-2025,C1184,Customer_34,Male,20,Erode,Tamil Nadu,West,P1177,Sunglasses,Accessories,Nike,2,2499,20,1904.58,3998.4,189.24,Debit Card,Cancelled,238,5,3
+ORD100827,19-07-2025,C1086,Customer_51,Female,38,Coimbatore,Tamil Nadu,West,P1030,Shampoo,Beauty,Local,1,999,15,758.27,849.15,90.88,Debit Card,Delivered,217,5,5
+ORD100828,12-07-2025,C1159,Customer_7,Female,32,Tirunelveli,Tamil Nadu,South,P1185,Belt,Accessories,Local,3,499,20,401.72,1197.6,-7.56,Net Banking,Returned,189,5,2
+ORD100829,08-05-2025,C1253,Customer_31,Female,50,Vellore,Tamil Nadu,North,P1389,Chair,Furniture,Local,5,4999,20,2927.01,19996.0,5360.95,Credit Card,Delivered,162,10,2
+ORD100830,19-06-2025,C1120,Customer_192,Female,44,Chennai,Tamil Nadu,North,P1157,Milk,Groceries,HP,5,4999,5,4213.44,23745.25,2678.05,Cash,Delivered,142,7,2
+ORD100831,22-05-2025,C1282,Customer_248,Male,36,Salem,Tamil Nadu,West,P1139,Shoes,Sports,HP,1,999,0,835.0,999.0,164.0,Credit Card,Delivered,152,6,4
+ORD100832,29-12-2025,C1110,Customer_295,Male,59,Erode,Tamil Nadu,West,P1339,Cooker,Home,Puma,7,299,10,197.92,1883.7,498.26,Credit Card,Cancelled,83,9,4
+ORD100833,07-06-2025,C1271,Customer_209,Female,18,Erode,Tamil Nadu,West,P1268,Headphones,Electronics,Puma,7,4999,5,4099.4,33243.35,4547.55,UPI,Delivered,224,10,4
+ORD100834,11-08-2025,C1272,Customer_46,Male,49,Trichy,Tamil Nadu,Central,P1463,Lotion,Beauty,Boat,5,999,10,558.41,4495.5,1703.45,Cash,Cancelled,122,3,1
+ORD100835,24-06-2025,C1160,Customer_174,Male,32,Vellore,Tamil Nadu,North,P1427,Milk,Groceries,LG,1,9999,15,6723.31,8499.15,1775.84,Cash,Cancelled,156,10,4
+ORD100836,26-12-2025,C1295,Customer_27,Male,57,Vellore,Tamil Nadu,North,P1293,Bread,Groceries,Apple,6,199,15,121.07,1014.9,288.48,UPI,Returned,192,8,3
+ORD100837,18-04-2025,C1299,Customer_67,Female,21,Vellore,Tamil Nadu,North,P1268,Bag,Accessories,Dell,8,499,0,319.25,3992.0,1438.0,UPI,Returned,62,3,1
+ORD100838,20-10-2025,C1177,Customer_112,Female,34,Erode,Tamil Nadu,West,P1005,Wallet,Accessories,Sony,4,1499,10,1122.27,5396.4,907.32,Credit Card,Delivered,128,6,4
+ORD100839,03-04-2025,C1148,,Male,32,Salem,Tamil Nadu,West,P1221,Jeans,Clothing,Local,2,4999,20,3753.96,7998.4,490.48,UPI,Delivered,149,3,4
+ORD100840,14-04-2025,C1169,Customer_274,Female,25,Salem,Tamil Nadu,West,P1306,Tennis Ball,Sports,Nike,1,999,5,657.22,949.05,291.83,Cash,Cancelled,265,1,4
+ORD100841,01-08-2025,C1216,Customer_78,Female,42,Erode,Tamil Nadu,West,P1273,Lamp,Home,Sony,5,999,10,823.26,4495.5,379.2,Net Banking,Delivered,260,2,3
+ORD100842,29-07-2025,C1190,Customer_86,Male,40,Erode,Tamil Nadu,West,P1210,Novel,,LG,4,1499,5,963.76,5696.2,1841.16,UPI,Cancelled,265,1,1
+ORD100843,05-03-2025,C1071,Customer_223,Male,62,Tirunelveli,Tamil Nadu,South,P1396,Bed,Furniture,Sony,8,799,10,531.73,5752.8,1498.96,Credit Card,Delivered,192,4,1
+ORD100844,21-01-2025,C1126,Customer_120,Female,18,Erode,Tamil Nadu,West,P1436,Cooker,Home,Puma,5,199,150,132.67,895.5,232.15,Credit Card,Cancelled,59,6,5
+ORD100845,17-01-2025,C1157,Customer_113,Female,61,Trichy,Tamil Nadu,Central,P1246,Sugar,Groceries,HP,1,2499,5,1612.06,2374.05,761.99,Cash,Delivered,90,5,1
+ORD100846,24-04-2025,C1198,Customer_158,Male,55,Vellore,Tamil Nadu,North,P1365,Perfume,Beauty,HP,7,799,0,523.7,5593.0,1927.1,UPI,Cancelled,111,4,2
+ORD100847,07-04-2025,C1027,Customer_169,Female,43,Chennai,Tamil Nadu,North,P1012,Cooker,Home,Puma,4,999,5,653.32,3796.2,1182.92,Debit Card,Cancelled,143,8,2
+ORD100848,22-10-2025,C1075,Customer_104,Female,24,Coimbatore,Tamil Nadu,West,P1320,Cap,Clothing,Samsung,7,2499,10,1942.27,15743.7,2147.81,Net Banking,Delivered,54,1,1
+ORD100849,19-03-2025,C1071,Customer_146,Female,57,Trichy,Tamil Nadu,Central,P1037,Keyboard,Electronics,Sony,4,199,10,127.68,716.4,205.68,Credit Card,Delivered,267,2,2
+ORD100850,01-04-2025,C1092,Customer_162,Male,34,Tirunelveli,Tamil Nadu,South,P1298,Curtain,Home,LG,5,2499,10,2103.0,11245.5,730.5,Credit Card,Delivered,256,5,2
+ORD100851,08-09-2025,C1141,Customer_234,Male,50,Madurai,Tamil Nadu,South,P1321,Train,Toys,Boat,8,2499,5,1648.07,18992.4,5807.84,Cash,Returned,206,4,1
+ORD100852,04-01-2025,C1134,Customer_52,Female,27,Salem,Tamil Nadu,West,P1158,Monitor,Electronics,Dell,1,499,15,317.1,424.15,107.05,Net Banking,Cancelled,142,10,4
+ORD100853,02-02-2025,C1292,Customer_46,Male,35,Tirunelveli,Tamil Nadu,South,P1443,Yoga Mat,Sports,Samsung,6,4999,10,3775.73,26994.6,4340.22,Net Banking,Delivered,87,3,5
+ORD100854,30-11-2025,C1025,Customer_231,Female,37,Chennai,Tamil Nadu,North,P1480,Bag,Accessories,Boat,7,299,0,208.26,2093.0,635.18,Net Banking,Returned,246,8,5
+ORD100855,01-09-2025,C1222,,Male,40,Erode,Tamil Nadu,West,P1206,Car,Toys,Samsung,7,799,0,563.17,5593.0,1650.81,UPI,Cancelled,43,6,4
+ORD100856,15-09-2025,C1127,Customer_22,Female,49,Chennai,Tamil Nadu,North,P1169,Wallet,Accessories,Apple,8,2499,0,1570.21,19992.0,7430.32,Credit Card,Delivered,153,10,5
+ORD100857,04-09-2025,C1021,Customer_6,Female,64,Vellore,Tamil Nadu,North,P1337,Curtain,Home,Puma,8,499,10,323.93,3592.8,1001.36,Net Banking,Cancelled,176,7,5
+ORD100858,14-08-2025,C1147,Customer_2,Female,30,Madurai,Tamil Nadu,South,P1492,Blocks,Toys,Nike,4,9999,5,6893.01,37996.2,10424.16,UPI,Delivered,78,8,1
+ORD100859,28-08-2025,C1232,Customer_112,Male,18,Chennai,Tamil Nadu,North,P1177,Bed,Furniture,LG,4,999,20,748.07,3196.8,204.52,Cash,Returned,270,5,3
+ORD100860,08-07-2025,C1121,Customer_107,Male,51,Vellore,Tamil Nadu,North,P1213,Desk,Furniture,LG,8,499,5,396.26,3792.4,622.32,Debit Card,Cancelled,69,2,1
+ORD100861,24-05-2025,C1010,Customer_108,Male,49,Tirunelveli,Tamil Nadu,South,P1390,Shampoo,Beauty,Puma,6,4999,5,2801.03,28494.3,11688.12,Cash,Cancelled,81,4,3
+ORD100862,01-08-2025,C1157,Customer_241,Male,22,Madurai,Tamil Nadu,South,P1416,Car,Toys,Local,8,999,0,753.25,7992.0,1966.0,Net Banking,Delivered,218,4,4
+ORD100863,14-05-2025,C1039,Customer_247,Female,62,Trichy,Tamil Nadu,Central,P1294,Cream,Beauty,Apple,5,199,10,151.47,895.5,138.15,UPI,Delivered,191,5,3
+ORD100864,14-09-2025,C1159,Customer_253,Female,30,Chennai,Tamil Nadu,North,P1245,Robot,Toys,Puma,8,9999,20,6869.43,63993.6,9038.16,Credit Card,Delivered,274,8,5
+ORD100865,01-02-2025,C1042,Customer_69,Female,53,Salem,Tamil Nadu,West,P1261,Shoes,Clothing,Samsung,6,9999,0,6977.76,59994.0,18127.44,Credit Card,Cancelled,140,1,7
+ORD100866,07-01-2025,C1026,Customer_26,Female,31,Coimbatore,Tamil Nadu,West,P1485,Mouse,Electronics,HP,5,499,20,368.16,1996.0,155.2,UPI,Delivered,187,3,3
+ORD100867,06-04-2025,C1239,Customer_66,Female,22,Chennai,Tamil Nadu,North,P1189,Shoes,,LG,6,2499,10,1559.19,13494.6,4139.46,Debit Card,Cancelled,173,6,3
+ORD100868,20-07-2025,C1110,Customer_187,Male,42,Erode,Tamil Nadu,West,P1451,Bottle,Home,Boat,1,4999,5,2982.8,4749.05,1766.25,Net Banking,Returned,206,7,2
+ORD100869,25-11-2025,C1289,Customer_10,Female,33,Trichy,Tamil Nadu,Central,P1060,Rice,Groceries,Nike,8,799,15,567.08,5433.2,896.56,Cash,Delivered,293,6,1
+ORD100870,31-07-2025,C1180,Customer_269,Female,49,Vellore,Tamil Nadu,North,P1357,SQL Book,Books,Puma,5,9999,20,8177.49,39996.0,-891.45,Cash,Cancelled,98,1,2
+ORD100871,23-12-2025,C1009,Customer_163,Male,36,Chennai,Tamil Nadu,North,P1491,Soap,Beauty,HP,6,299,10,205.99,1614.6,378.66,Debit Card,Delivered,205,4,1
+ORD100872,22-09-2025,C1140,Customer_90,Male,63,Vellore,Tamil Nadu,North,P1469,Mouse,Electronics,HP,6,499,5,422.93,2844.3,306.72,Net Banking,Cancelled,44,2,3
+ORD100873,15-05-2025,C1072,Customer_195,Male,34,Salem,Tamil Nadu,West,P1267,Shampoo,Beauty,HP,7,999,5,767.76,6643.35,1269.03,Cash,Delivered,169,9,5
+ORD100874,13-10-2025,C1226,Customer_130,Male,52,Tirunelveli,Tamil Nadu,South,P1485,Curtain,Home,HP,3,999,10,776.67,2697.3,367.29,UPI,Delivered,75,7,2
+ORD100875,17-03-2025,C1224,Customer_59,Female,53,Trichy,Tamil Nadu,Central,P1092,Watch,Accessories,Puma,4,4999,15,3601.62,16996.6,2590.12,Credit Card,Delivered,69,6,5
+ORD100876,02-05-2025,C1110,Customer_187,Male,28,Tirunelveli,Tamil Nadu,South,P1316,Doll,Toys,Sony,4,799,20,588.11,2556.8,204.36,Debit Card,Returned,179,6,3
+ORD100877,17-11-2025,C1125,Customer_169,Female,55,Chennai,Tamil Nadu,North,P1150,Curtain,Home,HP,3,999,20,590.86,2397.6,625.02,Credit Card,Delivered,51,4,3
+ORD100878,01-02-2025,C1136,Customer_295,Female,48,Vellore,Tamil Nadu,North,P1352,Yoga Mat,Sports,Apple,4,1499,15,969.79,5096.6,1217.44,Cash,Delivered,275,4,1
+ORD100879,01-08-2025,C1207,Customer_215,Male,22,Salem,Tamil Nadu,West,P1032,Monitor,Electronics,Samsung,7,4999,20,4060.43,27994.4,-428.61,Net Banking,Delivered,52,1,2
+ORD100880,06-09-2025,C1185,Customer_104,Male,18,Madurai,Tamil Nadu,South,P1272,Jersey,Sports,Puma,1,9999,15,7842.29,8499.15,656.86,Debit Card,Delivered,89,1,1
+ORD100881,11-11-2025,C1021,Customer_278,Male,61,Coimbatore,Tamil Nadu,West,P1122,Football,Sports,Puma,7,799,5,484.12,5313.35,1924.51,UPI,Delivered,187,6,4
+ORD100882,25-12-2025,C1098,Customer_271,Female,65,Chennai,Tamil Nadu,North,P1306,Watch,Accessories,Nike,7,299,20,237.18,1674.4,14.14,UPI,Cancelled,179,9,3
+ORD100883,12-09-2025,C1110,Customer_262,Female,48,Tirunelveli,Tamil Nadu,South,P1465,Headphones,Electronics,LG,8,9999,20,5982.83,63993.6,16130.96,Credit Card,Delivered,262,2,1
+ORD100884,13-09-2025,C1104,Customer_288,Female,20,Chennai,Tamil Nadu,North,P1235,Laptop,Electronics,Local,7,299,5,198.72,1988.35,597.31,UPI,Delivered,47,2,1
+ORD100885,13-11-2025,C1013,Customer_41,Male,26,Coimbatore,Tamil Nadu,West,P1186,Puzzle,Toys,Puma,5,999,0,721.06,4995.0,1389.7,Credit Card,Delivered,134,7,3
+ORD100886,23-12-2025,C1075,,Male,41,Tirunelveli,Tamil Nadu,South,P1392,Table,Furniture,Boat,8,199,0,167.73,1592.0,250.16,Cash,Cancelled,139,8,4
+ORD100887,19-03-2025,C1005,Customer_162,Male,59,Coimbatore,Tamil Nadu,West,P1398,Bottle,Home,Sony,7,2499,10,1551.52,15743.7,4883.06,Net Banking,Delivered,178,3,4
+ORD100888,31-08-2025,C1039,Customer_266,Female,27,Coimbatore,Tamil Nadu,West,P1445,Data Science Book,Books,Nike,1,1499,5,933.55,1424.05,490.5,Credit Card,Returned,240,6,2
+ORD100889,29-06-2025,C1127,Customer_55,Male,48,Trichy,Tamil Nadu,Central,P1453,Novel,Books,Puma,2,199,5,112.44,378.1,153.22,Cash,Returned,126,6,4
+ORD100890,09-08-2025,C1160,Customer_94,Female,42,Trichy,Tamil Nadu,Central,P1025,Python Book,Books,Apple,3,299,0,164.83,897.0,402.51,Debit Card,Cancelled,189,5,1
+ORD100891,05-07-2025,C1292,Customer_256,Male,44,Trichy,Tamil Nadu,Central,P1016,Jeans,Clothing,Nike,7,299,20,198.24,1674.4,286.72,Cash,Delivered,171,3,5
+ORD100892,03-03-2025,C1137,Customer_97,Male,43,Coimbatore,Tamil Nadu,West,P1104,Chair,Furniture,LG,1,299,0,195.58,299.0,103.42,Net Banking,Delivered,210,7,2
+ORD100893,26-02-2025,C1103,Customer_279,Female,55,Vellore,Tamil Nadu,North,P1463,Laptop,Electronics,Samsung,3,4999,20,2870.97,11997.6,3384.69,Debit Card,Returned,243,7,3
+ORD100894,07-09-2025,C1274,Customer_243,Male,46,Madurai,Tamil Nadu,South,P1372,Monitor,Electronics,Dell,5,199,15,127.01,845.75,210.7,Debit Card,Delivered,136,8,1
+ORD100895,06-05-2025,C1117,Customer_39,Male,36,Chennai,Tamil Nadu,North,P1292,Eggs,Groceries,Samsung,5,199,5,157.48,945.25,157.85,Net Banking,Delivered,249,8,2
+ORD100896,02-11-2025,C1192,Customer_239,Male,54,Vellore,Tamil Nadu,North,P1260,Wallet,Accessories,Apple,7,999,15,593.18,5944.05,1791.79,Cash,Cancelled,230,8,5
+ORD100897,11-07-2025,C1255,Customer_80,Male,30,Vellore,Tamil Nadu,North,P1106,Mouse,Electronics,LG,4,499,20,337.66,1596.8,246.16,Net Banking,Delivered,157,2,5
+ORD100898,12-07-2025,C1021,Customer_287,Female,48,Madurai,Tamil Nadu,South,P1242,Cupboard,Furniture,Puma,2,2499,5,2121.13,4748.1,505.84,Cash,Delivered,63,7,1
+ORD100899,03-07-2025,C1036,Customer_5,Female,45,Trichy,Tamil Nadu,Central,P1088,Cupboard,Furniture,Puma,7,1499,20,1196.49,8394.4,18.97,UPI,Returned,191,7,4
+ORD100900,13-06-2025,C1144,Customer_136,Male,30,Vellore,Tamil Nadu,North,P1081,SQL Book,Books,Apple,2,9999,15,6870.81,16998.3,3256.68,Debit Card,Delivered,98,10,3
+ORD100901,12-10-2025,C1134,Customer_150,Male,65,Vellore,Tamil Nadu,North,P1097,Shoes,Sports,Nike,6,199,5,123.16,1134.3,395.34,Net Banking,Cancelled,211,4,2
+ORD100902,14-03-2025,C1200,Customer_261,Male,62,Vellore,Tamil Nadu,North,P1045,Cooker,Home,LG,5,1499,5,1053.06,7120.25,1854.95,Debit Card,Delivered,223,8,2
+ORD100903,21-05-2025,C1092,Customer_101,Female,42,Vellore,Tamil Nadu,North,P1237,Headphones,Electronics,Dell,2,499,5,284.1,948.1,379.9,Debit Card,Delivered,176,7,5
+ORD100904,25-08-2025,C1243,Customer_190,Female,22,Salem,Tamil Nadu,West,P1315,Cupboard,Furniture,Apple,4,499,20,367.91,1596.8,125.16,Debit Card,Cancelled,150,1,3
+ORD100905,20-08-2025,C1007,Customer_273,Male,40,Erode,Tamil Nadu,West,P1117,Cooker,Home,Samsung,7,799,15,669.96,4754.05,64.33,Cash,Delivered,220,5,2
+ORD100906,27-09-2025,C1264,Customer_161,Male,61,Erode,Tamil Nadu,West,P1246,Novel,Books,Dell,8,299,20,233.45,1913.6,46.0,UPI,Returned,176,1,2
+ORD100907,14-03-2025,C1039,Customer_198,Male,40,Tirunelveli,Tamil Nadu,South,P1116,SQL Book,Books,Boat,8,299,20,177.59,1913.6,492.88,Debit Card,Cancelled,242,4,3
+ORD100908,06-05-2025,C1225,Customer_20,Female,18,Salem,Tamil Nadu,West,P1414,Cooker,Home,Samsung,6,4999,10,3491.32,26994.6,6046.68,UPI,Cancelled,40,10,5
+ORD100909,21-05-2025,C1086,Customer_186,Male,39,Trichy,Tamil Nadu,Central,P1073,Eggs,Groceries,LG,5,799,10,524.44,3595.5,973.3,Cash,Delivered,257,3,1
+ORD100910,11-12-2025,C1113,Customer_261,Male,18,Coimbatore,Tamil Nadu,West,P1442,Dictionary,Books,Samsung,3,499,15,389.67,1272.45,103.44,UPI,Returned,95,4,4
+ORD100911,25-02-2025,C1006,Customer_237,Male,31,Coimbatore,Tamil Nadu,West,P1027,Perfume,Beauty,Nike,3,799,0,496.66,2397.0,907.02,UPI,Cancelled,181,4,5
+ORD100912,26-08-2025,C1045,Customer_150,Male,37,Chennai,Tamil Nadu,North,P1034,Jeans,Clothing,Apple,5,799,15,483.89,3395.75,976.3,UPI,Delivered,180,10,5
+ORD100913,11-03-2025,C1190,Customer_51,Male,56,Tirunelveli,Tamil Nadu,South,P1063,Bed,Furniture,Sony,4,799,150,634.79,2556.8,17.64,Cash,Cancelled,162,9,3
+ORD100914,05-09-2025,C1199,Customer_224,Female,29,Tirunelveli,Tamil Nadu,South,P1318,Fan,Home,Dell,1,999,5,804.87,949.05,144.18,Debit Card,Delivered,283,9,1
+ORD100915,24-07-2025,C1250,Customer_191,Female,61,Salem,Tamil Nadu,West,P1390,Rice,Groceries,Dell,1,299,15,179.12,254.15,75.03,Net Banking,Delivered,77,2,4
+ORD100916,22-01-2025,C1113,Customer_215,Male,29,Trichy,Tamil Nadu,Central,P1091,Table,Furniture,Boat,2,4999,0,3005.59,9998.0,3986.82,Credit Card,Cancelled,102,2,4
+ORD100917,22-01-2025,C1094,Customer_22,Female,19,Tirunelveli,Tamil Nadu,South,P1147,Cupboard,Furniture,Local,6,799,0,509.74,4794.0,1735.56,Debit Card,Delivered,224,8,5
+ORD100918,03-11-2025,C1198,Customer_129,Male,39,Coimbatore,Tamil Nadu,West,P1175,Train,Toys,HP,5,499,20,282.52,1996.0,583.4,Cash,Cancelled,161,8,1
+ORD100919,12-03-2025,C1159,Customer_12,Female,35,Madurai,Tamil Nadu,South,P1262,Desk,Furniture,Sony,2,499,0,339.84,998.0,318.32,Debit Card,Delivered,174,10,2
+ORD100920,30-03-2025,C1289,Customer_8,Female,20,Madurai,Tamil Nadu,South,P1302,Robot,Toys,Dell,2,999,10,777.15,1798.2,243.9,Cash,Returned,222,2,4
+ORD100921,25-10-2025,C1213,Customer_179,Male,32,Tirunelveli,Tamil Nadu,South,P1074,SQL Book,Books,Dell,6,499,15,298.09,2544.9,756.36,Debit Card,Returned,59,6,3
+ORD100922,22-03-2025,C1299,Customer_284,Female,42,Vellore,Tamil Nadu,North,P1036,SQL Book,Books,LG,5,4999,5,3263.63,23745.25,7427.1,Net Banking,Delivered,115,3,1
+ORD100923,21-10-2025,C1116,Customer_121,Female,43,Trichy,Tamil Nadu,Central,P1155,Cream,Beauty,Samsung,3,499,15,286.14,1272.45,414.03,Net Banking,Delivered,248,10,4
+ORD100924,06-10-2025,C1216,Customer_204,Male,30,Erode,Tamil Nadu,West,P1161,Milk,Groceries,Samsung,6,499,5,288.6,2844.3,1112.7,UPI,Returned,65,3,2
+ORD100925,15-02-2025,C1003,Customer_227,Male,32,Tirunelveli,Tamil Nadu,South,P1172,Watch,Accessories,Dell,8,1499,5,1055.31,11392.4,2949.92,Credit Card,Cancelled,225,1,4
+ORD100926,23-06-2025,C1273,Customer_42,Male,64,Trichy,Tamil Nadu,Central,P1003,Cricket Bat,Sports,LG,-1,2499,0,2032.74,19992.0,3730.08,Debit Card,Returned,69,3,4
+ORD100927,25-06-2025,C1057,Customer_267,Female,32,Erode,Tamil Nadu,West,P1314,Dictionary,Books,Puma,8,4999,0,3572.9,39992.0,11408.8,UPI,Delivered,254,6,3
+ORD100928,10-03-2025,C1172,Customer_264,Female,59,Salem,Tamil Nadu,West,P1251,Blocks,Toys,Puma,1,199,20,145.49,159.2,13.71,Credit Card,Delivered,49,8,5
+ORD100929,29-04-2025,C1119,Customer_141,Female,32,Salem,Tamil Nadu,West,P1030,Mouse,Electronics,Puma,6,4999,20,3705.21,23995.2,1763.94,Credit Card,Delivered,209,10,2
+ORD100930,29-07-2025,C1220,Customer_298,Female,42,Coimbatore,Tamil Nadu,West,P1486,Cream,Beauty,Apple,4,1499,15,963.43,5096.6,1242.88,UPI,Delivered,237,8,4
+ORD100931,28-06-2025,C1227,Customer_175,Male,54,Tirunelveli,Tamil Nadu,South,P1462,Fan,,Samsung,3,799,15,641.51,2037.45,112.92,Credit Card,Returned,81,7,3
+ORD100932,02-09-2025,C1103,Customer_84,Female,39,Erode,Tamil Nadu,West,P1029,Bread,Groceries,Puma,5,9999,15,5751.46,42495.75,13738.45,UPI,Delivered,128,1,1
+ORD100933,19-02-2025,C1217,Customer_170,Femle,55,Vellore,Tamil Nadu,North,P1378,Sugar,Groceries,Local,-2,299,15,223.53,1016.6,122.48,UPI,Delivered,78,9,2
+ORD100934,01-10-2025,C1042,Customer_236,Female,19,Tirunelveli,Tamil Nadu,South,P1357,Python Book,Books,Samsung,5,199,10,122.41,895.5,283.45,Credit Card,Returned,274,6,3
+ORD100935,17-11-2025,C1273,Customer_243,Female,35,Salem,Tamil Nadu,West,P1263,Sofa,Furniture,Nike,6,499,15,296.09,2544.9,768.36,Net Banking,Delivered,231,10,1
+ORD100936,26-08-2025,C1081,Customer_45,Male,50,Madurai,Tamil Nadu,South,P1094,Face Wash,Beauty,HP,2,2499,15,2067.0,4248.3,114.3,UPI,Delivered,164,3,3
+ORD100937,26-08-2025,C1111,Customer_294,Male,44,Tirunelveli,Tamil Nadu,South,P1306,Soap,Beauty,HP,5,799,5,612.75,3795.25,731.5,Debit Card,Returned,187,1,5
+ORD100938,24-05-2025,C1045,Customer_291,Female,24,Madurai,Tamil Nadu,South,P1386,Mouse,Electronics,Samsung,5,999,0,556.88,4995.0,2210.6,UPI,Delivered,241,3,4
+ORD100939,17-02-2025,C1136,Customer_294,Male,42,Salem,Tamil Nadu,West,P1112,Bread,Groceries,HP,6,199,0,166.33,1194.0,196.02,UPI,Delivered,178,4,5
+ORD100940,09-09-2025,C1206,Customer_203,Male,34,Salem,Tamil Nadu,West,P1373,Robot,Toys,LG,3,999,5,561.72,2847.15,1161.99,UPI,Delivered,212,6,3
+ORD100941,28-09-2025,C1039,Customer_271,Female,49,Tirunelveli,Tamil Nadu,South,P1424,Sunglasses,Accessories,Apple,6,299,20,240.59,1435.2,-8.34,Net Banking,Cancelled,186,4,2
+ORD100942,31-05-2025,C1147,,Male,34,Coimbatore,Tamil Nadu,West,P1138,Soap,Beauty,HP,2,1499,0,868.22,2998.0,1261.56,Cash,Delivered,178,3,3
+ORD100943,05-03-2025,C1074,Customer_19,Female,53,Coimbatore,Tamil Nadu,West,P1305,SQL Book,Books,Samsung,1,1499,15,862.38,1274.15,411.77,UPI,Returned,165,8,4
+ORD100944,03-08-2025,C1083,Customer_283,Male,31,Coimbatore,Tamil Nadu,West,P1294,Data Science Book,Books,Sony,3,1499,5,1145.28,4272.15,836.31,UPI,Cancelled,180,1,4
+ORD100945,17-10-2025,C1100,Customer_74,Female,38,Trichy,Tamil Nadu,Central,P1159,Chair,Furniture,Nike,6,299,20,246.32,1435.2,-42.72,Debit Card,Cancelled,260,2,3
+ORD100946,05-12-2025,C1029,Customer_86,Male,26,Vellore,Tamil Nadu,North,P1089,Bread,Groceries,LG,7,2499,20,1862.46,13994.4,957.18,Debit Card,Delivered,120,2,5
+ORD100947,07-10-2025,C1279,Customer_214,Female,31,Chennai,Tamil Nadu,North,P1396,Novel,Books,Nike,7,799,0,629.54,5593.0,1186.22,Cash,Delivered,80,2,1
+ORD100948,26-07-2025,C1243,Customer_102,Female,35,Tirunelveli,Tamil Nadu,South,P1335,Perfume,Beauty,Samsung,6,4999,10,2911.32,26994.6,9526.68,Net Banking,Cancelled,126,5,5
+ORD100949,23-07-2025,C1178,Customer_172,Male,49,Vellore,Tamil Nadu,North,P1098,Puzzle,Toys,Nike,4,799,0,619.7,3196.0,717.2,Credit Card,Delivered,220,1,2
+ORD100950,30-08-2025,C1135,Customer_106,Female,37,Tirunelveli,Tamil Nadu,South,P1184,Cap,Clothing,Puma,3,199,20,156.59,477.6,7.83,UPI,Delivered,118,3,5
+ORD100951,23-07-2025,C1213,Customer_56,Male,25,Madurai,Tamil Nadu,South,P1308,Bag,Accessories,Apple,3,2499,15,1984.84,6372.45,417.93,Debit Card,Returned,231,8,2
+ORD100952,07-06-2025,C1058,Customer_287,Male,29,Madurai,Tamil Nadu,South,P1100,Perfume,Beauty,Nike,5,199,5,125.73,945.25,316.6,UPI,Delivered,275,5,2
+ORD100953,29-09-2025,C1081,Customer_112,Male,18,Trichy,Tamil Nadu,Central,P1274,Bread,Groceries,Sony,4,799,10,449.43,2876.4,1078.68,Cash,Delivered,54,4,3
+ORD100954,16-09-2025,C1130,Customer_262,Female,38,Chennai,Tamil Nadu,North,P1337,Jeans,Clothing,Sony,7,2499,20,1666.6,13994.4,2328.2,Net Banking,Delivered,279,8,5
+ORD100955,10-03-2025,C1024,Customer_256,Male,35,Erode,Tamil Nadu,West,P1135,Cream,Beauty,Samsung,2,1499,20,840.18,2398.4,718.04,Debit Card,Returned,268,3,2
+ORD100956,19-06-2025,C1049,Customer_271,Female,21,Erode,Tamil Nadu,West,P1207,Bag,Accessories,Dell,6,2499,5,1524.9,14244.3,5094.9,Debit Card,Delivered,293,4,5
+ORD100957,01-05-2025,C1069,Customer_35,Female,45,Tirunelveli,Tamil Nadu,South,P1302,Cricket Bat,Sports,HP,2,199,5,126.88,378.1,124.34,Debit Card,Returned,167,5,1
+ORD100958,11-12-2025,C1071,Customer_15,Male,29,Coimbatore,Tamil Nadu,West,P1101,Eggs,Groceries,Apple,4,999,20,711.24,3196.8,351.84,Cash,Returned,261,7,2
+ORD100959,21-06-2025,C1261,Customer_128,Male,41,Tirunelveli,Tamil Nadu,South,P1187,Bread,Groceries,Local,3,9999,20,7921.19,23997.6,234.03,UPI,Returned,89,8,2
+ORD100960,10-12-2025,C1146,Customer_221,Male,21,Erode,Tamil Nadu,West,P1473,Table,Furniture,Sony,8,1499,20,1039.98,9593.6,1273.76,UPI,Delivered,86,5,5
+ORD100961,26-10-2025,C1048,Customer_262,Male,57,Tirunelveli,Tamil Nadu,South,P1414,Printer,Electronics,Local,4,1499,10,1170.25,5396.4,715.4,Debit Card,Delivered,266,3,5
+ORD100962,22-10-2025,C1168,,Female,42,Trichy,Tamil Nadu,Central,P1314,Novel,Books,Apple,4,9999,0,7261.29,39996.0,10950.84,Debit Card,Delivered,229,9,1
+ORD100963,06-04-2025,C1223,Customer_96,Male,20,Madurai,Tamil Nadu,South,P1172,Mixer,Home,Sony,2,999,20,725.64,1598.4,147.12,UPI,Delivered,256,8,2
+ORD100964,17-02-2025,C1259,Customer_85,Femle,34,Vellore,Tamil Nadu,North,P1434,Sugar,Groceries,Nike,6,999,10,716.82,5394.6,1093.68,UPI,Delivered,278,3,3
+ORD100965,10-08-2025,C1000,Customer_75,Female,23,Erode,Tamil Nadu,West,P1243,Chair,Furniture,HP,5,1499,20,852.35,5996.0,1734.25,Net Banking,Delivered,80,4,3
+ORD100966,03-08-2025,C1010,Customer_146,Male,60,Chennai,Tamil Nadu,North,P1067,Bed,Furniture,Samsung,8,999,5,701.37,7592.4,1981.44,Cash,Delivered,183,3,2
+ORD100967,09-12-2025,C1219,Customer_238,Male,27,Vellore,Tamil Nadu,North,P1283,Headphones,Electronics,HP,3,4999,0,2986.9,14997.0,6036.3,Debit Card,Cancelled,187,5,2
+ORD100968,20-05-2025,C1196,Customer_122,Male,61,Erode,Tamil Nadu,West,P1333,Cooker,Home,Puma,6,799,5,458.68,4554.3,1802.22,UPI,Delivered,115,10,4
+ORD100969,04-08-2025,C1290,Customer_111,Female,26,Madurai,Tamil Nadu,South,P1380,Cupboard,Furniture,Nike,3,9999,15,7217.01,25497.45,3846.42,Debit Card,Cancelled,92,6,5
+ORD100970,17-12-2025,C1197,Customer_65,Male,33,Tirunelveli,Tamil Nadu,South,P1281,Shirt,Clothing,Dell,4,299,20,239.77,956.8,-2.28,Net Banking,Delivered,197,5,4
+ORD100971,07-05-2025,C1013,Customer_3,Male,20,Tirunelveli,Tamil Nadu,South,P1150,Face Wash,Beauty,Nike,3,499,10,297.21,1347.3,455.67,Credit Card,Returned,233,2,4
+ORD100972,28-11-2025,C1226,Customer_44,Female,25,Erode,Tamil Nadu,West,P1199,T-Shirt,Clothing,Nike,-1,499,5,291.59,1422.15,547.38,Net Banking,Delivered,148,6,2
+ORD100973,27-01-2025,C1161,Customer_206,Female,44,Vellore,Tamil Nadu,North,P1051,Lotion,Beauty,LG,1,799,0,502.19,799.0,296.81,Debit Card,Cancelled,270,8,3
+ORD100974,21-07-2025,C1260,Customer_95,Female,63,Tirunelveli,Tamil Nadu,South,P1152,Curtain,Home,Local,8,199,0,163.56,1592.0,283.52,Net Banking,Delivered,133,2,4
+ORD100975,22-07-2025,C1190,Customer_274,Male,30,Vellore,Tamil Nadu,North,P1416,Bottle,Home,HP,7,499,15,278.53,2969.05,1019.34,Cash,Delivered,255,10,3
+ORD100976,06-09-2025,C1014,Customer_143,Female,35,Coimbatore,Tamil Nadu,West,P1070,SQL Book,Books,Sony,7,799,20,610.9,4474.4,198.1,Debit Card,Cancelled,51,6,1
+ORD100977,15-05-2025,C1112,Customer_84,Male,62,Salem,Tamil Nadu,West,P1184,Milk,Groceries,LG,2,9999,20,5773.07,15998.4,4452.26,Credit Card,Delivered,258,7,2
+ORD100978,22-09-2025,C1000,Customer_198,Female,51,Coimbatore,Tamil Nadu,West,P1458,Sugar,Groceries,LG,5,1499,10,1238.47,6745.5,553.15,UPI,Cancelled,117,6,5
+ORD100979,28-01-2025,C1260,Customer_168,Female,54,Trichy,Tamil Nadu,Central,P1283,Doll,Toys,Nike,2,9999,0,5806.33,19998.0,8385.34,Credit Card,Returned,195,6,5
+ORD100980,05-07-2025,C1030,Customer_254,Male,27,Salem,Tamil Nadu,West,P1265,Belt,Accessories,Boat,7,2499,20,1536.52,13994.4,3238.76,Debit Card,Delivered,170,6,5
+ORD100981,02-05-2025,C1260,Customer_191,Mle,40,Tirunelveli,Tamil Nadu,South,P1288,Doll,Toys,Local,6,4999,20,2867.35,23995.2,6791.1,Credit Card,Delivered,171,3,3
+ORD100982,21-04-2025,C1114,Customer_266,Male,34,Chennai,Tamil Nadu,North,P1229,Yoga Mat,Sports,Local,8,1499,15,1262.78,10193.2,90.96,UPI,Delivered,71,3,4
+ORD100983,27-01-2025,C1043,Customer_161,Female,54,Coimbatore,Tamil Nadu,West,P1414,SQL Book,Books,Apple,8,799,5,667.62,6072.4,731.44,UPI,Delivered,62,5,2
+ORD100984,03-03-2025,C1135,Customer_231,Male,52,Erode,Tamil Nadu,West,P1458,Jacket,Clothing,Puma,3,2499,0,1996.32,7497.0,1508.04,Net Banking,Returned,122,6,2
+ORD100985,05-04-2025,C1255,Customer_218,Female,52,Coimbatore,Tamil Nadu,West,P1304,Bread,Groceries,Sony,3,499,5,391.53,1422.15,247.56,Credit Card,Delivered,43,7,1
+ORD100986,29-10-2025,C1009,Customer_88,Female,22,Erode,Tamil Nadu,West,P1311,Oil,Groceries,Apple,4,1499,10,1190.09,5396.4,636.04,Cash,Cancelled,53,10,4
+ORD100987,07-07-2025,C1102,Customer_76,Female,18,Salem,Tamil Nadu,West,P1070,Bread,Groceries,Dell,7,9999,20,7422.62,55994.4,4036.06,Cash,Delivered,283,9,4
+ORD100988,31-13-2025,C1055,Customer_55,Female,28,Madurai,Tamil Nadu,South,P1416,Bed,Furniture,Boat,1,4999,15,4246.81,4249.15,2.34,Cash,Returned,209,6,3
+ORD100989,04-03-2025,C1051,Customer_82,Male,24,Salem,Tamil Nadu,West,P1142,Rice,Groceries,LG,6,9999,15,8344.7,50994.9,926.7,Credit Card,Delivered,268,8,4
+ORD100990,19-12-2025,C1213,Customer_163,Female,62,Chennai,Tamil Nadu,North,P1496,Python Book,Books,Apple,3,1499,0,880.45,4497.0,1855.65,UPI,Delivered,108,6,1
+ORD100991,10-09-2025,C1190,Customer_192,Female,34,Salem,Tamil Nadu,West,P1183,Tennis Ball,Sports,Puma,4,299,20,187.27,956.8,207.72,Debit Card,Delivered,276,3,5
+ORD100992,10-06-2025,C1045,Customer_98,Female,18,Salem,Tamil Nadu,West,P1360,Monitor,Electronics,Boat,1,4999,10,3014.39,4499.1,1484.71,Credit Card,Returned,157,9,4
+ORD100993,11-02-2025,C1269,Customer_55,Female,21,Vellore,Tamil Nadu,North,P1341,Python Book,Books,Sony,5,799,5,606.36,3795.25,763.45,Credit Card,Returned,197,5,1
+ORD100994,24-12-2025,C1151,Customer_41,Female,22,Trichy,Tamil Nadu,Central,P1135,Tennis Ball,Sports,Nike,5,499,20,320.3,1996.0,394.5,Credit Card,Delivered,268,10,5
+ORD100995,18-08-2025,C1095,Customer_170,Mle,39,Madurai,Tamil Nadu,South,P1082,Cream,Beauty,Apple,8,999,5,808.03,7592.4,1128.16,UPI,Delivered,122,6,2
+ORD100996,18-04-2025,C1268,Customer_245,Male,51,Coimbatore,Tamil Nadu,West,P1334,Belt,Accessories,Boat,5,799,5,529.36,3795.25,1148.45,UPI,Delivered,132,5,4
+ORD100997,01-07-2025,C1288,Customer_14,Male,62,Trichy,Tamil Nadu,Central,P1262,Cupboard,Furniture,Dell,1,9999,10,7261.04,8999.1,1738.06,Net Banking,Returned,134,10,4
+ORD100998,30-12-2025,C1149,,Male,57,Trichy,Tamil Nadu,Central,P1223,Doll,Toys,Boat,8,299,20,169.03,1913.6,561.36,UPI,Delivered,172,7,2
+ORD100999,20-10-2025,C1261,Customer_95,Female,62,Chennai,Tamil Nadu,North,P1315,Robot,Toys,Nike,8,199,20,160.08,1273.6,-7.04,Credit Card,Delivered,181,6,3
+ORD101000,17-03-2025,C1221,Customer_177,Male,20,Erode,Tamil Nadu,West,P1198,Data Science Book,Books,Apple,4,4999,20,3630.34,15996.8,1475.44,Net Banking,Cancelled,52,6,5
+ORD100001,14-07-2025,C1274,Customer_288,Female,39,Chennai,Tamil Nadu,North,P1436,Python Book,Books,Dell,7,999,0,800.75,6993.0,1387.75,Credit Card,Delivered,59,6,5
+ORD100002,05-02-2025,C1003,Customer_162,Female,24,Erode,Tamil Nadu,West,P1463,Oil,Groceries,Dell,1,2499,150,2033.16,2499.0,465.84,UPI,Delivered,233,3,1
+ORD100003,25-06-2025,C1267,Customer_248,Male,56,Trichy,Tamil Nadu,Central,P1327,Cream,Beauty,Apple,8,999,15,800.55,6793.2,388.8,Net Banking,Delivered,196,1,4
+ORD100004,27-11-2025,C1092,,Female,60,Tirunelveli,Tamil Nadu,South,P1134,Train,Toys,Samsung,8,9999,15,6622.9,67993.2,15010.0,Debit Card,Delivered,56,9,4
+ORD100005,07-01-2025,C1180,Customer_118,Female,52,Coimbatore,Tamil Nadu,West,P1256,Bottle,Home,Dell,6,199,5,144.45,1134.3,267.6,Debit Card,Returned,226,4,5
+ORD100006,22-08-2025,C1098,Customer_11,Female,40,Vellore,Tamil Nadu,North,P1350,Table,Furniture,Puma,8,2499,15,1407.53,16993.2,5732.96,Cash,Returned,108,1,1
+ORD100007,07-02-2025,C1279,Customer_207,Male,38,Coimbatore,Tamil Nadu,West,P1134,Doll,Toys,Boat,2,299,15,244.95,508.3,18.4,UPI,Cancelled,233,6,4
+ORD100008,10-07-2025,C1120,Customer_41,Male,51,Erode,Tamil Nadu,West,P1198,Printer,Electronics,Apple,3,2499,0,1912.52,7497.0,1759.44,Debit Card,Delivered,113,5,4
+ORD100009,10-08-2025,C1031,Customer_70,Female,60,Erode,Tamil Nadu,West,P1010,Cupboard,Furniture,LG,6,9999,0,7388.11,59994.0,15665.34,Cash,Returned,237,5,4
+ORD100010,14-09-2025,C1053,Customer_280,Female,32,Chennai,Tamil Nadu,North,P1457,Cupboard,Furniture,Local,6,9999,20,7169.02,47995.2,4981.08,Debit Card,Delivered,215,5,5
+ORD100011,11-04-2025,C1258,Customer_103,Male,30,Salem,Tamil Nadu,West,P1137,Milk,Groceries,Local,5,2499,0,2077.87,12495.0,2105.65,Credit Card,Delivered,81,10,3
+ORD100012,10-09-2025,C1203,Customer_15,Female,63,Coimbatore,Tamil Nadu,West,P1426,Shoes,Sports,Local,3,9999,5,7857.45,28497.15,4924.8,Cash,Delivered,287,7,2
+ORD100013,20-12-2025,C1026,Customer_185,Female,41,Madurai,Tamil Nadu,South,P1490,Charger,Accessories,Sony,1,4999,10,3792.91,4499.1,706.19,Debit Card,Delivered,102,4,4
+ORD100014,31-03-2025,C1286,Customer_193,Female,22,Erode,Tamil Nadu,West,P1471,Oil,Groceries,Puma,7,199,15,131.86,1184.05,261.03,UPI,Delivered,175,9,5
+ORD100015,05-05-2025,C1228,Customer_137,Female,54,Erode,Tamil Nadu,West,P1292,Monitor,Electronics,LG,1,2499,10,1455.02,2249.1,794.08,Credit Card,Returned,206,9,5
+ORD100016,09-03-2025,C1244,Customer_274,Male,48,Trichy,Tamil Nadu,Central,P1277,Football,Sports,Samsung,3,299,0,202.85,897.0,288.45,Debit Card,Delivered,294,4,5
+ORD100017,19-12-2025,C1032,Customer_130,Female,28,Chennai,Tamil Nadu,North,P1213,Lamp,Home,LG,5,199,10,153.02,895.5,130.4,Cash,Delivered,156,10,1
+ORD100018,05-06-2025,C1255,Customer_240,Male,36,Vellore,Tamil Nadu,North,P1270,Table,Furniture,HP,1,999,20,599.18,799.2,200.02,UPI,Returned,139,10,5
+ORD100019,26-02-2025,C1030,Customer_292,Female,59,Trichy,Tamil Nadu,Central,P1223,Eggs,Groceries,Apple,2,2499,15,1972.54,4248.3,303.22,Debit Card,Delivered,269,8,2
+ORD100020,06-01-2025,C1211,Customer_165,Male,20,Salem,Tamil Nadu,West,P1473,Oil,Groceries,Nike,1,799,5,457.05,759.05,302.0,Cash,Delivered,53,3,3
